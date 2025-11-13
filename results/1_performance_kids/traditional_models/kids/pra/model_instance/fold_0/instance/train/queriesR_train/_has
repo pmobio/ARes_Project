@@ -1,0 +1,1782 @@
+c$proton#SPACE#motive#SPACE#force#SPACE#dependent#SPACE#protein#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$tatC c$aroP c$tatB c$tatA
+c$ATP#SPACE#binding	c$znuC c$ybiT c$rbsA c$fhuC c$thiQ c$udk c$lon c$mglA c$pfkA c$xylG c$modF c$malK c$glnQ c$oppF c$asnB c$tauB c$btuD c$bcsQ c$mutS c$pdxY c$gltL c$tcyN c$bioD c$cysN c$gsiA c$rhaB c$ybjD c$gluQ c$yhdZ c$oppD c$tyrR c$murC c$purD c$livG c$uspF c$hisP c$clpX c$lptB c$lysU c$yajQ c$purL c$hrpA c$ytfR c$dbpA c$secA c$recD c$alsA c$clpA c$ugpC c$pheS c$rcsC c$adk c$gyrA c$minD c$yddA c$nrdR c$cysS c$nikD c$basS c$glnB c$mutL c$mdlA c$asnA c$yejF c$hflX c$phnK c$ssuB c$sapD c$macB c$afuC c$proV c$ftsH c$tbpA c$nrdD c$asnS c$aspS c$lysS c$fecE c$msbA c$mlaF c$thiL c$ftsA c$aceK c$kdpB c$yehX c$yegD c$epmA c$potA c$hscA c$dnaK c$mdlB c$dppF c$gyrB c$ydcT c$cysA c$modC c$nadK c$tsaC c$atoS c$thrS c$sbmA c$nikE c$thiF c$cas3 c$metN c$radD c$phoH c$dppD c$hscC c$parC c$nrdA c$glnE c$recB c$pheT c$purK c$lolD c$ispE c$groL c$mukB c$srkA c$fepC c$ymjB c$livF c$glyS c$pstB c$sapF c$hipA c$potG c$yojI c$carB c$ftsE
+c$drug#SEMICOLON#proton#SPACE#antiporter#SPACE#activity	c$mdtC c$mdtB c$mdfA c$emrE c$mdtM c$acrD c$acrB
+c$endoribonuclease#SPACE#activity#COMMA##SPACE#producing#SPACE#3'-phosphomonoesters	c$yoeB c$yafQ c$ybeY
+c$sulfur#SPACE#carrier#SPACE#activity	c$tusE c$fdhD c$iscS c$sufE c$tusA c$tusD
+c$protein#SPACE#binding	c$ycfP c$rutR c$bolA c$fkpA c$lon c$yqjD c$iscS c$ycgR c$degP c$hslU c$guaC c$tsf c$rapZ c$rbsR c$secY c$yrfF c$cysK c$melB c$bamE c$ybgC c$fhuB c$rep c$rnlA c$yeiW c$hemA c$yhaV c$rpoD c$rimM c$recN c$recA c$clpP c$lipB c$acrB c$sucD c$pal c$ybeD c$gsk c$cbeA c$tolQ c$yjjW c$tolC c$rfaH c$rplA c$ybeY c$metE c$aceE c$thiH c$deaD c$ybjN c$nfuA c$pgaD c$rpmF c$rseA c$hypE c$nrdD c$mrcB c$paoC c$sbcD c$purA c$ychF c$proW c$fliG c$lptC c$kdpB c$galE c$hfq c$mlrA c$proQ c$rfaD c$dnaC c$pka c$srmB c$dnaK c$frsA c$pflA c$hchA c$cbpA c$gyrB c$tcdA c$atpA c$rseB c$ppiB c$bfr c$ftsN c$yidC c$dsbB c$lysA c$waaC c$lpoB c$rplO c$pspC c$yciB c$infC c$ccmE c$fdnG c$tolB c$zapB c$cedA c$dsbA c$mtfA c$recB c$rplB c$rnhA c$selA c$fis c$pheT c$cysD c$narW c$narZ c$recC c$cysJ c$glnG c$hslV c$ssuE c$ydhK c$torS c$dnaJ c$fliA c$bamB c$ftsE c$slyD c$xerC c$secB c$ybiT c$ahpC c$dnaN c$surA c$eutN c$bamC c$rplN c$ttdA c$iscU c$ydcP c$yfaX c$atpD c$nuoE c$ispB c$pyrB c$gspE c$malK c$sdhE c$tpiA c$hupA c$napF c$kdgR c$slt c$rof c$yejG c$fkpB c$hns c$xseA c$dosC c$tatC c$fimC c$trg c$yebV c$acrA c$dmsB c$htpG c$fhuD c$lpp c$hybO c$yeeW c$tusA c$rzpR c$ubiF c$aroB c$relE c$rcsF c$cspG c$cpxR c$mngA c$yacL c$yehT c$mlc c$hyaB c$hybG c$lamB c$mdtO c$gss c$gyrA c$tonB c$fdhE c$ruvC c$pta c$envZ c$citC c$tolR c$dnaX c$mog c$hypC c$pepT c$ibpB c$ubiG c$viaA c$aroH c$araC c$ybdL c$dcm c$fabF c$rpoB c$hcxA c$tatB c$glnL c$clpB c$rsgA c$atpC c$dctA c$ftsH c$ybdM c$ftsL c$nusB c$eutQ c$mlaF c$fliF c$melA c$pdeR c$lptA c$dnaA c$uvrA c$rihA c$acrZ c$grpE c$pspA c$nlpI c$ydcY c$ybeZ c$uvrB c$gloA c$torD c$hscA c$crr c$xseB c$bamA c$arcA c$hlpA c$preA c$bamD c$pflB c$nusG c$hemL c$sspA c$mlaA c$sixA c$ompC c$ynfE c$sxy c$yhjB c$kdpE c$astE c$yheS c$mhpF c$tatA c$nfsA c$cyaY c$sbcC c$cobB c$yciU c$glyS c$clpS c$rimP c$trxA c$yhfK c$hipA c$atpG c$carB c$rpoA c$lolE c$mfd c$pntB c$acrR c$fliM c$topAI c$marR c$rbsA c$moaE c$ompA c$hypD c$yejK c$cyaA c$secG c$aceF c$vsr c$dinJ c$aidB c$moeA c$yggR c$ygcP c$lptE c$flgK c$abpB c$frlD c$ybfE c$cheY c$dnaT c$mazG c$paoA c$rnk c$aspA c$lpd c$hepA c$ppk c$galR c$cpxA c$ndk c$glnD c$sucC c$dgcJ c$rho c$entA c$ugd c$allR c$frdB c$cptA c$abgB c$lipA c$yihI c$recF c$slmA c$nrdI c$mgrB c$rpsF c$rnb c$ptsH c$zapA c$ftsX c$mltB c$pgaC c$dpiA c$dinG c$rpe c$asnC c$hslO c$rpsK c$aes c$acpP c$seqA c$mutH c$fliT c$fdx c$minC c$crl c$dpiB c$ybhK c$intQ c$ada c$iraP c$fixA c$obgE c$casC c$dgcN c$mzrA c$yjhQ c$metK c$osmY c$mreC c$thiG c$metN c$ycdX c$roxA c$cytR c$prmA c$folA c$lrp c$yafQ c$fldA c$sufA c$tsaE c$groL c$mukB c$crp c$ilvB c$phnI c$pstB c$dps c$dcuS c$ispA c$tufA c$rnr c$evgA c$blr c$eno c$ydhR c$ptsG c$glyA c$yfgM c$entH c$mukF c$ybcN c$leuD c$btuD c$nuoC c$fdhF c$insO-1 c$btuC c$chbB c$fbaA c$rsuA c$cusB c$raiA c$panC c$fetA c$pyrF c$pntA c$hipB c$ssuD c$ydaW c$pykA c$ccmC c$flgN c$cbpM c$holA c$iscA c$minD c$sucA c$stpA c$yegS c$fau c$narH c$dnaQ c$dnaG c$yahB c$macB c$fbaB c$ypjF c$umuC c$proV c$yhbU c$rpsB c$hyaA c$carA c$ynfF c$def c$ybgD c$groS c$exbB c$rnlB c$gltD c$paaG c$sdhB c$ulaR c$priB c$helD c$yfaU c$sufC c$rpoZ c$hypA c$rluB c$ybaY c$yoeB c$mntR c$recQ c$preT c$bglG c$malG c$paaF c$argK c$mutT c$torI c$yhfG c$ccmB c$casE c$mqsA c$hyaD c$accB c$cho c$cnu c$ilvN c$narJ c$lpoA c$tolA c$iraD c$nikR c$rbbA c$ybhF c$fic c$hupB c$queC c$malE c$mltA c$holB c$fixB c$ccmD c$mocA c$fixX c$ftsI c$dgcM c$cysN c$hprS c$phnG c$rluD c$secE c$osmE c$trxB c$relB c$holC c$atoA c$casA c$napA c$degS c$ycbX c$fdoG c$yfcD c$rraB c$zapC c$kdpD c$mukE c$glnK c$rpoE c$caiC c$phnJ c$fepA c$napD c$eco c$rbsC c$mutL c$ppiC c$zapD c$fliN c$cydA c$mglB c$rne c$cyoB c$ftsA c$tpx c$dosP c$hycG c$mreB c$nemR c$rpmA c$uvrD c$ompF c$scpA c$narG c$hypF c$rpsG c$fliD c$era c$macA c$mnmG c$malT c$narY c$thrS c$rssB c$kdsB c$bglJ c$malX c$malY c$damX c$gltB c$metG c$rpsD c$rplW c$sbcB c$tnaA c$lpxB c$glpK c$mrcA c$pyrI c$plsB c$nth c$manA c$flxA c$tig c$frdA c$ycdY c$argG c$rhsC c$sufS c$ftsK c$hha c$aaeB c$murC c$dinB c$phoU c$pldB c$accA c$rsd c$yeeA c$cas1 c$gstB c$tsaB c$clpA c$paoD c$adk c$nuoG c$umuD c$dhaL c$ompW c$rcsB c$rplK c$leuC c$kdpC c$proX c$glnB c$accD c$murQ c$hcaD c$holE c$phoA c$ftsW c$mobA c$purT c$holD c$purR c$ribA c$hybE c$spoT c$moaD c$recT c$mtgA c$glcC c$nrdF c$torC c$pepP c$paoB c$rpsR c$zipA c$paaC c$hflD c$abpA c$rpoH c$mazF c$rpsJ c$ccmA c$dnaB c$hslR c$dmsD c$rstA c$iraM c$cydB c$kduI c$yafJ c$rpsE c$entB c$paaX c$sufE c$rplC c$sufB c$ygdG c$matP c$nuoK c$aqpZ c$yfdR c$ssb c$ynbD c$ung c$ravA c$malF c$ldcC c$sapF c$dhaK c$dnaE c$mnmE c$recX c$mobB c$infA c$rfbC c$syd c$yqgF c$glpR c$ccmH c$secD c$rpoC c$chbA c$yhbQ c$insX c$ynbC c$rhlB c$mreD c$abgA c$bfd c$mhpE c$cheA c$priA c$pheS c$uspG c$ymgF c$cas2 c$ftsB c$hda c$nusA c$ispG c$gatY c$cbtA c$cadA c$ldtA c$grxD c$menB c$diaA c$ccmF c$pbpC c$pnp c$moeB c$glyQ c$mltG c$mepS c$bioB c$rbsB c$sspB c$hscB c$tfaE c$hycE c$csdE c$ftsZ c$exbD c$rplD c$rpsL c$cheW c$rodZ c$ppsR c$mqsR c$tsaD c$glmS c$csdA c$tufB c$panZ c$ibpA c$pinR c$tar c$cpoB c$hyfG c$rlmL c$ptsN c$miaB c$priC c$flgM c$gspH c$brnQ c$hflK c$sdhA c$iscX c$rsfS c$cadC c$yeeD c$fimH c$intA c$sucB c$typA c$sufD c$infB c$frr c$yajQ c$sulA c$rlmN c$secA c$yccS c$yoaA c$cheZ c$fhlA c$sfsA c$sdaA c$ptsI c$ypdF c$lptD c$torA c$dicB c$ftsQ c$dmsA c$fdhD c$zapE c$minE c$metI c$mdtB c$hisB c$yaiI c$ppa c$rplV c$crfC c$hscC c$parC c$galS c$mdtC c$hypB c$gadA c$rraA c$accC c$ruvB c$acnB c$gltA c$lacY c$dacB c$rpmB
+c$magnesium#SPACE#ion#SPACE#binding	c$suhB c$gmhB c$hpt c$pdxA c$galU c$eno c$thiE c$pfkA c$apt c$ycjU c$nudE c$selD c$ppsA c$cheY c$nadR c$mocA c$leuB c$entC c$bioD c$speG c$ilvC c$ycaO c$pyrE c$murC c$glmU c$phoU c$pabB c$yqaB c$lysU c$nudB c$gph c$aroK c$thyA c$rfe c$ribB c$umpH c$adk c$ybhA c$dmlA c$dhaL c$cysQ c$sucA c$gshB c$trmD c$prpB c$yrfG c$ptsI c$poxB c$citE c$ybjI c$menF c$phoA c$dgt c$rnt c$yigB c$gmm c$mobA c$rne c$yieH c$dut c$thiL c$dosP c$prs c$lacZ c$menA c$pck c$rdgB c$cof c$icd c$ispD c$ulaD c$serB c$nudF c$proB c$pfkB c$ppa c$hxpB c$hxpA c$metK c$glcB c$oxc c$ilvI c$nudK c$tsaD c$entB c$thiF c$kdsB c$serS c$cas3 c$yihX c$valS c$folK c$gcd c$galK c$aroL c$glgC c$glnE c$panB c$yieE c$mutT c$yigL c$ygdG c$pheT c$ybiV c$rffH c$groL c$hemB c$sbcB c$ispU c$ugpQ c$yidA c$hipA c$otsB c$gudD
+c$transcription#SPACE#regulatory#SPACE#region#SPACE#sequence-specific#SPACE#DNA#SPACE#binding	c$ompR c$rstA c$kdpE c$creB c$baeR c$phoP c$phoB c$mraZ c$hns c$basR c$stpA c$cusR c$cpxR c$cytR c$torR c$hypT c$qseB c$yedW c$arcA
+c$response#SPACE#to#SPACE#antibiotic	c$ompR c$dsbC c$yeeZ c$wzzE c$yfjI c$yfeD c$ygeO c$tfaX c$bcr c$hpt c$lpxM c$fkpA c$yhfL c$gspM c$yhdP c$yidE c$yegT c$ybdD c$lon c$yiaF c$ybdR c$gpmM c$yfgC c$iscS c$degP c$ycdZ c$yhdN c$phoE c$ycjU c$hslU c$hemX c$rfaE c$yjbH c$ypdB c$guaC c$narU c$ptrB c$ydjI c$npr c$anmK c$nepI c$rapZ c$yfiE c$rbsR c$ygbK c$rffG c$purE c$rusA c$pyrC c$ycgZ c$hisJ c$melB c$bamE c$ybgC c$rpoN c$ycgX c$phoQ c$rep c$yceG c$cysH c$malS c$fur c$rpoD c$pncA c$folB c$insE-3 c$ohsC c$proK c$hyfF c$recN c$nudB c$purL c$hrpA c$recA c$mlaB c$slyA c$arcB c$clpP c$lipB c$acrB c$ugpC c$flgG c$proA c$sucD c$pal c$ybeD c$yecC c$yceI c$tolQ c$arfA c$tolC c$rfaH c$phoR c$rplA c$serC c$yaaA c$rlpA c$yahN c$ybeY c$ynaK c$aceE c$yhcB c$deaD c$htrE c$yedL c$ybjN c$yfcA c$ybcL c$grcA c$nfuA c$mlaC c$ymdB c$yecR c$nuoM c$potI c$ydaT c$waaP c$rbsD c$nuoB c$pgaD c$rpmF c$phnD c$ydfW c$sapD c$fliZ c$hsrA c$acrE c$dusB c$dadA c$rseA c$yneE c$waaY c$mrcB c$rffC c$ybgL c$nagC c$guaA c$rimK c$purA c$stfR c$rffA c$shoB c$yqaA c$kdpB c$rpoS c$galE c$radA c$hfq c$proQ c$csgG c$rfaD c$ygiB c$mdtM c$nupC c$ybhI c$yidD c$yhcD c$ydjN c$cydX c$yciQ c$srmB c$dnaK c$yjhI c$tusD c$dinI c$fadE c$yqiC c$hchA c$pgl c$cbpA c$ykgA c$yfbP c$rpsU c$ydeU c$waaI c$ampG c$atpA c$rseB c$ppiB c$bfr c$ymfA c$rbsK c$waaQ c$ygjR c$mlaE c$dsbB c$yagP c$hdfR c$yihL c$waaC c$rbn c$tusB c$ackA c$tdcB c$fadD c$ampE c$yfdL c$gmd c$lpoB c$pqqL c$pspC c$yibA c$yobA c$rng c$smtA c$yciB c$ygfZ c$sapC c$purM c$ybaB c$insD-7 c$atpF c$yjhB c$rffE c$tolB c$yciM c$zapB c$cedA c$dsbA c$rsmD c$yajG c$frdD c$mtfA c$dapF c$recB c$ldcA c$rnhA c$djlB c$ybiW c$pcnB c$recG c$atpB c$degQ c$ybiP c$phoP c$queF c$fis c$purK c$yebE c$lpcA c$ruvA c$mtlR c$recC c$mtlD c$guaB c$insE-5 c$glnG c$cysJ c$fepC c$dauA c$cyoA c$fimE c$htpX c$hslV c$yddH c$talB c$yrdA c$yddG c$yfgI c$dacA c$ybjL c$dnaJ c$hicB c$fliA c$dmlR c$yhfW c$yjfP c$bamB c$ydfH c$cvpA c$ulaB c$zntR c$sbmC c$nuoJ c$xerC c$secB c$pyrD c$dedD c$rplI c$prpC c$ydbC c$cpsG c$ydiF c$nudL c$surA c$eutN c$deoB c$gltJ c$galU c$bamC c$hybC c$glxK c$uidA c$thiE c$iscU c$atpD c$dgkA c$uxuR c$nuoE c$artQ c$smpB c$recO c$ratB c$pyrB c$ycbZ c$malK c$hcaR c$prfC c$sdhC c$idnD c$dksA c$yfgG c$hupA c$yciI c$slt c$atpE c$yciT c$wcaF c$lpxL c$chbG c$yneK c$yejG c$fliR c$fkpB c$hinT c$pdxY c$fdoI c$pncB c$hns c$arcZ c$ftnA c$xseA c$fes c$tatC c$waaF c$waaB c$fimC c$yqhG c$yebV c$acrA c$queE c$dmsB c$yifE c$tusC c$appA c$rpsO c$marA c$hemY c$htpG c$gcvA c$fruB c$ygcO c$insE-1 c$gltI c$pyrE c$lpp c$purD c$yhfS c$aroC c$flhB c$cspE c$gsiC c$ridA c$ybbN c$lpxD c$yccA c$mlaD c$ycbC c$lptB c$tusA c$xapR c$rzpR c$htrL c$pinE c$ihfA c$insF-4 c$dedA c$yfaQ c$ubiF c$rcsF c$cpxR c$ymjC c$yaiF c$rfe c$ydcL c$rsmH c$ybcQ c$rcsD c$mlc c$hyaB c$ygfM c$ygdD c$yecT c$proL c$agaR c$tonB c$yebF c$ruvC c$ymfQ c$deoC c$greA c$ampC c$pldA c$ebgR c$glk c$trmH c$pta c$envZ c$csiD c$citC c$tolR c$mog c$asmA c$pepT c$ibpB c$yrfG c$ubiG c$rpmJ c$gor c$ybdL c$rob c$amiC c$ygeR c$dcm c$yejF c$hflX c$yadK c$fabF c$ybjI c$tatB c$yeeO c$yjiY c$glnL c$ytjB c$clpB c$cysB c$yggF c$atpC c$recJ c$dctA c$ycjX c$ftsH c$aroA c$mpl c$yqhA c$nusB c$emrD c$ydjF c$yggT c$feoC c$mlaF c$eutQ c$miaA c$rcbA c$insH-9 c$ybjX c$aceK c$wzxE c$ybeU c$gnsB c$ybjP c$ecnB c$kdpA c$yiaA c$uvrA c$mcaS c$adrA c$acrZ c$pspA c$nlpI c$mdfA c$micM c$ydcY c$queA c$ymdA c$ybgA c$uvrB c$yibF c$cobS c$hscA c$rpiA c$yeiQ c$recR c$wzyE c$ybdG c$agaI c$waaG c$xseB c$qseB c$ddlB c$ydfA c$wcaD c$rlmE c$arcA c$hlpA c$ycbV c$nlpD c$fre c$ninE c$bluR c$pflB c$narL c$ybjJ c$ycaI c$atoS c$wzc c$cmk c$sspA c$mlaA c$rbfA c$entE c$kdpF c$yhiI c$pstS c$nikE c$pstA c$ompC c$yjiS c$umpG c$xapA c$ynfE c$rpmE c$tauA c$glpT c$yqgC c$ydgH c$ylcG c$gfcB c$rffM c$yhjB c$psuK c$elaD c$ybiA c$insD-4 c$fepE c$ytfB c$exuR c$eutE c$bdm c$ompN c$ybdN c$kdpE c$glnA c$hyfA c$ratA c$yfaD c$caiA c$tatA c$ispE c$rffH c$yejM c$ydfJ c$envR c$nfsA c$bglF c$tktA c$cyaY c$mdtJ c$yqcC c$nagA c$cobB c$insD-5 c$yciU c$yeiL c$ubiX c$rimP c$trxA c$yhfK c$hipA c$napG c$uxaB c$yeaH c$atpG c$carB c$mfd c$tfaD c$ydjE c$acrR c$cspA c$gmhB c$fabR c$proP c$moaE c$uidB c$ompA c$pdxA c$qmcA c$cyaA c$yghT c$secG c$fliS c$yghG c$rsmA c$ubiC c$ybfD c$aceF c$ybhQ c$flgC c$yfdG c$pgpC c$flgE c$dinJ c$ycjF c$yciS c$flgF c$ybgQ c$ftsP c$dam c$mngR c$pcm c$galF c$ynaE c$yfaW c$metH c$ygcP c$ybgS c$bglH c$yhjD c$yahC c$flgK c$frlD c$ybfE c$ydeP c$gadX c$mazG c$csiE c$paoA c$yjjY c$gltL c$ymfI c$ylaC c$aspA c$yejO c$insH-4 c$ynhG c$dsdA c$maeA c$yfcV c$ymfT c$rsxA c$wcaI c$uhpT c$lpd c$rcnB c$treA c$yeeX c$hepA c$ydhY c$dcd c$rsmF c$galR c$mepM c$galM c$cpdA c$ybjQ c$psiF c$insE-4 c$ycbK c$cpxA c$dsrB c$ndk c$pdxJ c$yrbL c$cusS c$nagZ c$glnD c$ycgV c$ycfS c$lldP c$luxS c$greB c$clpX c$rho c$mltF c$ugd c$ytfJ c$insH-6 c$yphD c$csgF c$idnK c$yaiS c$lsrA c$yibI c$yfgD c$aroK c$ybgF c$thyA c$elfD c$allR c$ybbB c$gshA c$thiK c$cynT c$xerD c$ycbJ c$ybjO c$cptA c$ydfE c$yifL c$pgi c$glpF c$ymgC c$uvrY c$insH-8 c$rstB c$lipA c$yfjK c$yceK c$yihI c$ycfK c$rayT c$fepG c$recF c$ybfB c$pgpB c$yegV c$ydgD c$slmA c$alaS c$gntK c$mgrB c$ansA c$rpsF c$rnb c$ptsH c$gcvP c$ybiS c$yebZ c$zapA c$atl c$ychJ c$ygfI c$dsdX c$nlpC c$yfiH c$fcl c$ykgD c$pgm c$ybaV c$speB c$mltB c$ybcM c$pgaC c$phnC c$ydhZ c$dpiA c$rnt c$ldhA c$aroE c$dinG c$yhbP c$kefB c$fxsA c$rpe c$rutA c$yceA c$ycjG c$mrp c$fabH c$eamB c$hslO c$idnR c$amiA c$ygiW c$plsX c$treC c$emtA c$rhlE c$seqA c$yidP c$norR c$fdx c$minC c$ydjM c$crl c$galT c$uvrC c$menA c$yfdT c$pspB c$yafD c$cof c$rlmH c$fbp c$apaH c$ybbA c$cysE c$ihfB c$phoB c$ybhK c$cysI c$ybjG c$intQ c$rpmG c$yjgA c$rffD c$arsC c$iraP c$clsA c$ypjC c$ydhS c$fixA c$zwf c$lpxT c$ycdU c$yjhP c$ydcH c$dcuC c$mzrA c$ompG c$yjhQ c$ykgL c$oxc c$purN c$glxR c$ytfK c$ygfS c$yahM c$pinQ c$folA c$eaeH c$ygeA c$yaiV c$leuO c$yedW c$cmtA c$dcuS c$ymbA c$tufA c$gspB c$bioF c$ygcW c$yidH c$ytjC c$ycfT c$ybbY c$deoD c$xapB c$soxS c$yhaJ c$paaY c$deoA c$hcp c$ydfV c$yjgL c$ydiM c$metF c$ybcN c$sfmA c$yceJ c$btuC c$tsx c$ycaM c$ecpR c$chbB c$nhaA c$flgD c$pppA c$pyrF c$lexA c$pntA c$ubiI c$hipB c$yahE c$yfcR c$insF-5 c$yphF c$cra c$tdcD c$yeeN c$fau c$rzpD c$dnaQ c$gcvT c$rluF c$dnaG c$ybjM c$proV c$insH-11 c$hyaA c$ybgD c$sfsB c$pspF c$groS c$insF-3 c$gltD c$paaI c$sohB c$araJ c$ybcY c$insE-2 c$sdhB c$yjhD c$yfdV c$ykfJ c$insC-4 c$yiaB c$ulaD c$cusR c$bssS c$rluB c$rppH c$yfiN c$recQ c$yejE c$bglG c$ygaP c$acrF c$mutT c$ydiY c$ybcW c$yaiY c$ydjG c$yggD c$gfcC c$uspE c$hyaD c$cnu c$ydcX c$yghD c$ygeG c$lpoA c$yjhC c$yfgH c$pykF c$yneJ c$cbrA c$iraD c$hupB c$ybiY c$curA c$prlC c$yehB c$gspG c$gcvH c$hisM c$yncD c$pspE c$cysN c$yraP c$glpE c$rcnA c$ygeY c$yfbM c$insH-2 c$yfjH c$wbbL c$potD c$speD c$trxB c$insD-3 c$yjhU c$yddW c$ykgB c$holC c$napA c$fadR c$chbR c$insC-3 c$tabA c$ydaY c$yidQ c$zapC c$ydhB c$plaP c$kdpD c$yddA c$yciN c$ynjI c$fepA c$rbsC c$ydfP c$yffB c$ycjW c$rrrD c$yigB c$mppA c$dcuR c$ydaN c$dhaR c$cyoB c$yhhA c$yfbN c$nlpA c$dosP c$ais c$yfjR c$uvrD c$dgcZ c$ompF c$insC-6 c$insH-7 c$aroG c$yjfK c$fliD c$mnmG c$rssB c$fimI c$ydhV c$ppiD c$mtlA c$malY c$lrhA c$damX c$efp c$yddK c$rhsE c$tdcC c$arnF c$mrcA c$ypjD c$yqeA c$manA c$yehE c$rfbX c$racC c$ycaN c$tig c$hyi c$ppiA c$mcbA c$apt c$mdh c$kgtP c$elfC c$yhgN c$sgbU c$hha c$ydcA c$ydeK c$insD-1 c$rssA c$yicR c$fucK c$yneH c$yeaQ c$ydhT c$ssuA c$zur c$fryC c$phoU c$dinB c$pldB c$yhiD c$uspF c$yhhL c$flhD c$nuoF c$cas1 c$gstB c$yieK c$tauD c$yaiP c$rcsB c$ompW c$kdpC c$pdhR c$ychO c$dadX c$cydD c$insH-3 c$mdtA c$mdoD c$yhdU c$metJ c$ybgI c$ykgE c$rseC c$yciE c$rsmC c$envY c$serB c$insD-2 c$pgrR c$dnaB c$hslR c$dmsD c$rstA c$cydB c$ndh c$phoH c$oxyR c$insF-1 c$ecpA c$wrbA c$pgaA c$otsA c$yieP c$barA c$yfdR c$yiaV c$deoR c$yjbI c$yeaR c$ybhN c$gltF c$mltD c$yceD c$cadB c$ghrB c$rluC c$trkH c$hemN c$ynjA c$yhjA c$glpR c$yegW c$nanM c$rhaM c$rhlB c$yebO c$bfd c$intE c$hokD c$yhjJ c$atoC c$yfdQ c$yeaJ c$sdaC c$yahL c$gshB c$yiaD c$fhiA c$diaA c$pnp c$fruA c$dcrB c$yjiK c$hyfJ c$yihN c$yfbS c$sspB c$fepD c$ygiL c$hscB c$tfaE c$rspB c$yjjM c$ydeA c$ycjM c$yraI c$yihG c$speA c$exbD c$argO c$yddB c$mdoH c$sthA c$ypjM_2 c$yifK c$yjjL c$insH-1 c$yadV c$tufB c$ydgK c$erfK c$mioC c$pinR c$setB c$ydbD c$yghB c$ybfC c$trmL c$fepB c$focA c$mcbR c$hsdM c$ampD c$yahD c$allC c$chbC c$wzzB c$trkA c$tdk c$hflK c$acpT c$rfbA c$yfcI c$ydcS c$symE c$yfdM c$atoE c$iscX c$fruK c$mutM c$fecA c$yraN c$insC-1 c$ynbB c$yobD c$mdoG c$yfdO c$yihS c$speG c$pdxH c$typA c$hyaC c$ebgC c$ylbH c$ydjK c$sulA c$rlmN c$yraH c$glpD c$allE c$yehR c$dusA c$hsdS c$fhlA c$gadE c$insC-5 c$cobT c$lepA c$yadN c$glpQ c$torA c$polB c$ybcJ c$potH c$csgA c$ygeF c$yeeL c$nuoH c$ybbC c$pstC c$setC c$yhjG c$cobC c$ycfJ c$yidR c$truA c$yeaD c$ymfR c$ybdH c$ade c$intD c$mcrB c$ydiN c$thiF c$ybbM c$udp c$bluF c$pagP c$gadA c$yqgB c$queG c$gcl c$yagK c$frlR c$yidA c$gltA c$lacY
+c$identical#SPACE#protein#SPACE#binding	c$etk c$pdxA c$yejK c$yagE c$yhdE c$cecR c$pykF c$rfbB c$degP c$hupB c$hslU c$hyuA c$guaC c$dnaT c$aspC c$rapZ c$yfbR c$dgcM c$lpd c$tyrB c$galR c$bamE c$kch c$pdxJ c$aroF c$creB c$hemA c$folB c$clpX c$rho c$entA c$fabG c$hypT c$allR c$patA c$clpP c$cynT c$acrB c$proA c$pgi c$katG c$yjfJ c$tolC c$zapC c$dapB c$ftsB c$slmA c$alaS c$hda c$glnK c$lsrR c$argD c$ansA c$fucI c$aceE c$yedX c$gcvP c$ispF c$zapA c$mutL c$cadA c$poxB c$patD c$ubiD c$diaA c$katE c$rbsD c$dgt c$zapD c$pnp c$trpB c$uspA c$hslO c$guaA c$rimK c$lpxA c$rhaD c$seqA c$ftsA c$fliG c$yihU c$rffA c$norR c$minC c$lptC c$galE c$mreB c$upp c$csgG c$moaC c$nrdB c$chbF c$phoB c$ftsZ c$aer c$queD c$exbD c$zwf c$aroG c$bfr c$pfkB c$dgcN c$prlF c$sthA c$macA c$metK c$malT c$dapA c$oxc c$arnA c$codA c$tsaD c$serS c$rhmD c$ppiD c$ibpA c$rffE c$norV c$zapB c$lrp c$fabZ c$nanA c$hdhA c$selA c$rhaA c$degQ c$phoP c$tsaE c$pheT c$aldA c$groL c$mukB c$guaB c$hslV c$tnaA c$fumA c$proC c$yrdA c$gnsA c$mscL c$dcuS c$bamB c$dps c$gnd c$fabI c$ahpC c$dnaN c$galU c$bamC c$nfsB c$tig c$eno c$aroD c$uidA c$iscU c$pfkA c$deoD c$rfbA c$ispB c$gldA c$tpiA c$apt c$glyA c$hupA c$asnB c$entH c$ilvE c$ftsK c$ycaC c$mutS c$pdxY c$hns c$tdcF c$ftnA c$tatC c$acrA c$phnH c$cysC c$yihS c$speG c$htpG c$fliI c$lpp c$glmU c$aroC c$betB c$panC c$baeR c$ridA c$accA c$lpxD c$serA c$frlB c$tilS c$ssuD c$rfe c$secA c$pyrH c$gstB c$pykA c$fklB c$ribB c$tsaB c$hybG c$pepB c$gyrA c$minD c$fhlA c$thiM c$sucA c$gdhA c$trmD c$csiD c$frmA c$dnaX c$mog c$hypC c$ibpB c$slp c$glnB c$murD c$maa c$frlC c$aroH c$ydgA c$lysP c$cpxP c$menE c$hlyE c$hcxA c$cdd c$gmk c$kbaY c$tatB c$glnL c$clpB c$cysB c$macB c$ftsQ c$fbaB c$atoB c$mpl c$coaD c$perR c$csgE c$intS c$purF c$groS c$exbB c$lptA c$pepP c$yjiA c$ybgI c$pspA c$hisC c$srlD c$astC c$paaG c$psuG c$torD c$minE c$moaB c$ltaE c$ispD c$eda c$nagB c$cusR c$yhbO c$proB c$hisB c$arcA c$yeiG c$mhpD c$dnaB c$ansB c$hemL c$gatD c$kduI c$entB c$tesB c$xapA c$udp c$adhE c$cmoB c$wrbA c$glgC c$yicI c$paaF c$panB c$glnA c$torI c$tatA c$feoB c$rffH c$aqpZ c$gcl c$pyrG c$rihB c$ssb c$tesA c$dxr c$ravA c$pepN c$ldcC c$gltA
+c$hydrolase#SPACE#activity#COMMA##SPACE#hydrolyzing#SPACE#O-glycosyl#SPACE#compounds	c$uidA c$ebgA c$lacZ c$mltA c$yieL c$bglB c$bglX c$ascB c$bglA
+c$FAD#SPACE#binding	c$metF c$dld c$xdhB c$trkA c$gcl c$hmp c$ftp c$frdA c$mnmC c$gor c$glpD c$ahpF c$yqjH c$fpr c$fadH
+c$proton-transporting#SPACE#ATPase#SPACE#activity#COMMA##SPACE#rotational#SPACE#mechanism	c$atpD c$atpE c$atpB c$atpF c$atpH c$atpA c$atpG
+c$NAD+#SPACE#kinase#SPACE#activity	c$pfkA c$nadK
+c$peptidoglycan#SPACE#peptide#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$oppF c$oppB c$oppC c$oppD
+c$2#SPACE#iron#COMMA##SPACE#2#SPACE#sulfur#SPACE#cluster#SPACE#binding	c$iscA c$nuoG c$paaE c$hcr c$sufA c$paoA c$bfd c$fhuF c$sdhB c$cyaY c$yfaE c$yeaW c$iscU c$erpA c$hcaC c$prpD c$nuoE c$frdB c$bioB c$fdx c$soxR c$grxD
+c$mismatched#SPACE#DNA#SPACE#binding	c$mutS
+c$iron-sulfur#SPACE#cluster#SPACE#binding	c$narY c$hybO c$ilvD c$preT c$rlmN c$napA c$nrdG c$frdB c$ybiY c$fixC c$iscA c$nuoG c$fdoG c$yjjW c$fdhF c$sdhB c$fnr c$hybA c$pflA c$hcaC c$glpC c$queE c$pflC c$narH c$nirB c$yhcC c$preA
+c$nucleotide#SPACE#binding	c$phnK c$aroE c$macB c$afuC c$cas3 c$lysU c$asnS c$ydiB c$aspS c$lysS c$selB c$radD c$hrpA c$ytfR c$malK c$pheS c$ugpC c$rcsC c$kdpB c$asnB c$epmA c$yddA c$pdxY c$tcyN c$potA c$mdlB c$cysN c$srkA c$ymjB c$glyS c$ydcT c$ybjD c$mdlA c$ilvC c$potG c$yojI c$asnA c$yhdZ c$carB
+c$DNA#SPACE#binding#SPACE#transcription#SPACE#factor#SPACE#activity	c$ompR c$acrR c$glrR c$rutR c$gntR c$cspA c$deoR c$marR c$fabR c$bolA c$sgrR c$mraZ c$yqjI c$feaR c$ydeO c$eutR c$ybhD c$nikR c$aidB c$mngR c$lacI c$glpR c$ypdB c$gadX c$nadR c$ttdR c$rbsR c$pepA c$galR c$ascG c$sdiA c$putA c$tyrR c$creB c$fur c$lldR c$uidR c$relB c$hyfR c$rpiR c$hypT c$tdcR c$slyA c$fadR c$allR c$atoC c$chbR c$uvrY c$yhjC c$murR c$nrdR c$alaS c$lsrR c$dsdX c$ygfI c$nimR c$rtcR c$ybcM c$cbl c$dpiA c$fliZ c$dcuR c$asnC c$idnR c$nagC c$dsdC c$dhaR c$rcdA c$norR c$ygbI c$gutM c$yijO c$nemR c$mlrA c$cueR c$nac c$phoB c$csiR c$ada c$yjhI c$hchA c$ilvY c$puuR c$prlF c$malT c$higA c$hdfR c$xylR c$trpR c$ybiH c$bglJ c$malI c$cytR c$lrhA c$ypdC c$lrp c$nhaR c$phoP c$fis c$leuO c$mtlR c$glnG c$crp c$rhmR c$mcbR c$mhpR c$rcnR c$yedW c$dmlR c$zntR c$uhpA c$lysR c$evgA c$ycaN c$nsrR c$iclR c$uxuR c$soxS c$arsR c$narP c$hcaR c$caiF c$yjjQ c$kdgR c$cadC c$hns c$fucR c$basR c$ecpR c$adiY c$yagI c$iscR c$marA c$nanR c$gcvA c$zur c$betI c$baeR c$zraR c$comR c$mprA c$lexA c$xapR c$treR c$cpxR c$hipB c$yehT c$mlc c$agaR c$gadW c$rcsB c$tdcA c$cra c$fhlA c$gadE c$ebgR c$fnr c$sutR c$abgR c$argR c$stpA c$pdhR c$prpR c$araC c$rob c$allS c$csgD c$cysB c$purR c$yqhC c$perR c$metJ c$appY c$pspF c$melR c$glcC c$yiaJ c$cynR c$ulaR c$envY c$cusR c$qseB c$pgrR c$arcA c$modC c$bluR c$rstA c$narL c$mntR c$hexR c$hprR c$rhaR c$rhaS c$cdaR c$torR c$ydiP c$oxyR c$paaX c$galS c$exuR c$soxR c$phnF c$argP c$kdpE c$metR c$rclR c$envR c$yeiL c$srlR c$yneL
+c$orotidine-5'-phosphate#SPACE#decarboxylase#SPACE#activity	c$pyrF
+c$DNA-7-methylguanine#SPACE#glycosylase#SPACE#activity	c$alkA
+c$arginine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$argO c$adiC
+c$carbohydrate#SPACE#derivative#SPACE#binding	c$frlB c$rpiR c$glmS c$gutQ c$diaA c$kdsD c$agaS c$murR c$lpcA c$murQ c$yebK c$yfhH
+c$phosphatidylglycerophosphatase#SPACE#activity	c$pgpC c$pgpA c$pgpB
+c$3-hydroxydecanoyl-[acyl-carrier-protein]#SPACE#dehydratase#SPACE#activity	c$fabA c$fabZ
+c$pyridoxal#SPACE#phosphate#SPACE#binding	c$bioA c$metC c$lysA c$tdcB c$bioF c$trpB c$metB c$pdxK c$malP c$alr c$csdA c$alaA c$adiA c$iscS c$puuE c$malY c$patA c$speC c$glyA c$rffA c$arnB c$ilvA c$glgP c$dcyD c$speF c$ygeX c$selA c$sufS c$aspC c$astC c$serC c$dsdA c$argD c$ltaE c$tnaA c$tyrB c$cysK c$gabT c$pabC c$cysM c$ybdL c$yggS c$kbl
+c$S-methylmethionine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$mmuP
+c$single-stranded#SPACE#DNA#SPACE#binding	c$cspD c$cspA c$ybhP c$ybcN c$dgt c$cspE c$rdgC c$rayT c$umuD c$yrdD c$sbcB c$umuC c$cspC c$ssb c$cspB c$priB c$recA c$recT c$mutL
+c$glucose-6-phosphate#SPACE#dehydrogenase#SPACE#activity	c$zwf
+c$NADH#SPACE#pyrophosphatase#SPACE#activity	c$rdgB c$nudC c$nudI
+c$succinate-semialdehyde#SPACE#dehydrogenase#SPACE#[NAD(P)+]#SPACE#activity	c$sad c$aldA c$gabD
+c$3'-5'#SPACE#exonuclease#SPACE#activity	c$rnb c$polA c$dnaE c$rnt c$exoX c$dnaQ
+c$cytidine#SPACE#deaminase#SPACE#activity	c$cdd
+c$ribose#SPACE#1#COMMA#5-bisphosphate#SPACE#phosphokinase#SPACE#activity	c$phnN
+c$antibiotic#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$mdtK c$cycA c$dtpB c$nagE c$macB c$tppB
+c$metal#SPACE#ion#SPACE#binding	c$ushA c$glpQ c$cutA c$epmC c$znuA c$rpe c$pdxK c$folC c$thiE c$lysS c$lapB c$hisD c$thiL c$rfbA c$ybiY c$sgcE c$groS c$kdpB c$ybgI c$sgcX c$lpxC c$mutM c$tatD c$leuB c$acnA c$yaeR c$queE c$ppk c$ygiF c$ilvC c$hxpB c$kbl c$rbsK c$phoQ c$nagE c$kduI c$cas3 c$thiF c$lysU c$rhmD c$cas1 c$rpmE c$ccmE c$gshA c$aroL c$pheS c$ycgM c$yjjW c$yigL c$cysS c$pyrG c$alsE c$srkA c$ispG c$ispF c$glpC c$ftp c$ydcM c$pepN c$ptsI c$sodA c$glpK c$carB c$rtcB
+c$enterochelin#SPACE#esterase#SPACE#activity	c$fes
+c$DNA#SPACE#binding	c$priC c$gntR c$cspA c$xerC c$nth c$marR c$casB c$uhpA c$yqjI c$yddM c$vsr c$lon c$iclR c$ybhD c$dinJ c$nikR c$aidB c$intZ c$arsR c$narP c$hcaR c$hupB c$hupA c$kdgR c$lacI c$ftsK c$insA-4 c$ypdB c$hns c$ymfT c$rbsR c$pepA c$mutY c$galR c$yagI c$marA c$uup c$nanR c$zur c$ascG c$putA c$tyrR c$betI c$zraR c$comR c$ariR c$fur c$mprA c$lexA c$intE c$hofQ c$hyfR c$treR c$ihfA c$insA-1 c$polA c$casA c$allR c$yehT c$ybcQ c$mlc c$xerD c$yffS c$gyrA c$agaR c$yhjC c$cas2 c$rayT c$gadW c$cra c$gadE c$fnr c$ebgR c$slmA c$tomB c$sutR c$sfsA c$stpA c$ydcM c$accD c$mutL c$sodA c$nimR c$ybaV c$insA-3 c$ycjW c$xisE c$dpiA c$cysB c$insA-6 c$dcuR c$ligA c$purR c$insA-2 c$idnR c$feoC c$nagC c$intS c$recT c$rcdA c$pspF c$mutH c$dicA c$melR c$glcC c$ygbI c$ydcI c$dnaA c$uvrA c$yiaJ c$ihfB c$intQ c$yjhI c$recR c$cusR c$gyrB c$rpoH c$pgrR c$puuR c$ymfK c$hslR c$yghO c$narL c$mcrB c$trpR c$insA-5 c$hprR c$cas3 c$recQ c$malI c$cdaR c$ybaB c$cytR c$ybiB c$parC c$galS c$smrA c$torI c$metR c$fis c$ygdG c$mtlR c$mukB c$birA c$rhmR c$mhpR c$dicC c$hicB c$ydfH c$dps c$mfd c$yncE
+c$unfolded#SPACE#protein#SPACE#binding	c$slyD c$grpE c$secB c$ridA c$yegD c$surA c$groL c$dnaK c$hscA c$hdeB c$hscC c$dnaJ c$spy c$hlpA c$groS c$cpxP
+c$kinase#SPACE#activity	c$manX c$waaP c$phoQ c$nagE c$fruA c$sgcB c$udk c$waaY c$mtlA c$ptsG c$rcsC c$yniA c$ascF c$murP c$pdxY c$anmK c$bglF c$lpxK c$glvB c$srkA c$yadI c$ptsH c$crr c$treB c$srlB c$ptsI c$fruB
+c$transaminase#SPACE#activity	c$avtA c$alaA c$tyrB c$hisC c$aspC c$rffA c$arnB c$alaC
+c$structural#SPACE#molecule#SPACE#activity	c$eutM c$iscA c$eutS c$eutK c$eutL
+c$poly(A)#SPACE#binding	c$cspE c$srmB
+c$NADH#SPACE#dehydrogenase#SPACE#activity	c$nuoA c$nuoJ c$nuoG c$nuoB c$nuoI c$nuoC c$fdhF c$nuoK c$nuoH c$nuoN c$nuoF c$preT c$napA c$nuoE c$nuoL c$preA c$nuoM
+c$isomerase#SPACE#activity	c$scpB c$lsrG c$yphB c$paaG c$ybhH c$paaF c$caiD
+c$8-oxo-7#COMMA#8-dihydroguanosine#SPACE#triphosphate#SPACE#pyrophosphatase#SPACE#activity	c$mutT
+c$endonuclease#SPACE#activity	c$recB c$rnhA c$mutM c$endA c$higB c$recC c$cas3 c$nfo c$cas1 c$rpsP c$rna c$recD c$mutH c$hicA
+c$L-valine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$ygaZ c$livH c$livG c$livF c$livM c$ygaH c$brnQ
+c$endodeoxyribonuclease#SPACE#activity#COMMA##SPACE#producing#SPACE#5'-phosphomonoesters	c$rpnA c$tatD c$endA c$ycfH
+c$4#SPACE#iron#COMMA##SPACE#4#SPACE#sulfur#SPACE#cluster#SPACE#binding	c$nth c$nuoB c$dinG c$hypD c$ybhJ c$mrp c$ilvD c$iscU c$dmsA c$hycB c$cbrA c$hyaA c$bioB c$ybiY c$hemN c$fdnH c$fdhF c$sdhB c$cysI c$acnA c$ttcA c$pflA c$erpA c$queE c$narG c$dmsB c$fumB c$epmB c$yhcC c$rlmD c$hycF c$nuoI c$nadA c$ydiJ c$nuoF c$rlmN c$napA c$fdnG c$nrdG c$frdB c$nrfC c$nuoG c$lipA c$fdoG c$sufB c$yjjW c$fnr c$rimO c$yggW c$acnB c$thiH c$ispG c$fumA c$phnJ c$miaB c$narH c$nfuA c$fadH
+c$ATPase#SPACE#activity#COMMA##SPACE#coupled	c$purD c$purL c$hscC c$clpB c$rbbA c$yegD c$ccmB c$ccmA c$htpG c$dnaK c$hscA
+c$nuclease#SPACE#activity	c$yqgF c$rbn c$rpsP c$tatD c$hicA c$higB c$cas3
+c$serine-type#SPACE#D-Ala-D-Ala#SPACE#carboxypeptidase#SPACE#activity	c$mrcB c$mrdA c$dacA c$yfeW c$mrcA c$ftsI c$dacB
+c$scopolin#SPACE#beta-glucosidase#SPACE#activity	c$bglX
+c$nitrite#SPACE#reductase#SPACE#[NAD(P)H]#SPACE#activity	c$nirD c$nirB
+c$chaperone#SPACE#binding	c$clpS c$djlA c$groS c$hdeA c$cspC
+c$L-leucine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$livH c$livG c$livF c$livM c$leuE c$brnQ
+c$bacterial-type#SPACE#proximal#SPACE#promoter#SPACE#sequence-specific#SPACE#DNA#SPACE#binding	c$putA c$zntR c$deoR c$baeR c$creB c$csgD c$relB c$feaR c$yiaU c$yqhC c$dinJ c$ybhD c$soxS c$oxyR c$lrhA c$ydcI c$lacI c$kdpE c$cueR c$glpR c$gadX c$tdcA c$nadR c$lsrR c$rbsR c$yfeR
+c$CoA#SPACE#hydrolase#SPACE#activity	c$entH c$paaI c$paaY c$menI
+c$oxidoreductase#SPACE#activity	c$hcaB c$idnO c$feaB c$ygcW c$trkA c$dadA c$nfsB c$yjeI c$adhP c$ydjL c$ybdR c$yeaE c$frdA c$ftsP c$hcp c$ybiY c$sdhA c$curA c$ahr c$yhdH c$mdh c$mdaB c$yieF c$lsrG c$fixB c$srlD c$aldB c$rspB c$yfcF c$fdoI c$kduD c$yciK c$cueO c$yeiQ c$pflA c$ycaK c$mqo c$ydiR c$ydhF c$folM c$zwf c$puuB c$ygfK c$bfr c$pdxH c$fpr c$ydfG c$ygjR c$uxuB c$kefG c$gatD c$kefF c$entA c$fabG c$fdnI c$qorA c$preT c$gcd c$yohF c$lgoD c$yahK c$tdh c$wrbA c$yghA c$xdhA c$katG c$gltB c$hdhA c$dipZ c$yjjW c$ygfF c$yphC c$ydjG c$ydbK c$cysJ c$frmA c$ybbO c$hybB c$ydjJ c$bdcA c$ygiN c$pflC c$mnmC c$yajO c$ydfI c$msrC c$fcl c$bamB c$gnd c$sodB
+c$acetate#SPACE#CoA-transferase#SPACE#activity	c$atoA c$scpC c$ydiF
+c$riboflavin#SPACE#reductase#SPACE#(NADH)#SPACE#activity	c$fre
+c$anthranilate#SPACE#phosphoribosyltransferase#SPACE#activity	c$trpD
+c$exonuclease#SPACE#activity	c$xthA c$dnaQ c$cas3
+c$formate#SPACE#dehydrogenase#SPACE#(quinone)#SPACE#activity	c$fdoG c$fdnH c$fdnG c$fdoH c$fdoI c$fdnI
+c$histidine#SPACE#phosphotransfer#SPACE#kinase#SPACE#activity	c$cusS c$arcB c$barA c$rcsD c$evgS
+c$D(-)-tartrate#SPACE#dehydratase#SPACE#activity	c$fumB
+c$lyase#SPACE#activity	c$rhmD c$eda c$phnJ c$trpA c$queE c$yagF c$moaC c$deoC c$elbB c$yjhG c$mltG c$rlpA
+c$molybdenum#SPACE#ion#SPACE#binding	c$modA c$dmsA c$paoC c$ynfE c$napA c$torA c$fdnG c$fdhF c$ynfF c$torZ c$bisC
+c$2-hydroxy-3-oxopropionate#SPACE#reductase#SPACE#activity	c$glxR c$garR
+c$D-alanine-D-alanine#SPACE#ligase#SPACE#activity	c$ddlA c$ddlB
+c$tRNA#SPACE#dimethylallyltransferase#SPACE#activity	c$miaA
+c$dephospho-CoA#SPACE#kinase#SPACE#activity	c$coaE
+c$cytochrome-c#SPACE#oxidase#SPACE#activity	c$cyoA c$cyoB c$cyoC
+c$heme#SPACE#binding	c$katE c$ypjD c$ccmF c$yfeX c$cydB c$narV c$cydA c$fdnI c$nrfA c$ccmE c$cyoB c$sdhD c$sdhC c$msrQ c$dosP c$katG c$torC c$nrfB c$cybB c$narI c$fdoI c$cysI c$hmp c$dosC c$torY c$nikA c$nirB c$bfr c$dppA c$hyaC
+c$DNA#SPACE#helicase#SPACE#activity	c$uvrD c$dinG c$dnaB
+c$porin#SPACE#activity	c$nanC c$bglH c$ompN c$ompL c$tolC c$ompA c$phoE c$lamB c$nmpC c$ompF c$ompG
+c$protein#SPACE#deacetylase#SPACE#activity	c$dhaM c$acs
+c$bacterial-type#SPACE#RNA#SPACE#polymerase#SPACE#core#SPACE#enzyme#SPACE#binding	c$rpoS c$hepA c$sspA c$rfaH
+c$phosphoric#SPACE#diester#SPACE#hydrolase#SPACE#activity	c$nfo c$phnP
+c$phosphopantothenoylcysteine#SPACE#decarboxylase#SPACE#activity	c$dfp
+c$tagatose-6-phosphate#SPACE#kinase#SPACE#activity	c$pfkB
+c$aminoacyl-tRNA#SPACE#ligase#SPACE#activity	c$asnS c$aspS c$lysS c$thrS c$glyS c$epmA c$proS c$pheS c$cysS c$serS c$lysU
+c$5-fluorocytosine#SPACE#deaminase#SPACE#activity	c$codA
+c$protein-phosphocysteine-mannitol#SPACE#phosphotransferase#SPACE#system#SPACE#transporter#SPACE#activity	c$mtlA
+c$peptidase#SPACE#activity	c$mrdA c$lit c$sgcX c$degQ c$pbpC c$mepA c$ftsI c$pepE c$tesA c$mrcB c$ydcP c$lon c$lepB c$degS c$pepN c$dcp c$gspO c$mrcA c$prlC
+c$transferase#SPACE#activity#COMMA##SPACE#transferring#SPACE#glycosyl#SPACE#groups	c$wbbI c$cpsB c$wcaA c$ftsW c$wbbK c$wcaI c$waaB c$wcaL c$wcaE c$glgA c$waaG c$wcaC c$waaU c$waaJ c$waaI c$purF c$mtgA c$waaH c$mrdB c$mdoH
+c$glycolaldehyde#SPACE#dehydrogenase#SPACE#activity	c$aldA
+c$di-trans#COMMA#poly-cis-decaprenylcistransferase#SPACE#activity	c$ispU
+c$glutathione-disulfide#SPACE#reductase#SPACE#activity	c$gor
+c$UDP-sugar#SPACE#diphosphatase#SPACE#activity	c$ushA
+c$electron#SPACE#transfer#SPACE#activity	c$torA c$narV c$cydA c$torZ c$dmsA c$hyaA c$frdA c$cyoB c$ynfF c$bisC c$sdhD c$sdhC c$sdhA c$fdx c$torC c$mdaB c$dld c$fdnH c$napC c$fixB c$narI c$cyoC c$fdoI c$yceJ c$sdhB c$ycaK c$torY c$grxB c$narG c$ydiR c$yodB c$hyaC c$nrdH c$narY c$kefG c$cydB c$kefF c$fdnI c$ygcR c$appC c$ynfE c$fdnG c$frdB c$glpD c$norV c$hyaB c$cybB c$nrfB c$cyoD c$yfaE c$cyoA c$appB c$hydN c$narH
+c$phosphoprotein#SPACE#phosphatase#SPACE#activity	c$uhpB c$cheZ c$phoQ c$glnL c$torS c$aceK c$narX c$phoR c$envZ
+c$choline#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$mdtJ c$mdtI c$emrE c$betT
+c$transferase#SPACE#activity	c$paaJ c$cmoM c$ftsW c$nagE c$pabB c$acpS c$fruA c$sgcB c$rffC c$ptsG c$trmI c$mtlA c$dam c$lipB c$rcsC c$nhoA c$ascF c$ybiW c$pabA c$lpxL c$dhaL c$murP c$yfcF c$pdxY c$cysN c$glvB c$bglF c$srkA c$yadI c$ptsH c$treB c$cysK c$ftp c$ptsI c$opgE c$mrdB c$waaA c$fruB
+c$hydrolase#SPACE#activity	c$bioH c$pbpC c$macB c$afuC c$ycjT c$ydcP c$dhaM c$iaaA c$aes c$def c$malK c$hicA c$ais c$kdpB c$mrdA c$radA c$ybfF c$sgcX c$tatD c$gltL c$tcyN c$potA c$agaA c$ftsI c$mdlB c$rssA c$frsA c$pgl c$yhbO c$mhpC c$mutY c$puuD c$menI c$cas3 c$envC c$pinE c$pinQ c$hrpA c$radD c$rpsP c$pinR c$yjjU c$nudG c$ugpC c$abgB c$uhpB c$ulaG c$lit c$menH c$higB c$nudC c$pepN c$mdlA c$yjfP
+c$ribosomal#SPACE#large#SPACE#subunit#SPACE#binding	c$yafO c$ratA c$arfA c$der c$obgE c$rsfS c$ychF c$lepA c$frr c$hslR c$hflX
+c$ATPase#SPACE#activity#COMMA##SPACE#coupled#SPACE#to#SPACE#transmembrane#SPACE#movement#SPACE#of#SPACE#substances	c$znuC c$ycjV c$cydD c$btuD c$sbmA c$yddA c$mdlB c$cydC c$metN c$ynjD c$ytfR c$malK c$modF c$mdlA c$yojI c$ugpC c$yejF c$znuB
+c$phosphorelay#SPACE#sensor#SPACE#kinase#SPACE#activity	c$cusS c$phoQ c$atoS c$glnL c$zraS c$creC c$yehU c$glrK c$arcB c$narX c$qseC c$baeS c$rcsC c$narQ c$rstB c$uhpB c$dpiB c$kdpD c$barA c$phoR c$envZ c$basS c$torS c$evgS c$dcuS c$ypdA c$cpxA
+c$tyrosine-based#SPACE#site-specific#SPACE#recombinase#SPACE#activity	c$xerC c$xerD
+c$lipase#SPACE#activity	c$pldB c$ynbC
+c$manganese#SPACE#ion#SPACE#binding	c$phoU c$dgt c$phnP c$allC c$maeB c$gmm c$yggF c$uxuA c$ftsH c$yihX c$yieH c$umpG c$hisD c$gpmM c$pepQ c$rfe c$melA c$tdh c$uxaA c$allE c$hemF c$nrdF c$mutT c$yciV c$ulaG c$pepP c$yjjG c$psuG c$leuB c$tktA c$dxr c$ispF c$yrfG c$nudC c$sodA c$mhpD c$glpX c$speB c$rtcB c$hxpA c$adeD
+c$phosphoglycerate#SPACE#dehydrogenase#SPACE#activity	c$pdxB c$serA
+c$tRNA(Ile)-lysidine#SPACE#synthase#SPACE#activity	c$tilS
+c$aminomethyltransferase#SPACE#activity	c$gcvT
+c$ADP#SPACE#binding	c$oxc c$dbpA c$tsaE c$dhaL c$mutS c$dnaK c$hscA c$hda
+c$signal#SPACE#recognition#SPACE#particle#SPACE#binding	c$ftsY
+c$AMP#SPACE#binding	c$aceK c$glgC c$adk
+c$monosaccharide#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$yjfF c$lsrB c$ytfT c$alsC c$xylH c$yphD c$mglC c$alsB c$rbsC c$araH c$lsrC c$rbsB c$ytfQ c$lsrD
+c$glucosamine-6-phosphate#SPACE#deaminase#SPACE#activity	c$nagB c$agaI c$yieK
+c$maltodextrin#SPACE#phosphorylase#SPACE#activity	c$malP
+c$3-isopropylmalate#SPACE#dehydratase#SPACE#activity	c$leuC
+c$monooxygenase#SPACE#activity	c$ygiN c$epmC c$mhpA c$rutA
+c$isoleucine-tRNA#SPACE#ligase#SPACE#activity	c$ileS
+c$L-cystine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$tcyJ c$yecS c$tcyL c$ydjN c$tcyN c$tcyP
+c$phenylacetate-CoA#SPACE#ligase#SPACE#activity	c$paaK
+c$molybdopterin#SPACE#synthase#SPACE#activity	c$moaE
+c$peptidoglycan#SPACE#glycosyltransferase#SPACE#activity	c$mrcB c$ftsW c$pbpC c$mtgA c$mrcA c$mrdB c$ftsI
+c$glycolate#SPACE#dehydrogenase#SPACE#activity	c$glcD c$glcE c$glcF
+c$glycine#SPACE#betaine-transporting#SPACE#ATPase#SPACE#activity	c$yehX
+c$RNA#SPACE#binding	c$raiA c$cspA c$rpsL c$cspE c$thrS c$rplI c$ybcJ c$rsgA c$rimM c$rplO c$rho c$rpsA c$rpsQ c$rnc c$rmf c$casA c$rpmE c$cspB c$smpB c$bglG c$ybiB c$hicA c$rplT c$rplX c$rplC c$rpmC c$cspD c$hfq c$rpmA c$pcnB c$rpsR c$rplA c$hns c$higB c$casE c$rapZ c$trmH c$rpmG c$cspC c$stpA c$rplY c$rplS c$casD c$casC c$rplP c$rplR c$rpsT c$era
+c$4-phosphoerythronate#SPACE#dehydrogenase#SPACE#activity	c$pdxB
+c$4-hydroxy-2-oxoglutarate#SPACE#aldolase#SPACE#activity	c$eda
+c$phosphatase#SPACE#activity	c$ybjI c$otsA c$yjjG c$cof c$fbp c$yigB c$yigL c$yedP c$ybiV c$yqaB c$yieH c$umpG c$serB c$yidA c$ais c$hxpB c$ybhA c$yfbT
+c$rRNA#SPACE#binding	c$raiA c$rpsL c$rplI c$rsgA c$rimM c$rpsH c$rplO c$rsmA c$rpsQ c$rmf c$rpmE c$dbpA c$rplT c$rplX c$rplC c$rpmC c$rpmA c$rpsR c$rpsD c$rplK c$trmA c$rplY c$rplS c$rpsO c$rplP c$rpsG c$rplR c$rpsT c$era c$hflX
+c$isochorismatase#SPACE#activity	c$entB
+c$transmembrane#SPACE#transporter#SPACE#activity	c$ydjE c$znuC c$ytfF c$exuT c$rarD c$livM c$hsrA c$setA c$ydjK c$rhtA c$gudP c$yicL c$yigM c$mdtP c$mdtQ c$garP c$emrE c$setB c$yqjA c$dgoT c$setC c$cynX c$ydeE c$yrbG c$yijE c$ydcO c$yghB c$btuD c$nimT c$yhbE c$cusC c$emrB c$mdtD c$livF c$yddG c$focB c$emrY c$yebQ c$lgoT c$yedA
+c$2-methylcitrate#SPACE#dehydratase#SPACE#activity	c$prpD
+c$protein#SPACE#binding#COMMA##SPACE#bridging	c$nlpI c$yiaT c$bamE c$mipA
+c$oxoglutarate#SPACE#dehydrogenase#SPACE#(succinyl-transferring)#SPACE#activity	c$sucA
+c$glutathione#SPACE#hydrolase#SPACE#activity	c$ggt
+c$translation#SPACE#regulator#SPACE#activity	c$secM
+c$bacterial-type#SPACE#RNA#SPACE#polymerase#SPACE#transcriptional#SPACE#activator#SPACE#activity#COMMA##SPACE#sequence-specific#SPACE#DNA#SPACE#binding	c$ompR c$rstA c$kdpE c$baeR c$creB c$rclR c$phoP c$phoB c$rbsR c$basR c$cusR c$cpxR c$torR c$yhaJ c$qseB c$yedW c$arcA
+c$racemase#SPACE#and#SPACE#epimerase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#amino#SPACE#acids#SPACE#and#SPACE#derivatives	c$ygeA c$murI c$ycjG
+c$palmitoyl-CoA#SPACE#hydrolase#SPACE#activity	c$tesA c$ybfF
+c$zinc#SPACE#ion#SPACE#binding	c$zntR c$slyD c$gmhB c$znuA c$pdxA c$adhP c$ybdR c$glyA c$metH c$yacG c$ahr c$yeiR c$allB c$tsf c$mutM c$ydaE c$ptrA c$lpd c$gltX c$mmuM c$fbaA c$pyrC c$gluQ c$zur c$tadA c$hybF c$fur c$zinT c$aroB c$casA c$php c$cynT c$lgoD c$guaD c$yahK c$tdh c$zraP c$can c$nei c$cysS c$alaS c$pta c$frmA c$ispF c$accD c$ileS c$dnaG c$kbaY c$cdd c$phoA c$rplM c$yrdD c$ftsH c$nrdD c$hslO c$rpsB c$ydjL c$amiA c$mpaA c$yqhD c$def c$msrB c$galT c$argE c$folE c$lpxC c$dgcZ c$rspB c$dnaK c$ada c$eutL c$yfcE c$queD c$hypF c$amiD c$iadA c$ppa c$hypA c$thrS c$ackA c$codA c$gatD c$gloB c$thiF c$trxC c$recQ c$ycdX c$qorA c$rpmE c$pepD c$tgt c$rplB c$sodC c$rlmA c$metG c$hypB c$yphC c$hemB c$nagA c$htpX c$ydjJ c$yrdA c$pepN c$dnaJ c$glpK c$pyrI c$rpoA
+c$protein#SPACE#kinase#SPACE#binding	c$mzrA
+c$catalase#SPACE#activity	c$katE c$adeD c$katG
+c$zinc#SPACE#ion#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$zupT c$pitA c$zntA c$zitB
+c$glucuronate#SPACE#isomerase#SPACE#activity	c$uxaC
+c$oligosaccharide#SPACE#transporting#SPACE#porin#SPACE#activity	c$nanC c$ompG
+c$lysozyme#SPACE#activity	c$rrrQ c$rrrD c$arrQ
+c$nicotinamide-nucleotide#SPACE#adenylyltransferase#SPACE#activity	c$nadD c$nadR
+c$D-malate#SPACE#dehydrogenase#SPACE#(decarboxylating)#SPACE#activity	c$dmlA
+c$arsenate#SPACE#ion#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$pitA
+c$racemase#SPACE#and#SPACE#epimerase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#carbohydrates#SPACE#and#SPACE#derivatives	c$hyi c$nanM c$galE c$rhaM c$ulaE c$ygbM c$sgbU c$fucU c$frlC c$ycjR
+c$potassium-transporting#SPACE#ATPase#SPACE#activity	c$kdpB c$kdpF c$kdpC c$kdpA
+c$alpha-amylase#SPACE#activity	c$malS c$amyA
+c$nucleoside-triphosphatase#SPACE#activity	c$yjjX c$dnaX c$nudJ
+c$protein#SPACE#heterodimerization#SPACE#activity	c$abgB c$abgA c$intE c$lysP
+c$holo-[acyl-carrier-protein]#SPACE#synthase#SPACE#activity	c$yieE c$acpT c$acpS c$entD
+c$fucosyltransferase#SPACE#activity	c$rffT
+c$phosphoglycerate#SPACE#kinase#SPACE#activity	c$pgk
+c$metalloendopeptidase#SPACE#activity	c$rseP c$htpX c$mepM c$ftsH c$ptrA c$prlC
+c$ornithine#SPACE#decarboxylase#SPACE#inhibitor#SPACE#activity	c$atoC c$rpsT
+c$imidazoleglycerol-phosphate#SPACE#synthase#SPACE#activity	c$hisF c$hisH
+c$flavin#SPACE#adenine#SPACE#dinucleotide#SPACE#binding	c$putA c$sthA c$mnmG c$murB c$trxB c$norW c$nadB c$trkA c$ydiJ c$ndh c$cbrA c$sdhA c$ahpF c$bluF c$yqjH c$lhgO c$fixC c$glpA c$solA c$paaE c$mdaB c$hcr c$dld c$paoB c$fixB c$cysJ c$lpd c$mqo c$glf c$ydiR c$gor c$poxB c$nirB
+c$alcohol#SPACE#dehydrogenase#SPACE#(NAD)#SPACE#activity	c$yiaY c$adhE c$adhP c$eutG c$fucO
+c$obsolete#SPACE#transmembrane#SPACE#electron#SPACE#transfer#SPACE#carrier	c$dipZ
+c$aryl-alcohol#SPACE#dehydrogenase#SPACE#(NADP+)#SPACE#activity	c$dkgB
+c$transporter#SPACE#activity	c$ssuB c$mdtA c$yhhT c$ftsW c$rarD c$yihP c$uidB c$adeP c$caiT c$acrE c$gntT c$tbpA c$mdtQ c$nfrB c$osmF c$gspE c$proW c$malE c$tqsA c$emrA c$tauB c$ugpB c$elfC c$ybhI c$citT c$yeaV c$ttdT c$acrA c$yhdX c$emrK c$yibH c$ydhJ c$yehW c$gntP c$ssuA c$tauC c$mrdB c$cusB c$fruB c$macA c$yhjX c$sbmA c$ytfT c$gntU c$mdtE c$yfgO c$tcyJ c$yraJ c$tauA c$hofB c$mtlA c$araH c$idnT c$dgoT c$yehY c$yhdW c$actP c$sdaC c$yjfF c$ssuC c$ghxQ c$aqpZ c$focA c$mdtK c$tdcC c$mdtF c$yiaV c$ygbN c$uhpC c$dsdX c$yjhF c$aaeA
+c$nucleic#SPACE#acid#SPACE#binding	c$rnhA c$casB c$recG c$eutK c$intE c$cas3 c$lysU c$nusA c$lysS c$cas1 c$hrpA c$hepA c$dam
+c$3-octaprenyl-4-hydroxybenzoate#SPACE#carboxy-lyase#SPACE#activity	c$ubiD
+c$ligase#SPACE#activity#COMMA##SPACE#forming#SPACE#carbon-nitrogen#SPACE#bonds	c$ybdK c$rimK c$pncB c$gshB
+c$cyclic-di-GMP#SPACE#binding	c$bdcA c$pnp c$ycgR c$bcsE
+c$lytic#SPACE#transglycosylase#SPACE#activity	c$mltB c$slt c$mltA c$emtA c$mltD c$mltG c$mltC c$mltF
+c$asparaginase#SPACE#activity	c$ansA c$iaaA c$ansB
+c$nitrite#SPACE#efflux#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$narU c$narK
+c$transferase#SPACE#activity#COMMA##SPACE#transferring#SPACE#acyl#SPACE#groups#SPACE#other#SPACE#than#SPACE#amino-acyl#SPACE#groups	c$lsrF c$yjhQ c$yhbS c$mnaT c$pldB c$yieL c$lpxM c$elaA c$yiiD c$rimI
+c$3-hydroxybutyryl-CoA#SPACE#dehydrogenase#SPACE#activity	c$paaH
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#the#SPACE#aldehyde#SPACE#or#SPACE#oxo#SPACE#group#SPACE#of#SPACE#donors#COMMA##SPACE#NAD#SPACE#or#SPACE#NADP#SPACE#as#SPACE#acceptor	c$yraR
+c$glutathione#SPACE#transferase#SPACE#activity	c$yqjG c$gstA c$gstB c$yfcF c$yibF
+c$energy#SPACE#transducer#SPACE#activity	c$tonB c$exbD c$exbB
+c$L-amino#SPACE#acid#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$gadC c$frlA c$yjeH
+c$double-stranded#SPACE#DNA#SPACE#5'-3'#SPACE#exodeoxyribonuclease#SPACE#activity	c$recE
+c$amino#SPACE#acid#SPACE#binding	c$asnB c$tcyJ c$metR c$tdcB c$artJ c$hisJ c$alaS c$ilvA c$carB c$asnC
+c$helicase#SPACE#activity	c$radD c$hrpA c$recD c$priA c$dnaB c$cas3
+c$hydrolase#SPACE#activity#COMMA##SPACE#hydrolyzing#SPACE#N-glycosyl#SPACE#compounds	c$ybiA
+c$protein-N(PI)-phosphohistidine-mannitol#SPACE#phosphotransferase#SPACE#system#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$mtlA
+c$transmembrane#SPACE#signaling#SPACE#receptor#SPACE#activity	c$tar c$aer c$trg c$tap c$tsr
+c$tRNA#SPACE#(uracil-2'-O-)-methyltransferase#SPACE#activity	c$trmJ c$yjtD c$trmL
+c$copper#SPACE#ion#SPACE#binding	c$zraP c$sodC c$cusA c$slyD c$cutA c$cueR c$cusF c$cusC c$cueO c$rcnB c$cyoB c$tynA c$yfiH c$cusB
+c$S-adenosylmethionine-dependent#SPACE#methyltransferase#SPACE#activity	c$rsmC c$tehB c$yfiC c$rlmG c$prmC c$ubiE c$prmB c$rlmL
+c$high-affinity#SPACE#secondary#SPACE#active#SPACE#nitrite#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$focA c$yfdC c$nirC c$focB c$narK
+c$hydrogenase#SPACE#(acceptor)#SPACE#activity	c$hybB c$phoA c$hybC c$hybA
+c$protein-phosphocysteine-sugar#SPACE#phosphotransferase#SPACE#activity	c$fryC c$ascF c$chbC c$murP c$fruA c$gatA c$bglF c$ulaC c$treB c$gatB c$mngA c$ptsN c$srlE c$mtlA c$frvA c$cmtA c$fruB
+c$N-methyltransferase#SPACE#activity	c$hsdM
+c$3'-5'-exodeoxyribonuclease#SPACE#activity	c$sbcC c$yqgF c$yhbQ c$polB c$cas3
+c$2#COMMA#4-dienoyl-CoA#SPACE#reductase#SPACE#(NADPH)#SPACE#activity	c$fadH
+c$fimbrial#SPACE#usher#SPACE#porin#SPACE#activity	c$yehB c$ydeT c$yfcU c$htrE c$elfC c$yraJ c$ybgQ c$yhcD c$yqiG c$sfmD c$fimD
+c$symporter#SPACE#activity	c$actP c$gltP c$sstT c$panF c$tnaB c$dctA c$araE c$tdcC c$mtr c$potE c$gltS c$rhaT c$mntH c$tppB c$tcyP
+c$solute#SEMICOLON#proton#SPACE#symporter#SPACE#activity	c$codB c$cadB c$tdcC c$puuP c$lldP c$adeP c$ampG c$plaP c$pitA c$glcA
+c$sequence-specific#SPACE#DNA#SPACE#binding	c$acrR c$allS c$lysR c$mraZ c$evgA c$ycaN c$yddM c$asnC c$perR c$intS c$dsdC c$ybhD c$aidB c$dam c$pspF c$dicA c$ydcI c$dnaA c$ftsK c$ihfB c$tus c$ttdR c$yfeR c$pgrR c$gcvA c$ascG c$putA c$ybaO c$lldR c$trpR c$yiaU c$ihfA c$yefM c$rhaR c$hipB c$lrhA c$lrp c$argP c$yhjC c$torI c$rayT c$fis c$tdcA c$insI-1 c$matP c$slmA c$sutR c$mqsA c$hicB c$dmlR c$rob
+c$protein-phosphocysteine-L-ascorbate-phosphotransferase#SPACE#system#SPACE#transporter#SPACE#activity	c$ulaC c$ulaA c$ulaB
+c$glucose-1-phosphate#SPACE#thymidylyltransferase#SPACE#activity	c$rfbA c$rffH
+c$maleylacetoacetate#SPACE#isomerase#SPACE#activity	c$yfcF c$yibF
+c$dethiobiotin#SPACE#synthase#SPACE#activity	c$bioD1 c$bioD2 c$bioD
+c$8-oxo-7#COMMA#8-dihydroguanine#SPACE#DNA#SPACE#N-glycosylase#SPACE#activity	c$mutY c$mutM
+c$sulfoquinovose#SPACE#isomerase#SPACE#activity	c$yihS
+c$NADP#SPACE#binding	c$ydiB c$pntA c$pntB c$ribD c$yfdG c$aroE c$folA c$zwf c$ilvC c$nirB c$fabG c$panE
+c$peptidoglycan#SPACE#L#COMMA#D-transpeptidase#SPACE#activity	c$mrdA c$ycbB c$erfK c$ybiS c$ycfS c$ldtC c$ldtD c$ldtE c$ldtB c$ldtA c$ynhG
+c$antiporter#SPACE#activity	c$ttdT c$mdtJ c$mdtI c$mdtK c$gadC c$cadB c$nhaA c$emrE c$caiT c$kefB c$clcA c$adiC
+c$GTP#SPACE#binding	c$folE c$ffh c$feoB c$mnmE c$mukB c$cysN c$ftsZ c$yajQ c$yihA c$selB c$mobB c$obgE c$ftsY c$pdeR c$era c$hflX
+c$ADP-heptose-lipopolysaccharide#SPACE#heptosyltransferase#SPACE#activity	c$waaQ c$waaF c$waaC c$waaU c$yeeL
+c$adenosylhomocysteine#SPACE#nucleosidase#SPACE#activity	c$mtn c$mtnN
+c$heme#SPACE#transporter#SPACE#activity	c$dppF c$dppD
+c$phosphotransferase#SPACE#activity#COMMA##SPACE#phosphate#SPACE#group#SPACE#as#SPACE#acceptor	c$eptB c$yjgX c$ppk c$opgE c$eptC c$lpxT c$yhbX c$eptA
+c$N-acyltransferase#SPACE#activity	c$lnt c$lpxD
+c$drug#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$mdtA c$acrZ c$mdfA c$mdtM c$bcr c$ydhC c$acrE c$mdtE c$ompF c$mdtN c$emrD c$mdtK c$acrA c$mdtL c$acrD c$acrB
+c$amino#SPACE#acid#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$eamB c$rhtC c$yecS c$gltK c$artM c$leuE c$argO c$rhtB c$glnP c$lysP c$adiC c$yahN
+c$sigma#SPACE#factor#SPACE#activity	c$rpoS c$rpoH c$rpoD
+c$metallopeptidase#SPACE#activity	c$loiP c$sgcX c$bepA c$pepN c$dcp c$tsaB c$ypdE
+c$adenine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$adeQ c$adeP
+c$thiamine#SPACE#pyrophosphate#SPACE#binding	c$menD c$oxc c$ilvI c$dxs c$poxB c$gcl c$sucA c$tktA c$tbpA
+c$peptidyl-prolyl#SPACE#cis-trans#SPACE#isomerase#SPACE#activity	c$slyD c$ppiA c$fkpB c$surA c$fklB c$ppiB c$ppiC c$tig
+c$tRNA#SPACE#binding	c$dusC c$tmcA c$tsaC c$rpsL c$rpmA c$arfA c$thiI c$pheT c$trmA c$trmH c$rpmG c$yajQ c$truA c$selB c$rlmN c$trmO c$truB c$rplP c$ileS c$pheS
+c$uracil#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$rutG c$uraA
+c$glycerol-3-phosphatase#SPACE#activity	c$yfbT c$hxpA
+c$rRNA#SPACE#(uridine-C5-)-methyltransferase#SPACE#activity	c$rlmD
+c$sulfur#SPACE#compound#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$yihO
+c$phosphorelay#SPACE#response#SPACE#regulator#SPACE#activity	c$ompR c$glrR c$rstA c$uvrY c$kdpE c$zraR c$baeR c$dpiA c$creB c$phoP c$phoB c$basR c$cpxR c$cusR c$torR c$qseB c$yedW c$arcA
+c$protein#SPACE#disulfide#SPACE#oxidoreductase#SPACE#activity	c$grxC c$dsbB c$dsbC c$dipZ c$ccmH c$ybbN c$dnaJ c$trxA c$dsbG c$dsbA c$trxC
+c$beta-ketoacyl-acyl-carrier-protein#SPACE#synthase#SPACE#III#SPACE#activity	c$fabH
+c$acetolactate#SPACE#synthase#SPACE#activity	c$ilvB c$ilvM c$ilvI c$ilvH c$ilvN
+c$glycogen#SPACE#phosphorylase#SPACE#activity	c$malP c$glgP
+c$hemi-methylated#SPACE#DNA-binding	c$seqA
+c$gluconate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$gntP c$dsdX c$gntT c$gntU c$idnT
+c$CoA-ligase#SPACE#activity	c$paaK
+c$carboxylic#SPACE#acid#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$gltP c$yjhB c$sstT c$nanT c$ydjN c$dctA
+c$glutamate-putrescine#SPACE#ligase#SPACE#activity	c$puuA
+c$acryloyl-CoA#SPACE#reductase#SPACE#(NADP+)#SPACE#activity	c$yhdH
+c$deaminase#SPACE#activity	c$ridA c$guaD
+c$translation#SPACE#elongation#SPACE#factor#SPACE#activity	c$yeiP c$selB c$tufB c$fusA c$tufA c$tsf c$efp c$lepA
+c$allose#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$alsA c$alsC
+c$mRNA#SPACE#binding	c$yciH c$acnB c$rplM c$accD c$rpsG c$hicA c$rpsA c$acnA c$rplT c$rsmA
+c$5'-deoxynucleotidase#SPACE#activity	c$yfdR c$yfbR
+c$transcription#SPACE#antitermination#SPACE#factor#SPACE#activity#COMMA##SPACE#DNA#SPACE#binding	c$pepA c$rfaH
+c$sugar-phosphatase#SPACE#activity	c$yigL c$yidA c$appA c$ybiV c$hxpB c$yfbT c$hxpA c$ybhA
+c$dipeptide#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$dppC c$dtpD c$mdtK c$yeeO c$dppF c$dtpB c$dppD c$dtpC c$bcr c$tppB c$dppB c$ydeE
+c$nickel#SPACE#cation#SPACE#binding	c$zraP c$yfaU c$nikB c$slyD c$hypA c$hypB c$hybF c$gloA c$hycE c$hybC c$ybeY c$nikR c$nikA c$nikC c$hyaB
+c$alkaline#SPACE#phosphatase#SPACE#activity	c$phoA
+c$D-lactate#SPACE#dehydrogenase#SPACE#activity	c$ldhA
+c$aminopeptidase#SPACE#activity	c$iap c$mtfA c$pepA c$pepP c$pepB c$sgcX c$pepN c$ypdF c$ypdE
+c$aldehyde-lyase#SPACE#activity	c$lsrF c$yfaU c$fsaB c$fsaA c$garL c$ygbL c$rhaD c$sgbE c$araD c$ulaF c$rhmA c$fucA
+c$lipoic#SPACE#acid#SPACE#binding	c$aceF c$gcvH c$sucB
+c$lipopeptide#SPACE#binding	c$mrcB c$lolB
+c$dATP#SPACE#binding	c$nrdD
+c$N-hydroxyarylamine#SPACE#O-acetyltransferase#SPACE#activity	c$nhoA
+c$cysteine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$eamB c$tcyJ c$yecS c$tcyL c$ydjN c$tcyP c$tcyN
+c$four-way#SPACE#junction#SPACE#DNA#SPACE#binding	c$rpsP
+c$ribonuclease#SPACE#activity	c$rne c$rnd c$yhaV c$rnr c$rng
+c$tRNA#SPACE#threonylcarbamoyladenosine#SPACE#dehydratase	c$tcdA
+c$translation#SPACE#initiation#SPACE#factor#SPACE#activity	c$infC c$infB
+c$pyruvate#SPACE#dehydrogenase#SPACE#activity	c$aceF c$aceE
+c$ATP-dependent#SPACE#RNA#SPACE#helicase#SPACE#activity	c$hrpA c$deaD c$radD c$recG c$dbpA c$rhlE c$lhr c$srmB c$rhlB
+c$metallodipeptidase#SPACE#activity	c$pepQ c$pepD
+c$O-acyltransferase#SPACE#activity	c$wcaF c$maa c$wbbJ
+c$transcriptional#SPACE#activator#SPACE#activity#COMMA##SPACE#bacterial-type#SPACE#RNA#SPACE#polymerase#SPACE#proximal#SPACE#promoter#SPACE#sequence-specific#SPACE#DNA#SPACE#binding	c$zntR c$kdpE c$gadX c$rcsB c$dcuR c$nhaR c$yqhC
+c$structural#SPACE#constituent#SPACE#of#SPACE#ribosome	c$rplM c$rplI c$rpsH c$rpsC c$rpmH c$rpsN c$rplN c$rpsK c$rplE c$rpsB c$rpsS c$rpmA c$rpsR c$rpmG c$rplS c$rpsJ c$rpsG c$rpsT c$rplD c$rpsL c$rplV c$rplU c$rplJ c$rplO c$rpsE c$rpsA c$rpsQ c$rplQ c$ykgO c$rpmE c$rpmI c$rplF c$rpsP c$rplL c$rplT c$rplX c$rplC c$rpmC c$rplB c$rpsD c$rplK c$rplW c$rpsF c$ykgM c$rpsI c$rplY c$rpmJ c$rplP c$rplR c$rpmB
+c$hexokinase#SPACE#activity	c$mak
+c$preQ1#SPACE#synthase#SPACE#activity	c$queF
+c$sulfate#SPACE#adenylyltransferase#SPACE#(ATP)#SPACE#activity	c$cysD c$cysN
+c$endoribonuclease#SPACE#inhibitor#SPACE#activity	c$rplD c$rraB c$ymdB
+c$intramolecular#SPACE#transferase#SPACE#activity#COMMA##SPACE#phosphotransferases	c$torS c$barA
+c$dipeptidase#SPACE#activity	c$abgB c$pepQ c$abgA c$pepD
+c$bent#SPACE#DNA#SPACE#binding	c$stpA c$argP c$hfq c$cbpA c$hns
+c$catalytic#SPACE#activity	c$yeeZ c$yagF c$malS c$puuD c$pbpC c$yphB c$glgX c$yfdG c$rlmN c$glgB c$fdhD c$treC c$guaA c$lipB c$ybiY c$yjhG c$ycgM c$glnE c$trpD c$yciV c$ybiW c$malZ c$pabA c$lsrG c$yjjW c$amyA c$ycjM c$eda c$pflA c$queE c$ygiN c$pflC c$ptsI
+c$FMN#SPACE#binding	c$aroC c$pyrD c$kefF c$nfsB c$azoR c$nuoF c$nuoE c$mioC c$norV c$msrQ c$wrbA c$fldB c$dusC c$glpB c$nuoG c$yieF c$nrdI c$nfsA c$hemG c$cysJ c$yqcA c$lldD c$ycaK c$ydjA c$dfp c$pdxH c$rutE c$nemA c$fadH
+c$malate#SEMICOLON#proton#SPACE#symporter#SPACE#activity	c$dctA
+c$2-octaprenyl-6-methoxy-1#COMMA#4-benzoquinone#SPACE#methyltransferase#SPACE#activity	c$ubiE
+c$hydrolase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#carbon-nitrogen#SPACE#(but#SPACE#not#SPACE#peptide)#SPACE#bonds	c$pgaB c$abgA c$agaA
+c$GTPase#SPACE#activity	c$argK c$yjiA c$mcrB c$dgt c$hypB c$ffh c$der c$rsgA c$infB c$mnmE c$cysN c$ftsZ c$selB c$obgE c$prfC c$ftsY c$lepA c$era c$hflX c$yeiR
+c$acetyltransferase#SPACE#activity	c$nhoA c$aceF c$pflB c$cheY c$grcA c$wcaB c$tdcE
+c$anti-sigma#SPACE#factor#SPACE#antagonist#SPACE#activity	c$rseP c$iraM c$iraP c$iraD
+c$betaine-aldehyde#SPACE#dehydrogenase#SPACE#activity	c$betB
+c$NADH#SPACE#dehydrogenase#SPACE#(ubiquinone)#SPACE#activity	c$hyfI c$nuoA c$nuoJ c$nuoN c$nuoB c$ndh c$nuoE c$nuoC c$nuoK
+c$ribosomal#SPACE#small#SPACE#subunit#SPACE#binding	c$rmf c$yciH c$raiA c$yqjD c$yoeB c$rbbA c$rbfA c$infB c$lepA c$era c$hpf
+c$pyrophosphatase#SPACE#activity	c$bacA c$gpp c$ppx
+c$L-threonine#SPACE#3-dehydrogenase#SPACE#activity	c$yiaY c$tdh
+c$ribonuclease#SPACE#inhibitor#SPACE#activity	c$rraA c$rraB
+c$glucose-1-phosphate#SPACE#adenylyltransferase#SPACE#activity	c$glgC
+c$protein-N(PI)-phosphohistidine-sugar#SPACE#phosphotransferase#SPACE#activity	c$glvC c$ascF c$treB c$ptsG c$mtlA c$nagE c$murP c$fruA c$sgcB c$glvB c$bglF
+c$homoserine#SPACE#kinase#SPACE#activity	c$thrB
+c$nucleoside#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$nupX c$xapB c$psuT c$nupC
+c$rRNA#SPACE#(guanine-N2-)-methyltransferase#SPACE#activity	c$rsmC c$rsmJ c$rlmL
+c$alpha#COMMA#alpha-trehalase#SPACE#activity	c$treA c$treF
+c$biotin#SPACE#carboxylase#SPACE#activity	c$accC
+c$2-hydroxyglutarate#SPACE#dehydrogenase#SPACE#activity	c$hcxA c$lhgO c$serA
+c$FMN#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$yeeO
+c$L-threonine#SPACE#ammonia-lyase#SPACE#activity	c$tdcB c$ilvA c$dsdA
+c$acetyl-CoA#SPACE#C-acetyltransferase#SPACE#activity	c$leuA c$atoB
+c$transcription#SPACE#regulatory#SPACE#region#SPACE#DNA#SPACE#binding	c$argR c$ygaV c$ybdN c$fur c$arsR c$mprA c$ybdM c$zur
+c$oxidoreduction-driven#SPACE#active#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$cyoA c$cyoB c$cyoC c$cyoD
+c$NAD+#SPACE#binding	c$galE c$aroB c$arnA c$melA c$ligA
+c$misfolded#SPACE#protein#SPACE#binding	c$hscC c$yegD c$hscA c$dnaK
+c$adenosylcobinamide-GDP#SPACE#ribazoletransferase#SPACE#activity	c$cobS
+c$L-allo-threonine#SPACE#aldolase#SPACE#activity	c$ltaE
+c$diguanylate#SPACE#cyclase#SPACE#activity	c$dgcT c$dgcC c$dgcP c$dgcZ c$dgcQ c$dgcN c$dgcM c$dgcE c$dosC
+c$glutamine-fructose-6-phosphate#SPACE#transaminase#SPACE#(isomerizing)#SPACE#activity	c$glmS c$frlB
+c$serine-type#SPACE#endopeptidase#SPACE#activity	c$lon c$glpG c$lepB c$degQ c$degS c$ptrB c$degP c$clpP c$ompT
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#the#SPACE#CH-OH#SPACE#group#SPACE#of#SPACE#donors#COMMA##SPACE#NAD#SPACE#or#SPACE#NADP#SPACE#as#SPACE#acceptor	c$dmlA c$ghrA c$uxuB c$hcxA c$yiaK c$ygcW c$leuB c$kduD c$eutG c$mtlD c$yeiQ c$icd c$dkgA c$ydfI c$lgoD c$yihU c$uxaB c$yghA c$gpr
+c$aldo-keto#SPACE#reductase#SPACE#(NADP)#SPACE#activity	c$tas c$ydjG c$dkgB
+c$succinylglutamate#SPACE#desuccinylase#SPACE#activity	c$astE
+c$peroxidase#SPACE#activity	c$btuE c$ahpC c$yfeX c$yfcF c$hcp c$osmC c$katG
+c$NADPH#SPACE#binding	c$dxr c$bdcA c$ahpF
+c$mechanosensitive#SPACE#ion#SPACE#channel#SPACE#activity	c$ybiO c$ybdG c$mscL c$mscK c$mscS c$ynaI
+c$dihydroneopterin#SPACE#triphosphate#SPACE#pyrophosphohydrolase#SPACE#activity	c$nudB
+c$hydroxymethylbutenyl#SPACE#pyrophosphate#SPACE#reductase#SPACE#activity	c$ispH
+c$protein-N(PI)-phosphohistidine-fructose#SPACE#phosphotransferase#SPACE#system#SPACE#transporter#SPACE#activity	c$fruA c$fruB
+c$amylo-alpha-1#COMMA#6-glucosidase#SPACE#activity	c$glgX
+c$T/G#SPACE#mismatch-specific#SPACE#endonuclease#SPACE#activity	c$vsr c$mutH
+c$dTDP-glucose#SPACE#4#COMMA#6-dehydratase#SPACE#activity	c$rfbB c$rffG
+c$carboxypeptidase#SPACE#activity	c$mrcB c$mrdA c$ldcA c$dacD c$dacA c$pbpC c$dcp c$dacC c$ampH c$mrcA c$ftsI c$dacB
+c$lytic#SPACE#endotransglycosylase#SPACE#activity	c$slt c$mltB c$emtA c$mltD c$mltC c$mltG
+c$arsenite#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$arsB
+c$malic#SPACE#enzyme#SPACE#activity	c$maeA
+c$homoserine#SPACE#O-succinyltransferase#SPACE#activity	c$metA
+c$proton#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$cyoA c$dtpB c$cyoB c$dtpC c$cyoC c$mntH c$cyoD c$tppB
+c$endopeptidase#SPACE#activity	c$glpG c$mepH c$pppA c$mepA c$lspA c$dacC c$prc c$mepS c$dacD c$hycI c$hyaD c$lepB c$hybD c$dacA c$pbpG c$mepM c$ompT c$sppA c$ampH c$dacB
+c$small#SPACE#ribosomal#SPACE#subunit#SPACE#rRNA#SPACE#binding	c$rpsF c$rpsK c$rpsR c$rpsT c$rpsQ c$era
+c$single-stranded#SPACE#DNA-dependent#SPACE#ATPase#SPACE#activity	c$recD
+c$enzyme#SPACE#inhibitor#SPACE#activity	c$cbpM c$iscX c$ptsN c$ychF c$ybcL c$sgrT
+c$pyridoxal#SPACE#phosphatase#SPACE#activity	c$yigL c$ybhA
+c$2-deoxyglucose-6-phosphatase#SPACE#activity	c$yniC c$hxpB
+c$iron#SPACE#ion#SPACE#binding	c$nrdF c$katE c$iscX c$lpxC c$nrdB c$ftnB c$hypD c$yrdD c$tsaD c$acnA c$hybC c$ftnA c$erpA c$hypC c$fhuA c$xdhD c$ytfE c$msrB c$norV c$hybG c$ygfK c$bfr c$sodB
+c$alcohol#SPACE#dehydrogenase#SPACE#(NADP+)#SPACE#activity	c$ybbO c$dkgA c$yqhD c$yahK c$yghA c$ahr
+c$transcription#SPACE#factor#SPACE#activity#COMMA##SPACE#bacterial-type#SPACE#RNA#SPACE#polymerase#SPACE#transcription#SPACE#enhancer#SPACE#sequence-specific#SPACE#binding	c$glrR c$norR
+c$damaged#SPACE#DNA#SPACE#binding	c$atl c$nei c$mutM c$mutS
+c$5S#SPACE#rRNA#SPACE#binding	c$rplE c$rplY c$rplR
+c$1-pyrroline#SPACE#dehydrogenase#SPACE#activity	c$astD c$patD
+c$acylglycerol#SPACE#O-acyltransferase#SPACE#activity	c$plsC
+c$phosphoribosyl-AMP#SPACE#cyclohydrolase#SPACE#activity	c$hisI
+c$NADPH#SPACE#dehydrogenase#SPACE#(quinone)#SPACE#activity	c$mdaB
+c$UDP-N-acetylglucosamine#SPACE#1-carboxyvinyltransferase#SPACE#activity	c$murA
+c$phosphopantetheine#SPACE#binding	c$acpP c$entB c$entF
+c$malate#SPACE#dehydrogenase#SPACE#(decarboxylating)#SPACE#(NAD+)#SPACE#activity	c$maeA
+c$UDP-4-amino-4-deoxy-L-arabinose#SPACE#aminotransferase	c$arnB
+c$dATP#SPACE#pyrophosphohydrolase#SPACE#activity	c$nudB
+c$translation#SPACE#activator#SPACE#activity	c$rfaH
+c$acetaldehyde#SPACE#dehydrogenase#SPACE#(acetylating)#SPACE#activity	c$adhE c$mhpF
+c$single-stranded#SPACE#RNA#SPACE#binding	c$cspA c$yejK c$hslR
+c$6-phospho-beta-glucosidase#SPACE#activity	c$bglB c$ascB c$chbF
+c$steroid#SPACE#dehydrogenase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#the#SPACE#CH-OH#SPACE#group#SPACE#of#SPACE#donors#COMMA##SPACE#NAD#SPACE#or#SPACE#NADP#SPACE#as#SPACE#acceptor	c$kduD
+c$xenobiotic#SPACE#transmembrane#SPACE#transporting#SPACE#ATPase#SPACE#activity	c$msbA c$macB c$mdlA c$mdlB
+c$galactonate#SPACE#dehydratase#SPACE#activity	c$dgoD
+c$tRNA#SPACE#nucleotidyltransferase#SPACE#activity	c$rph
+c$DNA/RNA#SPACE#hybrid#SPACE#binding	c$casD c$casC
+c$intramolecular#SPACE#transferase#SPACE#activity	c$rbsD c$leuD c$leuC
+c$gluconokinase#SPACE#activity	c$idnK c$gntK
+c$proline-tRNA#SPACE#ligase#SPACE#activity	c$proS
+c$prephenate#SPACE#dehydrogenase#SPACE#(NAD+)#SPACE#activity	c$tyrA
+c$AT#SPACE#DNA#SPACE#binding	c$stpA c$hns
+c$2-octoprenyl-3-methyl-6-methoxy-1#COMMA#4-benzoquinone#SPACE#hydroxylase#SPACE#activity	c$ubiF
+c$carbohydrate#SEMICOLON#proton#SPACE#symporter#SPACE#activity	c$araE c$nanT c$gntP c$galP c$fruA c$lacY c$xylE
+c$3-hydroxyacyl-CoA#SPACE#dehydrogenase#SPACE#activity	c$fadI c$paaH c$fadJ c$fadB
+c$glycerophosphodiester#SPACE#phosphodiesterase#SPACE#activity	c$ugpQ c$glpQ
+c$1-ethyladenine#SPACE#demethylase#SPACE#activity	c$alkB
+c$protein-N(PI)-phosphohistidine-mannose#SPACE#phosphotransferase#SPACE#system#SPACE#transporter#SPACE#activity	c$manX c$manY c$manZ
+c$RNA#SPACE#polymerase#SPACE#core#SPACE#enzyme#SPACE#binding	c$suhB c$mfd
+c$protein-glutamine#SPACE#N-methyltransferase#SPACE#activity	c$prmC c$prmB
+c$3'-5'#SPACE#RNA#SPACE#helicase#SPACE#activity	c$rnr
+c$phosphoenolpyruvate#SPACE#carboxylase#SPACE#activity	c$ppc
+c$sodium#SEMICOLON#proton#SPACE#antiporter#SPACE#activity	c$chaA c$nhaA c$nhaB c$mdtM c$mdfA c$yjcE
+c$transcription#SPACE#factor#SPACE#binding	c$mtfA c$ydiV c$puuA
+c$formyltetrahydrofolate#SPACE#deformylase#SPACE#activity	c$purU
+c$copper#SPACE#ion#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$cusA c$cusB c$cusC
+c$endodeoxyribonuclease#SPACE#activity	c$yjiQ c$smrA c$cas1 c$rpsP c$rpnD c$yhbQ c$cho
+c$protein#SPACE#dimerization#SPACE#activity	c$pntA
+c$protein#SPACE#binding#SPACE#involved#SPACE#in#SPACE#protein#SPACE#folding	c$hslO c$fimC c$hscC c$yegD c$groL c$dnaK c$hscA c$tig
+c$O-palmitoyltransferase#SPACE#activity	c$pagP
+c$carbohydrate#SPACE#binding	c$xylF c$araF c$yphF c$yphB c$yiaO c$mglB
+c$ATPase#SPACE#activity	c$phnK c$cydD c$dinG c$macB c$afuC c$ftsH c$cydC c$lon c$nfrB c$mlaF c$rbbA c$gspE c$malK c$ychF c$hslU c$zapE c$uvrA c$ftsK c$bcsQ c$yegD c$mutS c$copA c$tcyN c$potA c$hscA c$dnaK c$mdlB c$hepA c$ydcT c$uup c$htpG c$yhdZ c$araG c$wzc c$fetA c$clpX c$zntA c$metN c$recQ c$dbpA c$ytfR c$mlaB c$hofB c$hscC c$ugpC c$clpA c$minD c$tsaE c$yddA c$groL c$ettA c$dnaX c$ymjB c$ravA c$mutL c$mdlA c$yojI c$potG c$hflX
+c$electron-transferring-flavoprotein#SPACE#dehydrogenase#SPACE#activity	c$cbrA c$fixC
+c$S-(hydroxymethyl)glutathione#SPACE#dehydrogenase#SPACE#activity	c$frmA
+c$2-ketobutyrate#SPACE#formate-lyase#SPACE#activity	c$tdcE
+c$D-amino-acid#SPACE#dehydrogenase#SPACE#activity	c$dadA
+c$1#COMMA#4-dihydroxy-2-naphthoate#SPACE#octaprenyltransferase#SPACE#activity	c$menA
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#phosphorus#SPACE#or#SPACE#arsenic#SPACE#in#SPACE#donors	c$phoA
+c$mannitol-1-phosphate#SPACE#5-dehydrogenase#SPACE#activity	c$mtlD
+c$succinate#SPACE#dehydrogenase#SPACE#(ubiquinone)#SPACE#activity	c$frdC c$sdhC c$frdD
+c$toxin#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$sbmA c$gspE
+c$5-(carboxyamino)imidazole#SPACE#ribonucleotide#SPACE#mutase#SPACE#activity	c$purE
+c$3'-5'-exoribonuclease#SPACE#activity	c$orn c$rph c$pnp c$rnr c$tatD c$sbcB
+c$alkyl#SPACE#hydroperoxide#SPACE#reductase#SPACE#activity	c$ahpF
+c$aminobutyraldehyde#SPACE#dehydrogenase#SPACE#activity	c$astD c$patD
+c$serine#SPACE#3-dehydrogenase#SPACE#activity	c$ydfG
+c$enoyl-CoA#SPACE#hydratase#SPACE#activity	c$scpB c$paaZ c$fadI c$paaG c$fadJ c$fadB c$caiD c$paaF
+c$alanine-tRNA#SPACE#ligase#SPACE#activity	c$alaS
+c$sulfurtransferase#SPACE#activity	c$ttcA c$ynjE c$csdA c$fdhD c$mnmA
+c$thiamine#SPACE#kinase#SPACE#activity	c$thiK
+c$GMP#SPACE#synthase#SPACE#activity	c$guaA
+c$metal#SPACE#ion#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$cusB
+c$rRNA#SPACE#(cytosine-2'-O-)-methyltransferase#SPACE#activity	c$rsmI c$rlmM
+c$lipid-linked#SPACE#peptidoglycan#SPACE#transporter#SPACE#activity	c$ftsW c$murJ c$mrdB
+c$L-serine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$tdcC
+c$queuine#SPACE#tRNA-ribosyltransferase#SPACE#activity	c$tgt
+c$fumarate#SPACE#hydratase#SPACE#activity	c$fumC c$fumA c$fumB c$fumE c$fumD
+c$methionine#SPACE#synthase#SPACE#activity	c$metE c$metH
+c$ferrous#SPACE#iron#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$zupT c$fieF c$feoB
+c$substrate-specific#SPACE#channel#SPACE#activity	c$chiP
+c$3-mercaptopyruvate#SPACE#sulfurtransferase#SPACE#activity	c$sseA
+c$molybdate#SPACE#ion#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$modC c$modB
+c$cyclic-nucleotide#SPACE#phosphodiesterase#SPACE#activity	c$pdeK
+c$nickel#SPACE#cation#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$nikB c$corA c$rcnA c$nikC c$zntA
+c$maltose-transporting#SPACE#ATPase#SPACE#activity	c$malF c$ynjD c$malK c$malG c$ycjO
+c$beta-alanine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$cycA
+c$disulfide#SPACE#oxidoreductase#SPACE#activity	c$lpd c$yfcG c$ccmG c$yghU
+c$nicotinamide-nucleotide#SPACE#amidase#SPACE#activity	c$pncC
+c$transferase#SPACE#activity#COMMA##SPACE#transferring#SPACE#amino-acyl#SPACE#groups	c$aat c$ldtC c$ldtD c$ldtE c$ldtA c$ldtB
+c$tellurite#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$actP c$pitA
+c$arabinose-5-phosphate#SPACE#isomerase#SPACE#activity	c$gutQ c$kdsD
+c$GDP-L-fucose#SPACE#synthase#SPACE#activity	c$fcl
+c$phospholipase#SPACE#D#SPACE#activity	c$clsB
+c$osmosensor#SPACE#activity	c$proV
+c$heat#SPACE#shock#SPACE#protein#SPACE#binding	c$hscC c$yegD c$dnaK c$hscA
+c$[acyl-carrier-protein]#SPACE#S-malonyltransferase#SPACE#activity	c$fabD
+c$dGTP#SPACE#binding	c$nrdD
+c$glyceraldehyde-3-phosphate#SPACE#dehydrogenase#SPACE#(NAD+)#SPACE#(phosphorylating)#SPACE#activity	c$gapC c$gapA c$epd
+c$adenosylmethionine#SPACE#decarboxylase#SPACE#activity	c$speD
+c$ribosome#SPACE#binding	c$arfB c$raiA c$rlmH c$der c$ettA c$tig c$hpf c$rmf c$infC c$relE c$infA c$ychF c$def c$efp c$prfA c$yafQ c$hflX
+c$RNA#SPACE#strand#SPACE#annealing#SPACE#activity	c$proQ c$deaD c$srmB
+c$quinolinate#SPACE#synthetase#SPACE#A#SPACE#activity	c$nadA
+c$spermidine#SPACE#synthase#SPACE#activity	c$speE
+c$CDP-diacylglycerol-glycerol-3-phosphate#SPACE#3-phosphatidyltransferase#SPACE#activity	c$ynbA
+c$large#SPACE#ribosomal#SPACE#subunit#SPACE#rRNA#SPACE#binding	c$rplF c$rplM c$rplI c$rplS c$rplT c$rplN
+c$polyphosphate#SPACE#kinase#SPACE#activity	c$ppk
+c$8-amino-7-oxononanoate#SPACE#synthase#SPACE#activity	c$bioF
+c$3#SPACE#iron#COMMA##SPACE#4#SPACE#sulfur#SPACE#cluster#SPACE#binding	c$hyaA c$ispH c$narH c$frdB c$sdhB
+c$ion#SPACE#channel#SPACE#activity	c$yfeO c$mscL c$clcA
+c$thymidine#SPACE#phosphorylase#SPACE#activity	c$deoA
+c$inositol#SPACE#monophosphate#SPACE#1-phosphatase#SPACE#activity	c$suhB
+c$formate#SPACE#C-acetyltransferase#SPACE#activity	c$pflB c$ybiW c$grcA c$tdcE
+c$arginine#SPACE#binding	c$artJ c$argB
+c$melibiose#SEMICOLON#cation#SPACE#symporter#SPACE#activity	c$melB
+c$formate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$focA c$yfdC c$focB
+c$ribonucleoside-diphosphate#SPACE#reductase#SPACE#activity#COMMA##SPACE#thioredoxin#SPACE#disulfide#SPACE#as#SPACE#acceptor	c$nrdD c$nrdE c$nrdF c$nrdB c$nrdG c$nrdA
+c$homoserine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$rhtC c$leuE c$rhtB
+c$phosphate#SPACE#acetyltransferase#SPACE#activity	c$eutD c$pta
+c$methylglyoxal#SPACE#reductase#SPACE#(NADPH-dependent#COMMA##SPACE#acetol#SPACE#producing)	c$yqhD c$dkgB
+c$dCTP#SPACE#diphosphatase#SPACE#activity	c$nudI
+c$beta-galactosidase#SPACE#activity	c$ebgA c$lacZ
+c$methylmalonyl-CoA#SPACE#mutase#SPACE#activity	c$scpA
+c$maltose#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$malX c$malE
+c$mannitol-1-phosphatase#SPACE#activity	c$hxpB c$hxpA
+c$hydro-lyase#SPACE#activity	c$frlB c$edd c$yagF c$menC c$yjhG c$dsdA c$caiD c$ilvD
+c$2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid#SPACE#synthase#SPACE#activity	c$menD
+c$GDP-mannose#SPACE#4#COMMA#6-dehydratase#SPACE#activity	c$gmd
+c$peptidoglycan#SPACE#binding	c$lpp c$dedD c$damX c$yqhH
+c$3-isopropylmalate#SPACE#dehydrogenase#SPACE#activity	c$dmlA c$leuB
+c$glycerophosphoinositol#SPACE#glycerophosphodiesterase#SPACE#activity	c$ugpQ
+c$exodeoxyribonuclease#SPACE#I#SPACE#activity	c$sbcB
+c$ferrous#SPACE#iron#SPACE#binding	c$galT c$iscA c$alkB c$iscX c$codA c$rpe c$uxuA c$fucO c$cyaY c$iscU c$map c$roxA c$mhpB c$def c$tdh c$cpdA c$norR c$uxaA c$adeD
+c$L-arabinose#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$araE c$araG c$araH
+c$mannose-1-phosphate#SPACE#guanylyltransferase#SPACE#activity	c$cpsB
+c$DNA#SPACE#hairpin#SPACE#binding	c$rayT
+c$L-tyrosine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$aroP c$yddG
+c$guanosine-3'#COMMA#5'-bis(diphosphate)#SPACE#3'-diphosphatase#SPACE#activity	c$relA c$spoT
+c$GMP#SPACE#reductase#SPACE#activity	c$guaC
+c$guanosine-5'-triphosphate#COMMA#3'-diphosphate#SPACE#diphosphatase#SPACE#activity	c$gpp
+c$lactose#SEMICOLON#proton#SPACE#symporter#SPACE#activity	c$lacY
+c$efflux#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$ygaZ c$eamA c$mdtA c$tolC c$ybhF c$ygaH c$ybhR c$tqsA c$ybhS
+c$guanylate#SPACE#kinase#SPACE#activity	c$gmk c$phnN
+c$undecaprenyl-diphosphatase#SPACE#activity	c$bacA c$pgpB c$lpxT c$ybjG
+c$acetylglutamate#SPACE#kinase#SPACE#activity	c$argB
+c$pseudouridine#SPACE#synthase#SPACE#activity	c$rluE c$truA c$rluA c$rluB c$truC c$rluC c$truB c$rluD c$rsuA c$truD c$rluF
+c$transferase#SPACE#activity#COMMA##SPACE#transferring#SPACE#aldehyde#SPACE#or#SPACE#ketonic#SPACE#groups	c$talB c$dxs
+c$glutamate#SPACE#dehydrogenase#SPACE#(NADP+)#SPACE#activity	c$gdhA
+c$carbamate#SPACE#kinase#SPACE#activity	c$yqeA c$yahI c$ybcF c$arcC
+c$bacterial-type#SPACE#RNA#SPACE#polymerase#SPACE#regulatory#SPACE#region#SPACE#sequence-specific#SPACE#DNA#SPACE#binding	c$pdeL c$sgrR c$paaX
+c$cobinamide#SPACE#kinase#SPACE#activity	c$cobU
+c$glycine#SPACE#betaine#SEMICOLON#proton#SPACE#symporter#SPACE#activity	c$proP
+c$D-methionine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$metN c$metI
+c$xanthine#SPACE#phosphoribosyltransferase#SPACE#activity	c$gpt
+c$hydrolase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#carbon-nitrogen#SPACE#(but#SPACE#not#SPACE#peptide)#SPACE#bonds#COMMA##SPACE#in#SPACE#cyclic#SPACE#amidines	c$yadE c$yahJ c$codA
+c$thiamine#SPACE#binding	c$tbpA
+c$nucleoside-diphosphatase#SPACE#activity	c$cof c$nudJ
+c$transcription#SPACE#coactivator#SPACE#activity	c$yajL
+c$phosphate#SPACE#ion#SPACE#binding	c$prs c$pstS
+c$lipopolysaccharide-1#COMMA#6-galactosyltransferase#SPACE#activity	c$wbbI c$waaB
+c$hydrolase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#glycosyl#SPACE#bonds	c$psuG
+c$aminoacyl-tRNA#SPACE#editing#SPACE#activity	c$valS c$thrS c$yeaK c$ybaK c$dtd c$alaS
+c$dihydroorotase#SPACE#activity	c$pyrC
+c$gamma-glutamylcyclotransferase#SPACE#activity	c$ytfP c$chaC
+c$transcription#SPACE#antitermination#SPACE#factor#SPACE#activity#COMMA##SPACE#RNA#SPACE#binding	c$cspA c$cspE c$rpsJ c$cspC
+c$dihydromonapterin#SPACE#reductase#SPACE#activity	c$folM
+c$single-stranded#SPACE#DNA#SPACE#endodeoxyribonuclease#SPACE#activity	c$sbcC c$sbcD c$rayT c$cas3
+c$beta-ketoacyl-acyl-carrier-protein#SPACE#synthase#SPACE#II#SPACE#activity	c$fabF
+c$alpha-D-ribose#SPACE#1-methylphosphonate#SPACE#5-phosphate#SPACE#C-P-lyase#SPACE#activity	c$phnJ
+c$cytidylate#SPACE#kinase#SPACE#activity	c$cmk
+c$methylcytosine#SPACE#dioxygenase#SPACE#activity	c$alkB
+c$cation#SEMICOLON#cation#SPACE#antiporter#SPACE#activity	c$nhaB
+c$2-amino-4-hydroxy-6-hydroxymethyldihydropteridine#SPACE#diphosphokinase#SPACE#activity	c$folK
+c$geranyltranstransferase#SPACE#activity	c$ispA
+c$chloride#SPACE#channel#SPACE#activity	c$clcB
+c$long-chain-3-hydroxyacyl-CoA#SPACE#dehydrogenase#SPACE#activity	c$fadJ c$fadB
+c$O-acetyltransferase#SPACE#activity	c$wecH
+c$5'-flap#SPACE#endonuclease#SPACE#activity	c$cas1 c$ygdG
+c$N-acylglucosamine-6-phosphate#SPACE#2-epimerase#SPACE#activity	c$nanE
+c$protein-containing#SPACE#complex#SPACE#scaffold#SPACE#activity	c$uspC
+c$glutathione#SPACE#peroxidase#SPACE#activity	c$btuE
+c$3-(3-hydroxyphenyl)propionate#SPACE#hydroxylase#SPACE#activity	c$mhpA
+c$lysine#SPACE#decarboxylase#SPACE#activity	c$ldcC c$cadA
+c$double-stranded#SPACE#DNA#SPACE#binding	c$rdgC c$yejK c$nrdR c$cedA c$cas3 c$rsmA
+c$molybdopterin#SPACE#adenylyltransferase#SPACE#activity	c$mog c$moeA
+c$tripeptide#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$dtpD c$dtpB c$dtpC c$tppB
+c$DNA-directed#SPACE#DNA#SPACE#polymerase#SPACE#activity	c$dinB c$polA c$dnaE c$polB c$umuD c$umuC
+c$phosphoglucomutase#SPACE#activity	c$pgm
+c$methylthiotransferase#SPACE#activity	c$rimO c$miaB
+c$3-hydroxypropionate#SPACE#dehydrogenase#SPACE#(NADP+)#SPACE#activity	c$rutE c$ydfG
+c$glycolate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$actP c$lldP c$glcA
+c$glyoxylate#SPACE#reductase#SPACE#(NADP)#SPACE#activity	c$ghrA c$ghrB
+c$ATP-dependent#SPACE#DNA#SPACE#helicase#SPACE#activity	c$recB c$recQ c$rep c$recG c$dinG c$ruvB c$recC
+c$single-stranded#SPACE#DNA-dependent#SPACE#ATP-dependent#SPACE#DNA#SPACE#helicase#SPACE#activity	c$recQ c$uvrD
+c$shikimate#SPACE#3-dehydrogenase#SPACE#(NADP+)#SPACE#activity	c$ydiB c$aroE
+c$calcium#SPACE#ion#SPACE#binding	c$mltB c$rihA c$glpQ c$pck c$malS c$yliI c$tynA c$pldA c$rihB
+c$1#COMMA#4-alpha-glucan#SPACE#branching#SPACE#enzyme#SPACE#activity	c$glgB
+c$oxygen-dependent#SPACE#protoporphyrinogen#SPACE#oxidase#SPACE#activity	c$hemG
+c$glutathione#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$gsiA c$gsiC c$gsiD
+c$rRNA#SPACE#(cytosine-C5-)-methyltransferase#SPACE#activity	c$rlmI c$rsmF c$rsmB
+c$obsolete#SPACE#signal#SPACE#transducer#SPACE#activity	c$tar c$aer c$tap c$dcuS c$rcsC
+c$DNA#SPACE#ligase#SPACE#activity	c$rtcB
+c$L-phenylalanine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$livH c$aroP c$livG c$yddG c$livM
+c$peptide#SEMICOLON#proton#SPACE#symporter#SPACE#activity	c$dtpD c$dtpB c$dtpC c$tppB
+c$RNA#SPACE#helicase#SPACE#activity	c$deaD c$dbpA
+c$N-acetylmuramoyl-L-alanine#SPACE#amidase#SPACE#activity	c$amiB c$amiA c$amiD c$amiC c$ampD
+c$UDP-N-acetylmuramoylalanyl-D-glutamate-2#COMMA#6-diaminopimelate#SPACE#ligase#SPACE#activity	c$murE
+c$phenylalanine-tRNA#SPACE#ligase#SPACE#activity	c$pheT c$pheS
+c$lipopolysaccharide-transporting#SPACE#ATPase#SPACE#activity	c$msbA c$lptF c$lptB
+c$3#COMMA#4-dihydroxy-2-butanone-4-phosphate#SPACE#synthase#SPACE#activity	c$ribB
+c$proline#SPACE#binding	c$proB
+c$nicotinate-nucleotide#SPACE#diphosphorylase#SPACE#(carboxylating)#SPACE#activity	c$nadC
+c$methylisocitrate#SPACE#lyase#SPACE#activity	c$prpB
+c$4-hydroxy-3-methylbut-2-en-1-yl#SPACE#diphosphate#SPACE#synthase#SPACE#activity	c$ispG
+c$fructose#SPACE#6-phosphate#SPACE#aldolase#SPACE#activity	c$fsaB c$fsaA
+c$phosphatidylglycerol#SPACE#binding	c$ubiG
+c$arabinose#SEMICOLON#proton#SPACE#symporter#SPACE#activity	c$fucP
+c$cyclic-guanylate-specific#SPACE#phosphodiesterase#SPACE#activity	c$pdeL c$pdeF c$pdeI c$pdeA c$pdeN c$pdeR c$pdeB c$ligA c$dosP c$pdeH
+c$phosphoric#SPACE#ester#SPACE#hydrolase#SPACE#activity	c$ycdX c$fbp
+c$protein-phosphocysteine-D-fructose-phosphotransferase#SPACE#system#SPACE#transporter#SPACE#activity	c$frwD c$fryB c$fruA c$frwB
+c$dUTP#SPACE#diphosphatase#SPACE#activity	c$dut c$nudI
+c$siderophore#SPACE#uptake#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$fhuB c$fiu c$fhuA c$fhuC c$fhuE c$insF1 c$yncD
+c$signal#SPACE#sequence#SPACE#binding	c$hyaE c$secY c$napD
+c$sulfathiazole#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$mdtP c$mdtN c$aaeA c$mdtO
+c$malate#SPACE#dehydrogenase#SPACE#(quinone)#SPACE#activity	c$mqo
+c$phosphatidylserine#SPACE#decarboxylase#SPACE#activity	c$psd
+c$DNA-dependent#SPACE#ATPase#SPACE#activity	c$recQ c$gyrA c$gyrB c$umuD c$mutS c$umuC
+c$xylonate#SPACE#dehydratase#SPACE#activity	c$yagF c$yjhG
+c$sequence-specific#SPACE#double-stranded#SPACE#DNA#SPACE#binding	c$xisR
+c$L-serine#SPACE#ammonia-lyase#SPACE#activity	c$tdcG c$sdaA c$tdcB c$sdaB c$dsdA
+c$3-hydroxyoctanoyl-[acyl-carrier-protein]#SPACE#dehydratase#SPACE#activity	c$fabA c$fabZ
+c$ureidoglycolate#SPACE#lyase#SPACE#activity	c$allA
+c$endoribonuclease#SPACE#activity	c$rnlA c$yafO c$yoeB c$mqsR c$higB c$casE c$chpB c$relE c$rna c$mazF c$yjdK c$hicA c$yafQ
+c$acetyl-CoA#SPACE#C-acyltransferase#SPACE#activity	c$paaJ c$yqeF c$fadI c$fadA c$atoB
+c$pyrroline-5-carboxylate#SPACE#reductase#SPACE#activity	c$proC
+c$N-acetyltransferase#SPACE#activity	c$rffC c$rimJ c$yhhY c$rimI c$rimL c$phnO
+c$hydroxyethylthiazole#SPACE#kinase#SPACE#activity	c$thiM
+c$L-cysteine#SPACE#desulfhydrase#SPACE#activity	c$tnaA c$metC c$cysK c$malY c$cysM
+c$propionyl-CoA#SEMICOLON#succinate#SPACE#CoA-transferase#SPACE#activity	c$scpC
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#NAD(P)H#COMMA##SPACE#quinone#SPACE#or#SPACE#similar#SPACE#compound#SPACE#as#SPACE#acceptor	c$azoR c$qorB
+c$(R)-carnitine#SEMICOLON#4-(trimethylammonio)butanoate#SPACE#antiporter#SPACE#activity	c$caiT
+c$cysteine#SPACE#desulfurase#SPACE#activity	c$sufS c$iscS
+c$glyoxalase#SPACE#III#SPACE#activity	c$ybcM c$yijO c$rclR c$gadX c$gadW c$feaR c$ydeO c$eutR c$rhaR c$rhaS c$envY c$hchA c$appY c$ydiP c$yhbO c$adiY c$chbR c$araC c$yneL c$ypdC c$nimR c$melR
+c$protein#SPACE#methyltransferase#SPACE#activity	c$metE c$prmC c$prmB c$metH
+c$phosphogluconate#SPACE#dehydratase#SPACE#activity	c$edd
+c$sodium#SPACE#ion#SPACE#binding	c$mltB c$tcdA
+c$endopeptidase#SPACE#inhibitor#SPACE#activity	c$yfhM
+c$methyltransferase#SPACE#activity	c$yfiC c$rlmA c$rlmH c$trmO c$cmoM c$rlmB c$dam c$yfiF c$trmH
+c$glycerol-3-phosphate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$ugpA c$ugpE c$ugpC
+c$carbohydrate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$bglH c$yiaM c$nanT c$lamB
+c$cysteine#SPACE#synthase#SPACE#activity	c$yhfS c$cysK c$cysM
+c$carbohydrate#SEMICOLON#cation#SPACE#symporter#SPACE#activity	c$gntU
+c$shikimate#SPACE#3-dehydrogenase#SPACE#(NAD+)#SPACE#activity	c$ydiB
+c$single-stranded#SPACE#DNA#SPACE#3'-5'#SPACE#exodeoxyribonuclease#SPACE#activity	c$orn c$tatD c$sbcB
+c$transition#SPACE#metal#SPACE#ion#SPACE#binding	c$recQ c$yjiA c$cusF c$nikA c$cusB
+c$6-phosphofructokinase#SPACE#activity	c$pfkA c$pfkB
+c$UDP-N-acetylmuramoylalanine-D-glutamate#SPACE#ligase#SPACE#activity	c$murD
+c$3-demethylubiquinone-n#SPACE#3-O-methyltransferase#SPACE#activity	c$ubiG
+c$D-alanine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$cycA
+c$drug#SPACE#binding	c$mrcB c$mrdA c$acrR c$msbA c$thrS c$rfe c$pbpC c$mrcA
+c$chorismate#SPACE#mutase#SPACE#activity	c$pheA c$tyrA
+c$tRNA#SPACE#dihydrouridine#SPACE#synthase#SPACE#activity	c$dusC c$dusA c$dusB
+c$glutamate#SPACE#5-kinase#SPACE#activity	c$proB
+c$nicotinate-nucleotide-dimethylbenzimidazole#SPACE#phosphoribosyltransferase#SPACE#activity	c$cobT
+c$nucleoside#SPACE#diphosphate#SPACE#kinase#SPACE#activity	c$ndk
+c$primary#SPACE#active#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$yjfF c$ytfT
+c$anthranilate#SPACE#synthase#SPACE#activity	c$trpD c$menF c$pabA c$trpE
+c$trimethylamine-N-oxide#SPACE#reductase#SPACE#(cytochrome#SPACE#c)#SPACE#activity	c$torC c$torA c$torZ
+c$alkanesulfonate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$ssuB c$ssuC c$tauA c$ssuA
+c$nucleobase#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$ybbW
+c$quaternary#SPACE#ammonium#SPACE#group#SPACE#binding	c$proX
+c$phosphatidylglycerol-phosphatidylethanolamine#SPACE#phosphatidyltransferase#SPACE#activity	c$clsC
+c$glutathione#SPACE#disulfide#SPACE#oxidoreductase#SPACE#activity	c$grxB
+c$2-isopropylmalate#SPACE#synthase#SPACE#activity	c$leuA
+c$orotate#SPACE#phosphoribosyltransferase#SPACE#activity	c$pyrE
+c$prophage#SPACE#integrase#SPACE#activity	c$intD c$intA
+c$1#COMMA#4-dihydroxy-2-naphthoyl-CoA#SPACE#thioesterase#SPACE#activity	c$entH c$menI
+c$tRNA#SPACE#2-selenouridine#SPACE#synthase#SPACE#activity	c$selU
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#the#SPACE#CH-CH#SPACE#group#SPACE#of#SPACE#donors#COMMA##SPACE#with#SPACE#a#SPACE#flavin#SPACE#as#SPACE#acceptor	c$fadE c$caiA c$ydiO c$ygcQ
+c$imidazoleglycerol-phosphate#SPACE#dehydratase#SPACE#activity	c$hisB
+c$deacetylase#SPACE#activity	c$chbG c$lpxC
+c$methionine-tRNA#SPACE#ligase#SPACE#activity	c$metG
+c$3-dehydroquinate#SPACE#dehydratase#SPACE#activity	c$aroD
+c$lipopolysaccharide#SPACE#glucosyltransferase#SPACE#II#SPACE#activity	c$waaI
+c$glutathione-regulated#SPACE#potassium#SPACE#exporter#SPACE#activity	c$kefB c$kefC
+c$cardiolipin#SPACE#synthase#SPACE#activity	c$clsB c$clsA c$clsC
+c$peptide-serine-N-acetyltransferase#SPACE#activity	c$rimL
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#diphenols#SPACE#and#SPACE#related#SPACE#substances#SPACE#as#SPACE#donors	c$cydA c$cydX c$msrQ
+c$adenine/guanine#SPACE#mispair#SPACE#binding	c$mutY
+c$coenzyme#SPACE#binding	c$yeeZ c$rfbB
+c$aromatic-amino-acid#SEMICOLON#2-oxoglutarate#SPACE#aminotransferase#SPACE#activity	c$tyrB
+c$C4-dicarboxylate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$dcuA c$dcuD c$dcuB
+c$potassium#SPACE#ion#SPACE#binding	c$metK c$udp c$tnaA c$kbp c$trkH c$tcdA c$ygdG c$trkG c$mnmE c$pdxK c$kdpA
+c$ferrochelatase#SPACE#activity	c$hemH
+c$thymidine#SPACE#kinase#SPACE#activity	c$tdk
+c$amino-acid#SPACE#betaine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$mdtJ c$mdtI c$emrE
+c$ferric#SPACE#iron#SPACE#binding	c$cyaY c$fdhE c$dps c$ftnA
+c$spermidine-importing#SPACE#ATPase#SPACE#activity	c$potC c$potA c$potB
+c$cofactor#SPACE#binding	c$dmsA c$torA c$fhuA c$aphA
+c$cadmium#SPACE#ion#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$zupT c$fieF c$mntH c$zntA
+c$cyclic#SPACE#pyranopterin#SPACE#monophosphate#SPACE#synthase#SPACE#activity	c$moaC
+c$adenylate#SPACE#kinase#SPACE#activity	c$uspG c$adk
+c$nitric#SPACE#oxide#SPACE#dioxygenase#SPACE#activity	c$hmp
+c$double-stranded#SPACE#DNA#SPACE#endodeoxyribonuclease#SPACE#activity	c$rpnA c$sbcC c$sbcD c$ralR
+c$tryptophan-tRNA#SPACE#ligase#SPACE#activity	c$trpS
+c$molecular_function	c$ygfM
+c$5'-tyrosyl-DNA#SPACE#phosphodiesterase#SPACE#activity	c$ybhP
+c$bacterial-type#SPACE#RNA#SPACE#polymerase#SPACE#transcriptional#SPACE#repressor#SPACE#activity#COMMA##SPACE#sequence-specific#SPACE#DNA#SPACE#binding	c$stpA c$hns
+c$2-hydroxyglutarate#SPACE#synthase#SPACE#activity	c$menD
+c$potassium#SEMICOLON#proton#SPACE#antiporter#SPACE#activity	c$chaA c$mdfA c$mdtM c$yjcE c$cvrA
+c$phosphoribosyl-ATP#SPACE#diphosphatase#SPACE#activity	c$hisI
+c$DNA#SPACE#topoisomerase#SPACE#activity	c$parC c$topA
+c$tRNA#SPACE#N-acetyltransferase#SPACE#activity	c$tmcA
+c$chloride#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$clcA
+c$phosphotransferase#SPACE#activity#COMMA##SPACE#alcohol#SPACE#group#SPACE#as#SPACE#acceptor	c$araB c$srlB c$ybhA
+c$protein#SPACE#histidine#SPACE#kinase#SPACE#activity	c$basS c$dcuS c$rcsC
+c$thiamine-pyrophosphatase#SPACE#activity	c$nudJ
+c$protein-phosphocysteine-N#COMMA#N'-diacetylchitobiose#SPACE#phosphotransferase#SPACE#system#SPACE#transporter#SPACE#activity	c$chbA c$chbB
+c$lipid#SPACE#phosphatase#SPACE#activity	c$pgpA
+c$3-deoxy-manno-octulosonate#SPACE#cytidylyltransferase#SPACE#activity	c$kdsB
+c$5'-3'#SPACE#exoribonuclease#SPACE#activity	c$yciV
+c$enzyme#SPACE#activator#SPACE#activity	c$yjcO c$ptsH c$lpoB c$sufE c$fre c$ssb
+c$triphosphoric#SPACE#monoester#SPACE#hydrolase#SPACE#activity	c$dgt
+c$thioredoxin#SPACE#peroxidase#SPACE#activity	c$btuE c$bcp c$tpx
+c$argininosuccinate#SPACE#lyase#SPACE#activity	c$argH
+c$uracil#SPACE#phosphoribosyltransferase#SPACE#activity	c$upp
+c$NAD#SPACE#binding	c$dmlA c$gapA c$pdxA c$yraR c$leuB c$pdxB c$epd c$ydiB c$pntA c$icd c$gapC c$nuoF c$uxaB c$nadK
+c$glutamate-tRNA#SPACE#ligase#SPACE#activity	c$gltX c$gluQ
+c$transferase#SPACE#activity#COMMA##SPACE#transferring#SPACE#hexosyl#SPACE#groups	c$bcsA c$glgA c$rffM
+c$riboflavin#SPACE#reductase#SPACE#(NADPH)#SPACE#activity	c$rutF c$fre c$cysJ
+c$protein#SPACE#deglycase#SPACE#activity	c$hchA c$yhbO c$yajL
+c$S-adenosyl-L-methionine#SPACE#binding	c$dam
+c$chloride#SPACE#ion#SPACE#binding	c$gph c$clcA
+c$holo-citrate#SPACE#lyase#SPACE#synthase#SPACE#activity	c$citX
+c$UDP-N-acetylglucosamine#SPACE#2-epimerase#SPACE#activity	c$rffE
+c$ionotropic#SPACE#glutamate#SPACE#receptor#SPACE#activity	c$tcyJ c$artJ c$glnH c$artI
+c$nucleotidase#SPACE#activity	c$yciV c$appA
+c$proton-transporting#SPACE#ATP#SPACE#synthase#SPACE#activity#COMMA##SPACE#rotational#SPACE#mechanism	c$atpD c$atpE c$atpF c$atpB c$atpC c$atpH c$atpG
+c$penicillin#SPACE#binding	c$mrcB c$mrdA c$dacD c$dacA c$pbpC c$dacC c$yfeW c$ampH c$mrcA c$ftsI c$dacB
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#other#SPACE#nitrogenous#SPACE#compounds#SPACE#as#SPACE#donors	c$norV
+c$carboxy-lyase#SPACE#activity	c$scpB c$ubiD c$ubiX c$pyrF
+c$translation#SPACE#release#SPACE#factor#SPACE#activity#COMMA##SPACE#codon#SPACE#nonspecific	c$arfB c$prfC
+c$lipoate-protein#SPACE#ligase#SPACE#activity	c$lplA
+c$CTP#SPACE#synthase#SPACE#activity	c$pyrG
+c$sulfate#SPACE#binding	c$cysP c$sbp
+c$cob(I)yrinic#SPACE#acid#SPACE#a#COMMA#c-diamide#SPACE#adenosyltransferase#SPACE#activity	c$btuR
+c$porphobilinogen#SPACE#synthase#SPACE#activity	c$hemB
+c$3-hydroxyphenyl#SPACE#propionate#SEMICOLON#proton#SPACE#symporter#SPACE#activity	c$mhpT
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#the#SPACE#CH-OH#SPACE#group#SPACE#of#SPACE#donors#COMMA##SPACE#quinone#SPACE#or#SPACE#similar#SPACE#compound#SPACE#as#SPACE#acceptor	c$dld c$yliI
+c$D-xylose#SEMICOLON#proton#SPACE#symporter#SPACE#activity	c$xylE
+c$four-way#SPACE#junction#SPACE#helicase#SPACE#activity	c$recQ c$ruvB c$ruvA
+c$nucleotide#SPACE#diphosphatase#SPACE#activity	c$rdgB c$nudI
+c$endoribonuclease#SPACE#activity#COMMA##SPACE#producing#SPACE#5'-phosphomonoesters	c$chpB
+c$succinylornithine#SPACE#transaminase#SPACE#activity	c$astC
+c$glucokinase#SPACE#activity	c$rpiR c$murR c$hexR c$alsK c$glk c$yfhH
+c$dimethyl#SPACE#sulfoxide#SPACE#reductase#SPACE#activity	c$dmsC c$dmsA c$ynfH c$dmsB
+c$aspartate#SPACE#binding	c$gltI
+c$lipoprotein#SPACE#transporter#SPACE#activity	c$lolA c$lolC c$lolE
+c$2-dehydro-3-deoxyglucarate#SPACE#aldolase#SPACE#activity	c$garL
+c$DNA#SPACE#ligase#SPACE#(NAD+)#SPACE#activity	c$ligB c$ligA
+c$secondary#SPACE#active#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$sbmA c$abgT
+c$L-2-hydroxyglutarate#SPACE#oxidase#SPACE#activity	c$lhgO
+c$oxaloacetate#SPACE#tautomerase#SPACE#activity	c$fumA
+c$3-carboxyethylcatechol#SPACE#2#COMMA#3-dioxygenase#SPACE#activity	c$mhpB
+c$DNA#SPACE#topoisomerase#SPACE#type#SPACE#I#SPACE#activity	c$topB c$topA
+c$DNA/RNA#SPACE#helicase#SPACE#activity	c$dbpA
+c$cytidine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$nupG c$nupC
+c$L-glutamine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$glnP c$glnQ
+c$aldehyde#SPACE#dehydrogenase#SPACE#(NAD)#SPACE#activity	c$astD c$betB c$aldB c$eutE
+c$ATP#SPACE#diphosphatase#SPACE#activity	c$ycaO
+c$GDP#SPACE#binding	c$selB c$pfkA c$rsgA c$obgE c$prfC c$mnmE
+c$glutaminase#SPACE#activity	c$glsB c$glsA c$glsA2 c$glsA1
+c$superoxide#SPACE#dismutase#SPACE#activity	c$sodC c$sodA c$sodB
+c$3-oxoadipyl-CoA#SPACE#thiolase#SPACE#activity	c$paaJ
+c$hydroperoxide#SPACE#reductase#SPACE#activity	c$ahpC c$bcp c$tpx c$hmp
+c$4-deoxy-L-threo-5-hexosulose-uronate#SPACE#ketol-isomerase#SPACE#activity	c$kduI
+c$[glutamate-ammonia-ligase]#SPACE#adenylyltransferase#SPACE#activity	c$glnE
+c$carbonate#SPACE#dehydratase#SPACE#activity	c$can c$cynT
+c$cobalamin#SPACE#binding	c$scpA c$eutC c$btuF c$metH
+c$purine#SPACE#nucleosidase#SPACE#activity	c$rihA c$yrfG c$rihB c$rihC
+c$ketol-acid#SPACE#reductoisomerase#SPACE#activity	c$ilvC
+c$3-phytase#SPACE#activity	c$agp
+c$NAD(P)+#SPACE#transhydrogenase#SPACE#activity	c$pntB c$sthA
+c$prosthetic#SPACE#group#SPACE#binding	c$citD
+c$2-oxopent-4-enoate#SPACE#hydratase#SPACE#activity	c$mhpD
+c$long-chain#SPACE#fatty#SPACE#acid#SPACE#transporting#SPACE#porin#SPACE#activity	c$fadL
+c$ATP-dependent#SPACE#peptidase#SPACE#activity	c$lon c$yifB c$clpP c$clpX c$clpA c$ftsH
+c$single-stranded#SPACE#DNA#SPACE#5'-3'#SPACE#exodeoxyribonuclease#SPACE#activity	c$recJ
+c$quinate#SPACE#3-dehydrogenase#SPACE#(NAD+)#SPACE#activity	c$ydiB
+c$monosaccharide#SPACE#binding	c$xylF c$araF c$alsB c$rbsB
+c$protein#SPACE#kinase#SPACE#activator#SPACE#activity	c$ptsN
+c$L-ribulose-phosphate#SPACE#4-epimerase#SPACE#activity	c$sgbE c$araD c$ulaF
+c$dTDP-4-dehydrorhamnose#SPACE#reductase#SPACE#activity	c$rfbD
+c$NAD(P)+#SPACE#transhydrogenase#SPACE#(AB-specific)#SPACE#activity	c$pntB c$pntA
+c$mRNA#SPACE#3'-UTR#SPACE#binding	c$acnB c$acnA
+c$L-lactate#SPACE#dehydrogenase#SPACE#activity	c$lldD c$ykgF c$ykgE c$ykgG
+c$transferase#SPACE#activity#COMMA##SPACE#transferring#SPACE#alkyl#SPACE#or#SPACE#aryl#SPACE#(other#SPACE#than#SPACE#methyl)#SPACE#groups	c$menA c$cmoB c$cyoE c$entB c$ubiA
+c$mannose#SPACE#binding	c$fimH
+c$cytosine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$codB
+c$anion#SPACE#binding	c$clcA
+c$1-acylglycerol-3-phosphate#SPACE#O-acyltransferase#SPACE#activity	c$plsC
+c$zinc-exporting#SPACE#ATPase#SPACE#activity	c$zntA
+c$cysteine-tRNA#SPACE#ligase#SPACE#activity	c$cysS
+c$recombinase#SPACE#activity	c$pinQ c$pinR c$pinE
+c$ether#SPACE#hydrolase#SPACE#activity	c$paaZ c$murQ
+c$cobalt#SPACE#ion#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$zupT c$corA c$zntA
+c$altronate#SPACE#dehydratase#SPACE#activity	c$uxaA
+c$enzyme#SPACE#binding	c$dinI c$sbmC c$recX c$atl c$rraB c$lpoB c$kefC c$ymdB c$prlF
+c$phospholipase#SPACE#activity	c$tesA
+c$acylphosphatase#SPACE#activity	c$yccX
+c$1-deoxy-D-xylulose-5-phosphate#SPACE#reductoisomerase#SPACE#activity	c$dxr
+c$UTP#SEMICOLON#glucose-1-phosphate#SPACE#uridylyltransferase#SPACE#activity	c$galF c$galU
+c$methylmalonyl-CoA#SPACE#decarboxylase#SPACE#activity	c$scpB
+c$lipopolysaccharide#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$yhjD
+c$lipopolysaccharide#SPACE#binding	c$lptE c$hlpA
+c$uroporphyrin-III#SPACE#C-methyltransferase#SPACE#activity	c$cysG
+c$phosphoribosylamine-glycine#SPACE#ligase#SPACE#activity	c$purD
+c$glycolipid#SPACE#transporter#SPACE#activity	c$lptA c$lptC
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#diphenols#SPACE#and#SPACE#related#SPACE#substances#SPACE#as#SPACE#donors#COMMA##SPACE#oxygen#SPACE#as#SPACE#acceptor	c$cueO c$appC c$appB c$cydB c$cydA
+c$fructose-bisphosphate#SPACE#aldolase#SPACE#activity	c$fbaA c$fbaB
+c$fucose#SPACE#binding	c$fucU
+c$ATP-dependent#SPACE#DNA/RNA#SPACE#helicase#SPACE#activity	c$dinG c$cas3
+c$phosphoenolpyruvate#SPACE#carboxykinase#SPACE#(ATP)#SPACE#activity	c$pck
+c$5-formyltetrahydrofolate#SPACE#cyclo-ligase#SPACE#activity	c$fau
+c$arginine-tRNA#SPACE#ligase#SPACE#activity	c$argS
+c$S-formylglutathione#SPACE#hydrolase#SPACE#activity	c$frmB c$yeiG
+c$4-hydroxy-tetrahydrodipicolinate#SPACE#reductase	c$dapB
+c$uridine#SPACE#kinase#SPACE#activity	c$udk c$upp c$coaA c$prkB
+c$quercetin#SPACE#2#COMMA#3-dioxygenase#SPACE#activity	c$yhhW
+c$silver#SPACE#ion#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$cusA c$copA
+c$dioxygenase#SPACE#activity	c$alkB
+c$preprotein#SPACE#binding	c$hybE
+c$transketolase#SPACE#activity	c$tktB c$tktA
+c$mRNA#SPACE#5'-UTR#SPACE#binding	c$rpsF c$rpsK c$csrA c$thrS c$rpsR c$rpsD
+c$glutathionylspermidine#SPACE#amidase#SPACE#activity	c$gss
+c$cation#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$kefB c$trkA
+c$succinate#SEMICOLON#fumarate#SPACE#antiporter#SPACE#activity	c$dcuA c$dcuB c$dcuC
+c$cobalt#SPACE#ion#SPACE#binding	c$argE c$zraP c$slyD c$dgt c$yfdR c$yfbR c$hxpA
+c$D-lactate#SPACE#dehydrogenase#SPACE#(cytochrome)#SPACE#activity	c$dld
+c$L-methionine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$metN c$metI
+c$UTP#SPACE#diphosphatase#SPACE#activity	c$yhdE
+c$cytosine#SPACE#deaminase#SPACE#activity	c$codA
+c$methylated-DNA-[protein]-cysteine#SPACE#S-methyltransferase#SPACE#activity	c$ogt c$ada
+c$heparin#SPACE#binding	c$elfC
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#NAD(P)H#COMMA##SPACE#nitrogenous#SPACE#group#SPACE#as#SPACE#acceptor	c$nfsA
+c$core#SPACE#promoter#SPACE#binding	c$fliZ c$chbR
+c$cytochrome#SPACE#bo3#SPACE#ubiquinol#SPACE#oxidase#SPACE#activity	c$cyoA c$cyoC c$cyoB c$cyoD
+c$adenine/cytosine#SPACE#mispair#SPACE#binding	c$mutS
+c$diamine#SPACE#N-acetyltransferase#SPACE#activity	c$speG
+c$CTPase#SPACE#activity	c$ftsH
+c$polar-amino#SPACE#acid-transporting#SPACE#ATPase#SPACE#activity	c$artP c$gltL c$tcyN
+c$UDP-3-O-[3-hydroxymyristoyl]#SPACE#glucosamine#SPACE#N-acyltransferase#SPACE#activity	c$lpxD
+c$ATPase#SPACE#activator#SPACE#activity	c$djlC c$hscB
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#oxidizing#SPACE#metal#SPACE#ions#COMMA##SPACE#oxygen#SPACE#as#SPACE#acceptor	c$cueO
+c$purine#SPACE#nucleobase#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$adeQ c$ghxQ c$ghxP c$adeP
+c$pantoate-beta-alanine#SPACE#ligase#SPACE#activity	c$panC c$cmk
+c$L-idonate#SPACE#5-dehydrogenase#SPACE#activity	c$idnD
+c$molybdopterin#SPACE#cofactor#SPACE#binding	c$fdhD c$narG c$paoD c$torD c$msrP c$narZ
+c$beta-glucosidase#SPACE#activity	c$bglB c$bglX c$ascB c$bglA
+c$N-succinylarginine#SPACE#dihydrolase#SPACE#activity	c$astB
+c$thiosulfate#SPACE#binding	c$cysP
+c$trisaccharide#SPACE#binding	c$malT
+c$zinc#SPACE#efflux#SPACE#active#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$fieF
+c$serine-tRNA#SPACE#ligase#SPACE#activity	c$serS
+c$[isocitrate#SPACE#dehydrogenase#SPACE#(NADP+)]#SPACE#phosphatase#SPACE#activity	c$aceK
+c$[formate-C-acetyltransferase]-activating#SPACE#enzyme#SPACE#activity	c$pflA c$ybiY
+c$glutamate#SPACE#decarboxylase#SPACE#activity	c$gadA c$gadB
+c$translation#SPACE#repressor#SPACE#activity	c$rplD
+c$cytidine#SPACE#kinase#SPACE#activity	c$udk c$prkB
+c$glycerol-3-phosphate#SPACE#O-acyltransferase#SPACE#activity	c$plsB
+c$tRNA#SPACE#(adenine)#SPACE#methyltransferase#SPACE#activity	c$trmO
+c$[acyl-carrier-protein]#SPACE#phosphodiesterase#SPACE#activity	c$acpH
+c$pyrimidine#SPACE#nucleoside#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$nupG
+c$xanthine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$uacT c$xanQ c$xanP c$ybbY
+c$galactose#SPACE#binding	c$ytfQ
+c$diaminohydroxyphosphoribosylaminopyrimidine#SPACE#deaminase#SPACE#activity	c$ribD
+c$NAD(P)H#SPACE#nitroreductase#SPACE#activity	c$nfsB
+c$phosphoglucosamine#SPACE#mutase#SPACE#activity	c$glmM
+c$L-ribulose-5-phosphate#SPACE#3-epimerase#SPACE#activity	c$ulaE c$sgbU
+c$5-phospho-alpha-D-ribosyl#SPACE#1#COMMA#2-cyclic#SPACE#phosphate#SPACE#phosphodiesterase#SPACE#activity	c$phnP
+c$dihydrolipoyllysine-residue#SPACE#succinyltransferase#SPACE#activity	c$sucB
+c$16S#SPACE#rRNA#SPACE#(guanine(966)-N(2))-methyltransferase#SPACE#activity	c$rsmD
+c$metal#SPACE#cluster#SPACE#binding	c$nikA
+c$beta-aspartyl-peptidase#SPACE#activity	c$iaaA c$iadA
+c$cytoskeletal#SPACE#protein#SPACE#binding	c$cbeA c$cbtA
+c$IMP#SPACE#dehydrogenase#SPACE#activity	c$guaB
+c$molybdopterin-synthase#SPACE#adenylyltransferase#SPACE#activity	c$moeB
+c$5'-nucleotidase#SPACE#activity	c$ushA c$umpG c$yjjG c$umpH
+c$active#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$ypjM_2 c$mtr c$arsB c$nhaB
+c$3'(2')#COMMA#5'-bisphosphate#SPACE#nucleotidase#SPACE#activity	c$cysQ
+c$bis(5'-nucleosyl)-tetraphosphatase#SPACE#(symmetrical)#SPACE#activity	c$apaH
+c$tRNA#SPACE#(guanine(37)-N(1))-methyltransferase#SPACE#activity	c$trmD
+c$acetate#SEMICOLON#proton#SPACE#symporter#SPACE#activity	c$satP
+c$threonine#SPACE#synthase#SPACE#activity	c$thrC
+c$alcohol#SPACE#dehydrogenase#SPACE#[NAD(P)+]#SPACE#activity	c$yqhD
+c$hydroxypyruvate#SPACE#isomerase#SPACE#activity	c$hyi c$ygbM
+c$protein#SPACE#serine/threonine#SPACE#kinase#SPACE#activity	c$srkA c$yjjJ c$ptsH c$aceK c$hipA
+c$octanoyltransferase#SPACE#activity	c$lipB
+c$bis(5'-nucleosyl)-tetraphosphatase#SPACE#activity	c$apaH c$pphB
+c$bubble#SPACE#DNA#SPACE#binding	c$ybcN c$rayT
+c$L-aspartate#SPACE#oxidase#SPACE#activity	c$nadB
+c$rubredoxin-NAD+#SPACE#reductase#SPACE#activity	c$norW
+c$DNA#SPACE#topoisomerase#SPACE#type#SPACE#II#SPACE#(ATP-hydrolyzing)#SPACE#activity	c$gyrA c$gyrB c$parE c$parC
+c$cardiolipin#SPACE#binding	c$nhaA
+c$glycerophosphodiester#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$ugpA c$ugpC
+c$nucleotidyltransferase#SPACE#activity	c$tsaC c$moeB c$thiF c$entF c$cysN
+c$allose#SPACE#kinase#SPACE#activity	c$alsK
+c$aldose#SPACE#1-epimerase#SPACE#activity	c$yihR c$yphB c$galM
+c$2#COMMA#3-dihydroxybenzoate-serine#SPACE#ligase#SPACE#activity	c$entE c$entB c$entF
+c$autoinducer-2#SPACE#kinase#SPACE#activity	c$lsrK
+c$lysozyme#SPACE#inhibitor#SPACE#activity	c$pliG c$ivy c$mliC
+c$GTPase#SPACE#activator#SPACE#activity	c$yihI
+c$3-dehydro-L-gulonate-6-phosphate#SPACE#decarboxylase#SPACE#activity	c$ulaD c$sgbH
+c$methionine-oxo-acid#SPACE#transaminase#SPACE#activity	c$ybdL
+c$L-threonylcarbamoyladenylate#SPACE#synthase	c$tsaC
+c$NAD-dependent#SPACE#protein#SPACE#deacetylase#SPACE#activity	c$cobB
+c$5-amino-6-(5-phosphoribitylamino)uracil#SPACE#phosphatase#SPACE#activity	c$ybjI c$yigB
+c$copper#SPACE#chaperone#SPACE#activity	c$cusF
+c$D-sedoheptulose#SPACE#7-phosphate#SPACE#isomerase#SPACE#activity	c$lpcA
+c$N2-acetyl-L-ornithine#SEMICOLON#2-oxoglutarate#SPACE#5-aminotransferase#SPACE#activity	c$gabT c$astC c$argD
+c$sigma#SPACE#factor#SPACE#antagonist#SPACE#activity	c$flgM c$fliZ c$dnaJ c$rssB c$rsd c$rseA c$dnaK
+c$aspartate#SPACE#kinase#SPACE#activity	c$thrA c$metL c$kdpD c$lysC
+c$tRNA#SPACE#(adenine-C2-)-methyltransferase#SPACE#activity	c$rlmN
+c$D-serine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$cycA c$dsdX
+c$transcription#SPACE#factor#SPACE#activity#COMMA##SPACE#bacterial-type#SPACE#RNA#SPACE#polymerase#SPACE#proximal#SPACE#promoter#SPACE#sequence-specific#SPACE#DNA#SPACE#binding	c$kdpE c$cueR c$oxyR c$gcvA c$yebK
+c$RNA#SPACE#pyrophosphohydrolase#SPACE#activity	c$rppH
+c$8-oxo-dGDP#SPACE#phosphatase#SPACE#activity	c$mutT
+c$sulfur#SPACE#amino#SPACE#acid#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$yijE
+c$pyrimidine-5'-nucleotide#SPACE#nucleosidase#SPACE#activity	c$ppnN c$rihA
+c$undecaprenyl-phosphate#SPACE#4-deoxy-4-formamido-L-arabinose#SPACE#transferase#SPACE#activity	c$arnC
+c$3-phosphoshikimate#SPACE#1-carboxyvinyltransferase#SPACE#activity	c$aroA
+c$peroxiredoxin#SPACE#activity	c$btuE c$ynjA c$osmC
+c$melibiose#SEMICOLON#sodium#SPACE#symporter#SPACE#activity	c$melB
+c$diacylglycerol#SPACE#binding	c$cusC
+c$glutamate-cysteine#SPACE#ligase#SPACE#activity	c$gshA
+c$methionine-R-sulfoxide#SPACE#reductase#SPACE#activity	c$msrC
+c$L-tyrosine#SEMICOLON#2-oxoglutarate#SPACE#aminotransferase#SPACE#activity	c$tyrB c$aspC
+c$high-affinity#SPACE#L-histidine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$hisQ c$hisP
+c$cobinamide#SPACE#phosphate#SPACE#guanylyltransferase#SPACE#activity	c$cobU
+c$succinate-semialdehyde#SPACE#dehydrogenase#SPACE#(NAD+)#SPACE#activity	c$sad c$aldA c$gabD
+c$sn-glycerol-3-phosphate#SEMICOLON#ubiquinone#SPACE#oxidoreductase#SPACE#activity	c$glpD
+c$pseudouridylate#SPACE#synthase#SPACE#activity	c$psuG
+c$potassium#SPACE#channel#SPACE#activity	c$trkH c$trkG
+c$uracil#SEMICOLON#cation#SPACE#symporter#SPACE#activity	c$uraA
+c$allulose#SPACE#6-phosphate#SPACE#3-epimerase#SPACE#activity	c$alsE
+c$aminoacyl-tRNA#SPACE#hydrolase#SPACE#activity	c$arfB c$pth
+c$transferase#SPACE#activity#COMMA##SPACE#transferring#SPACE#acyl#SPACE#groups	c$nhoA c$rffC c$ybiW
+c$galactose#SEMICOLON#proton#SPACE#symporter#SPACE#activity	c$galP c$fucP
+c$cysteine-type#SPACE#carboxypeptidase#SPACE#activity	c$ldtD c$ldtC c$ldtE c$ldtA c$ldtB
+c$magnesium#SPACE#ion#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$corA
+c$spermidine#SPACE#binding	c$potD
+c$rhamnulokinase#SPACE#activity	c$rhaB
+c$3'-nucleotidase#SPACE#activity	c$cpdB c$umpG
+c$carnitine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$caiT
+c$toxic#SPACE#substance#SPACE#binding	c$yefM c$fhuA c$lepB c$dinJ c$kefC
+c$glucose#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$ptsG
+c$protein#SPACE#self-association	c$mreC
+c$2-C-methyl-D-erythritol#SPACE#4-phosphate#SPACE#cytidylyltransferase#SPACE#activity	c$trmD c$ispD
+c$protoheme#SPACE#IX#SPACE#ABC#SPACE#transporter#SPACE#activity	c$ccmA
+c$dihydropyrimidine#SPACE#dehydrogenase#SPACE#(NADP+)#SPACE#activity	c$hycB c$hyfA c$preA
+c$IMP#SPACE#cyclohydrolase#SPACE#activity	c$purH
+c$lipid#SPACE#kinase#SPACE#activity	c$yegS
+c$5-(carboxyamino)imidazole#SPACE#ribonucleotide#SPACE#synthase#SPACE#activity	c$purK
+c$propionate#SPACE#kinase#SPACE#activity	c$tdcD
+c$ADP-ribose#SPACE#diphosphatase#SPACE#activity	c$nudF
+c$phosphoribosylaminoimidazolesuccinocarboxamide#SPACE#synthase#SPACE#activity	c$purC
+c$protein#SPACE#tyrosine#SPACE#phosphatase#SPACE#activity	c$etp c$wzb
+c$fructuronate#SPACE#reductase#SPACE#activity	c$uxuB
+c$serine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$tdcC
+c$triphosphatase#SPACE#activity	c$ygiF c$ppa
+c$RNA#SPACE#strand-exchange#SPACE#activity	c$proQ
+c$high-affinity#SPACE#zinc#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$znuB
+c$carbohydrate#SPACE#kinase#SPACE#activity	c$rfaE c$frlD c$yihV c$fruK c$yegV c$pfkB c$rbsK
+c$pyruvate#SPACE#kinase#SPACE#activity	c$pykF c$pykA
+c$RNA#SPACE#methyltransferase#SPACE#activity	c$rsmF
+c$1-pyrroline-5-carboxylate#SPACE#dehydrogenase#SPACE#activity	c$putA
+c$restriction#SPACE#endodeoxyribonuclease#SPACE#activity	c$mrr c$mcrB
+c$cysteine-type#SPACE#peptidase#SPACE#activity	c$elaD
+c$neutral#SPACE#amino#SPACE#acid#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$sstT
+c$23S#SPACE#rRNA#SPACE#(adenine(1618)-N(6))-methyltransferase#SPACE#activity	c$rlmF
+c$ADP-sugar#SPACE#diphosphatase#SPACE#activity	c$nudF c$nudE
+c$sedoheptulose-7-phosphate#SEMICOLON#D-glyceraldehyde-3-phosphate#SPACE#glyceronetransferase#SPACE#activity	c$talB c$talA
+c$methionine#SPACE#adenosyltransferase#SPACE#activity	c$metK
+c$3'#COMMA#5'-cyclic-AMP#SPACE#phosphodiesterase#SPACE#activity	c$cpdA
+c$adenine#SPACE#deaminase#SPACE#activity	c$ade c$adeD
+c$tryptophanase#SPACE#activity	c$tnaA
+c$DNA#SPACE#N-glycosylase#SPACE#activity	c$nth c$nei c$mutM c$mug
+c$DNA-3-methyladenine#SPACE#glycosylase#SPACE#activity	c$alkA c$tag
+c$pantothenate#SPACE#kinase#SPACE#activity	c$coaA
+c$microcin#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$sbmA
+c$sorbitol-6-phosphatase#SPACE#activity	c$hxpB c$hxpA
+c$prenyltransferase#SPACE#activity	c$ispA c$menA c$ispB c$ubiA
+c$ATP-dependent#SPACE#3'-5'#SPACE#RNA#SPACE#helicase#SPACE#activity	c$dbpA
+c$selenocysteine#SPACE#lyase#SPACE#activity	c$sufS c$iscS
+c$3-hydroxybutyryl-CoA#SPACE#epimerase#SPACE#activity	c$fadB
+c$phosphotransferase#SPACE#activity#COMMA##SPACE#for#SPACE#other#SPACE#substituted#SPACE#phosphate#SPACE#groups	c$rfe c$wcaJ c$mraY
+c$nitric#SPACE#oxide#SPACE#binding	c$nsrR c$norR
+c$2'#COMMA#3'-cyclic-nucleotide#SPACE#2'-phosphodiesterase#SPACE#activity	c$cpdB
+c$[citrate#SPACE#(pro-3S)-lyase]#SPACE#ligase#SPACE#activity	c$citC
+c$isopentenyl-diphosphate#SPACE#delta-isomerase#SPACE#activity	c$idi
+c$carbamoyl-phosphate#SPACE#synthase#SPACE#(ammonia)#SPACE#activity	c$carB
+c$ferroxidase#SPACE#activity	c$cueO c$cyaY c$bfr c$ftnA
+c$acyl#SPACE#binding	c$acpP
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#CH#SPACE#or#SPACE#CH2#SPACE#groups#COMMA##SPACE#NAD#SPACE#or#SPACE#NADP#SPACE#as#SPACE#acceptor	c$paaZ
+c$transcriptional#SPACE#repressor#SPACE#activity#COMMA##SPACE#bacterial-type#SPACE#RNA#SPACE#polymerase#SPACE#proximal#SPACE#promoter#SPACE#sequence-specific#SPACE#DNA#SPACE#binding	c$putA c$lacI c$rcsB c$alaS c$purR
+c$putrescine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$sapC c$puuP c$sapD c$sapB c$sapF c$plaP
+c$shikimate#SPACE#kinase#SPACE#activity	c$aroK c$aroL
+c$pyridoxal#SPACE#kinase#SPACE#activity	c$pdxY c$pdxK
+c$protein#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$secY c$secE c$secG
+c$uracil#SPACE#oxygenase#SPACE#activity	c$rutA
+c$nitrite#SPACE#reductase#SPACE#(cytochrome#COMMA##SPACE#ammonia-forming)#SPACE#activity	c$nrfB c$nrfA c$nrfC
+c$gluconate#SPACE#2-dehydrogenase#SPACE#activity	c$ghrB
+c$transposase#SPACE#activity	c$insI4 c$insI3 c$insI-1 c$insH-6 c$insI-2
+c$coproporphyrinogen#SPACE#dehydrogenase#SPACE#activity	c$hemN
+c$inosine#SPACE#nucleosidase#SPACE#activity	c$xapA c$rihC
+c$prephenate#SPACE#dehydratase#SPACE#activity	c$pheA
+c$L-isoleucine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$livH c$livG c$livF c$livM c$brnQ
+c$inositol#SPACE#phosphate#SPACE#phosphatase#SPACE#activity	c$appA
+c$lipoate#SPACE#synthase#SPACE#activity	c$lipA
+c$iron#SPACE#chelate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$fecC c$fecD
+c$lipopolysaccharide#SPACE#glucosyltransferase#SPACE#I#SPACE#activity	c$waaG c$waaJ
+c$maltose#SPACE#binding	c$malE
+c$N-acetylglucosamine-6-phosphate#SPACE#deacetylase#SPACE#activity	c$nagA
+c$butane-1#COMMA#4-diamine#SEMICOLON#2-oxoglutarate#SPACE#aminotransferase#SPACE#activity	c$patA
+c$phosphatidylethanolamine#SEMICOLON#Kdo2-lipid#SPACE#A#SPACE#phosphoethanolamine#SPACE#transferase#SPACE#activity	c$eptB
+c$cation#SPACE#binding	c$aceA c$amyA
+c$acyl-CoA#SPACE#hydrolase#SPACE#activity	c$tesA c$tesB c$fadM c$yciA
+c$exodeoxyribonuclease#SPACE#VII#SPACE#activity	c$xseB
+c$tryptophan#SPACE#synthase#SPACE#activity	c$trpA c$trpB
+c$lysine#SEMICOLON#cadaverine#SPACE#antiporter#SPACE#activity	c$cadB
+c$citrate#SPACE#(Si)-synthase#SPACE#activity	c$prpC
+c$thiolester#SPACE#hydrolase#SPACE#activity	c$entH c$ybfF c$ybgC
+c$tRNA-specific#SPACE#adenosine-34#SPACE#deaminase#SPACE#activity	c$tadA
+c$GTP#SPACE#3'#COMMA#8'-cyclase#SPACE#activity	c$moaA
+c$ATPase#SPACE#activity#COMMA##SPACE#coupled#SPACE#to#SPACE#transmembrane#SPACE#movement#SPACE#of#SPACE#ions#COMMA##SPACE#phosphorylative#SPACE#mechanism	c$copA
+c$succinate#SPACE#dehydrogenase#SPACE#activity	c$frdC c$frdA c$frdB c$sdhA c$frdD
+c$ornithine#SPACE#decarboxylase#SPACE#activity	c$speF c$speC
+c$hypoxanthine#SPACE#phosphoribosyltransferase#SPACE#activity	c$hpt c$gpt
+c$trehalose#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$treB
+c$translation#SPACE#repressor#SPACE#activity#COMMA##SPACE#mRNA#SPACE#regulatory#SPACE#element#SPACE#binding	c$thrS c$rpsD c$rplT
+c$sirohydrochlorin#SPACE#ferrochelatase#SPACE#activity	c$cysG
+c$acetyl-CoA#SEMICOLON#oxalate#SPACE#CoA-transferase	c$yfdE
+c$cadmium#SPACE#ion#SPACE#binding	c$zinT c$tdh
+c$UDP-glucose#SPACE#6-dehydrogenase#SPACE#activity	c$ugd
+c$1-deoxy-D-xylulose-5-phosphate#SPACE#synthase#SPACE#activity	c$dxs
+c$taurine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$tauB c$tauC
+c$glycerophosphocholine#SPACE#phosphodiesterase#SPACE#activity	c$ugpQ
+c$2#COMMA#3-bisphosphoglycerate-independent#SPACE#phosphoglycerate#SPACE#mutase#SPACE#activity	c$gpmM
+c$NAD(P)H#SPACE#dehydrogenase#SPACE#(quinone)#SPACE#activity	c$ycaK c$mdaB c$kefG c$kefF c$wrbA
+c$alpha-ketoacid#SPACE#dehydrogenase#SPACE#activity	c$lipA
+c$GTP#SPACE#cyclohydrolase#SPACE#II#SPACE#activity	c$ribA
+c$peptide-methionine#SPACE#(R)-S-oxide#SPACE#reductase#SPACE#activity	c$msrB
+c$adenyl#SPACE#ribonucleotide#SPACE#binding	c$atpA
+c$phospholipid#SPACE#transporter#SPACE#activity	c$mlaE c$mlaF c$mlaB c$mlaD
+c$nitrate#SPACE#reductase#SPACE#activity	c$napA c$narY c$narG c$narI c$narH c$narV c$narZ
+c$guanosine#SPACE#phosphorylase#SPACE#activity	c$xapA
+c$xylulokinase#SPACE#activity	c$xylB
+c$selenate#SPACE#reductase#SPACE#activity	c$ynfE c$ynfF
+c$oxidized#SPACE#pyrimidine#SPACE#nucleobase#SPACE#lesion#SPACE#DNA#SPACE#N-glycosylase#SPACE#activity	c$nth c$nei c$mutM
+c$double-stranded#SPACE#DNA-dependent#SPACE#ATPase#SPACE#activity	c$ftsK
+c$propionate-CoA#SPACE#ligase#SPACE#activity	c$prpE c$acs
+c$ligase#SPACE#activity	c$asnB c$pinQ c$lysS c$lplA c$pinR c$cysS c$pheS c$asnA c$kbl c$pinE c$rtcB c$lysU
+c$acetate#SPACE#kinase#SPACE#activity	c$ackA c$purT c$tdcD
+c$2-succinyl-6-hydroxy-2#COMMA#4-cyclohexadiene-1-carboxylate#SPACE#synthase#SPACE#activity	c$menH
+c$2-octaprenylphenol#SPACE#hydroxylase#SPACE#activity	c$ubiI
+c$transferase#SPACE#activity#COMMA##SPACE#transferring#SPACE#phosphorus-containing#SPACE#groups	c$kptA c$basS c$torS c$ptsI c$npr c$rcsC
+c$(4S)-4-hydroxy-5-phosphonooxypentane-2#COMMA#3-dione#SPACE#isomerase#SPACE#activity	c$lsrG
+c$glutamate-1-semialdehyde#SPACE#2#COMMA#1-aminomutase#SPACE#activity	c$hemL
+c$antimonite#SPACE#secondary#SPACE#active#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$ypjM_2 c$arsB
+c$GDP-mannose#SPACE#hydrolase#SPACE#activity	c$nudK
+c$crossover#SPACE#junction#SPACE#endodeoxyribonuclease#SPACE#activity	c$cas1 c$ruvC c$rusA
+c$agmatinase#SPACE#activity	c$speB
+c$alanine#SPACE#racemase#SPACE#activity	c$alr
+c$long-chain#SPACE#fatty#SPACE#acid-CoA#SPACE#ligase#SPACE#activity	c$fadD
+c$UDP-N-acetylmuramoylalanyl-D-glutamyl-2#COMMA#6-diaminopimelate-D-alanyl-D-alanine#SPACE#ligase#SPACE#activity	c$murF
+c$protein#SPACE#disulfide#SPACE#isomerase#SPACE#activity	c$dsbC c$dnaJ c$dsbG c$dsbA
+c$L-rhamnonate#SPACE#dehydratase#SPACE#activity	c$rhmD
+c$protein-succinyllysine#SPACE#desuccinylase#SPACE#activity	c$cobB
+c$alpha-D-ribose#SPACE#1-methylphosphonate#SPACE#5-triphosphate#SPACE#synthase#SPACE#activity	c$phnI
+c$ferric-enterobactin#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$fepC c$fepD c$fepA c$fepG c$fepE
+c$exopolyphosphatase#SPACE#activity	c$umpG c$ppx
+c$ornithine#SPACE#carbamoyltransferase#SPACE#activity	c$argF c$argI
+c$alpha-galactosidase#SPACE#activity	c$melA
+c$DNA#SPACE#replication#SPACE#origin#SPACE#binding	c$dnaA c$seqA c$hda
+c$galactose#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$mglC c$mglA
+c$GMP#SPACE#synthase#SPACE#(glutamine-hydrolyzing)#SPACE#activity	c$guaA
+c$N-acetyl-anhydromuramoyl-L-alanine#SPACE#amidase#SPACE#activity	c$amiD c$ampD
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#peroxide#SPACE#as#SPACE#acceptor	c$ahpC
+c$bacterial-type#SPACE#RNA#SPACE#polymerase#SPACE#core#SPACE#promoter#SPACE#sequence-specific#SPACE#DNA#SPACE#binding	c$hipB
+c$thermospermine#SPACE#synthase#SPACE#activity	c$speE
+c$oxidized#SPACE#purine#SPACE#nucleobase#SPACE#lesion#SPACE#DNA#SPACE#N-glycosylase#SPACE#activity	c$mutM
+c$deoxyribonuclease#SPACE#activity	c$tatD c$ycfH
+c$argininosuccinate#SPACE#synthase#SPACE#activity	c$argG
+c$ribulose-phosphate#SPACE#3-epimerase#SPACE#activity	c$rpe c$sgcE c$alsE
+c$amino#SPACE#acid-transporting#SPACE#ATPase#SPACE#activity	c$tcyN c$yhdZ
+c$Type#SPACE#IV#SPACE#site-specific#SPACE#deoxyribonuclease#SPACE#activity	c$mrr
+c$ribose#SPACE#phosphate#SPACE#diphosphokinase#SPACE#activity	c$prs
+c$protein#SPACE#transporter#SPACE#activity	c$tatE c$tatC c$tatA
+c$menaquinone-dependent#SPACE#protoporphyrinogen#SPACE#oxidase#SPACE#activity	c$hemG
+c$RNA#SPACE#ligase#SPACE#activity	c$rtcB
+c$phosphogluconate#SPACE#dehydrogenase#SPACE#(decarboxylating)#SPACE#activity	c$gnd
+c$oxalyl-CoA#SPACE#decarboxylase#SPACE#activity	c$oxc
+c$solute#SEMICOLON#cation#SPACE#symporter#SPACE#activity	c$kgtP c$yihO
+c$double-stranded#SPACE#RNA#SPACE#binding	c$tsaC c$rnc
+c$spermidine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$mdtJ c$mdtI
+c$adenosylmethionine-8-amino-7-oxononanoate#SPACE#transaminase#SPACE#activity	c$bioA
+c$L-alanine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$cycA
+c$protein-phosphocysteine-N-acetylmuramate#SPACE#phosphotransferase#SPACE#system#SPACE#transporter#SPACE#activity	c$murP
+c$manganese#SPACE#ion#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$zupT c$mntP c$mntH
+c$hydrogen#SEMICOLON#quinone#SPACE#oxidoreductase#SPACE#activity	c$hybA
+c$bacterial-type#SPACE#RNA#SPACE#polymerase#SPACE#regulatory#SPACE#region#SPACE#DNA#SPACE#binding	c$hypT
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#paired#SPACE#donors#COMMA##SPACE#with#SPACE#incorporation#SPACE#or#SPACE#reduction#SPACE#of#SPACE#molecular#SPACE#oxygen#COMMA##SPACE#2-oxoglutarate#SPACE#as#SPACE#one#SPACE#donor#COMMA##SPACE#and#SPACE#incorporation#SPACE#of#SPACE#one#SPACE#atom#SPACE#each#SPACE#of#SPACE#oxygen#SPACE#into#SPACE#both#SPACE#donors	c$roxA
+c$carboxyl-O-methyltransferase#SPACE#activity	c$bioC
+c$amino-acid#SPACE#racemase#SPACE#activity	c$ygeA c$murI
+c$fructose#SPACE#1#COMMA#6-bisphosphate#SPACE#1-phosphatase#SPACE#activity	c$fbp c$yggF c$glpX
+c$formyl-CoA#SPACE#transferase#SPACE#activity	c$frc
+c$dimethylallyltranstransferase#SPACE#activity	c$ispA
+c$alpha#COMMA#alpha-trehalose-phosphate#SPACE#synthase#SPACE#(UDP-forming)#SPACE#activity	c$otsA
+c$phosphoserine#SPACE#phosphatase#SPACE#activity	c$serB c$aphA
+c$histidine-tRNA#SPACE#ligase#SPACE#activity	c$hisS
+c$4-amino-4-deoxychorismate#SPACE#lyase#SPACE#activity	c$pabC
+c$bacterial-type#SPACE#RNA#SPACE#polymerase#SPACE#transcription#SPACE#factor#SPACE#activity#COMMA##SPACE#metal#SPACE#ion#SPACE#regulated#SPACE#sequence-specific#SPACE#DNA#SPACE#binding	c$cueR
+c$glutamate#SPACE#synthase#SPACE#activity	c$gltB
+c$ADP-glyceromanno-heptose#SPACE#6-epimerase#SPACE#activity	c$rfaD
+c$ribosomal#SPACE#S6-glutamic#SPACE#acid#SPACE#ligase#SPACE#activity	c$rimK
+c$1-phosphofructokinase#SPACE#activity	c$fruK
+c$Cys-tRNA(Pro)#SPACE#hydrolase#SPACE#activity	c$ybaK
+c$L-leucine#SEMICOLON#2-oxoglutarate#SPACE#aminotransferase#SPACE#activity	c$tyrB
+c$pyruvate-flavodoxin#SPACE#oxidoreductase#SPACE#activity	c$ydbK
+c$preribosome#SPACE#binding	c$yhbY
+c$protein-lysine#SPACE#lysyltransferase#SPACE#activity	c$epmA
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#the#SPACE#aldehyde#SPACE#or#SPACE#oxo#SPACE#group#SPACE#of#SPACE#donors	c$paoC c$paoB c$paoA
+c$chorismate#SPACE#synthase#SPACE#activity	c$aroC
+c$5'-deoxyribose-5-phosphate#SPACE#lyase#SPACE#activity	c$sbcB
+c$thiamine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$thiQ c$thiP c$tbpA
+c$proline#SEMICOLON#proton#SPACE#symporter#SPACE#activity	c$proP
+c$uniporter#SPACE#activity	c$ydiN c$mntH c$amtB
+c$L-xylulokinase#SPACE#activity	c$lyxK
+c$phosphopyruvate#SPACE#hydratase#SPACE#activity	c$eno
+c$crotonobetaine-CoA#SPACE#ligase#SPACE#activity	c$caiC
+c$aspartate-ammonia#SPACE#ligase#SPACE#activity	c$asnB c$asnA
+c$histidinol#SPACE#dehydrogenase#SPACE#activity	c$hisD
+c$pantothenate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$panF
+c$N-acylglucosamine#SPACE#2-epimerase#SPACE#activity	c$yihS
+c$acyl-[acyl-carrier-protein]-phospholipid#SPACE#O-acyltransferase#SPACE#activity	c$aas
+c$chorismate#SPACE#lyase#SPACE#activity	c$ubiC
+c$glucose-1-phosphatase#SPACE#activity	c$yihX c$agp
+c$oxidative#SPACE#RNA#SPACE#demethylase#SPACE#activity	c$alkB
+c$malate#SPACE#synthase#SPACE#activity	c$glcB c$aceB
+c$glutamate#SEMICOLON#sodium#SPACE#symporter#SPACE#activity	c$gltS
+c$methylglyoxal#SPACE#synthase#SPACE#activity	c$mgsA
+c$sulfate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$dauA c$cysZ
+c$water#SPACE#channel#SPACE#activity	c$aqpZ
+c$DNA-directed#SPACE#5'-3'#SPACE#RNA#SPACE#polymerase#SPACE#activity	c$rpoB c$rpoC
+c$hydrolase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#ester#SPACE#bonds	c$ypfH c$yqiA c$entH c$higB c$yheT c$entF
+c$polyribonucleotide#SPACE#nucleotidyltransferase#SPACE#activity	c$pnp
+c$metallochaperone#SPACE#activity	c$narJ c$cusF c$narW
+c$carbon-oxygen#SPACE#lyase#SPACE#activity	c$murQ
+c$uridine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$nupG c$nupC
+c$tripeptide#SPACE#aminopeptidase#SPACE#activity	c$pepT
+c$D-aminoacyl-tRNA#SPACE#deacylase#SPACE#activity	c$dtd
+c$arginine#SPACE#decarboxylase#SPACE#activity	c$speA c$adiA
+c$serine#SPACE#binding	c$serA
+c$(R)-2-hydroxyglutarate#SPACE#dehydrogenase#SPACE#activity	c$dld
+c$lactaldehyde#SPACE#dehydrogenase#SPACE#activity	c$aldA
+c$thymidylate#SPACE#kinase#SPACE#activity	c$tmk
+c$aspartic#SPACE#acid#SPACE#methylthiotransferase#SPACE#activity	c$rimO
+c$dTDP-4-amino-4#COMMA#6-dideoxygalactose#SPACE#transaminase#SPACE#activity	c$rffA
+c$thioredoxin-disulfide#SPACE#reductase#SPACE#activity	c$trxB c$trxA
+c$poly(3-hydroxybutyrate)#SPACE#depolymerase#SPACE#activity	c$yheT
+c$pyrroloquinoline#SPACE#quinone#SPACE#binding	c$gcd c$yliI
+c$2#COMMA#3-bisphosphoglycerate-dependent#SPACE#phosphoglycerate#SPACE#mutase#SPACE#activity	c$gpmA
+c$16S#SPACE#rRNA#SPACE#(guanine(1516)-N(2))-methyltransferase#SPACE#activity	c$rsmJ
+c$glutamate-5-semialdehyde#SPACE#dehydrogenase#SPACE#activity	c$proA
+c$valine-tRNA#SPACE#ligase#SPACE#activity	c$valS
+c$histidinol-phosphatase#SPACE#activity	c$hisB
+c$peptidyl-lysine#SPACE#acetyltransferase#SPACE#activity	c$pka
+c$heptose#SPACE#7-phosphate#SPACE#kinase#SPACE#activity	c$rfaE
+c$pyruvate#SPACE#dehydrogenase#SPACE#(quinone)#SPACE#activity	c$poxB
+c$hydroxyacylglutathione#SPACE#hydrolase#SPACE#activity	c$gloC c$yeiG c$gloB
+c$4-aminobutyrate#SPACE#transaminase#SPACE#activity	c$puuE c$gabT
+c$4-amino-4-deoxychorismate#SPACE#synthase#SPACE#activity	c$pabA c$pabB
+c$allose#SPACE#6-phosphate#SPACE#isomerase#SPACE#activity	c$rpiB
+c$methylthioadenosine#SPACE#nucleosidase#SPACE#activity	c$mtn c$mtnN
+c$decanoate-CoA#SPACE#ligase#SPACE#activity	c$fadD
+c$high-affinity#SPACE#tryptophan#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$mtr
+c$inorganic#SPACE#phosphate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$pstA c$yjbB c$pitB c$pstB c$pitA
+c$bacterial-type#SPACE#RNA#SPACE#polymerase#SPACE#holo#SPACE#enzyme#SPACE#binding	c$soxS c$greA c$phoB
+c$lactaldehyde#SPACE#reductase#SPACE#activity	c$fucO
+c$peptide#SPACE#binding	c$surA c$torD c$dppA
+c$double-stranded#SPACE#methylated#SPACE#DNA#SPACE#binding	c$seqA
+c$2-dehydro-3-deoxygalactonokinase#SPACE#activity	c$dgoK
+c$zinc#SPACE#D-Ala-D-Ala#SPACE#carboxypeptidase#SPACE#activity	c$ddpX
+c$protein#SPACE#tyrosine#SPACE#kinase#SPACE#activity	c$wzzE c$wzc c$etk c$wzzB c$fepE
+c$3-oxoacyl-[acyl-carrier-protein]#SPACE#synthase#SPACE#activity	c$fabF c$fabB
+c$malate#SPACE#dehydrogenase#SPACE#activity	c$mdh
+c$polyamine#SPACE#binding	c$potF
+c$3-deoxy-8-phosphooctulonate#SPACE#synthase#SPACE#activity	c$kdsA
+c$para-aminobenzoyl-glutamate#SPACE#hydrolase#SPACE#activity	c$abgB c$abgA
+c$protein-disulfide#SPACE#reductase#SPACE#activity	c$trxA c$trxC
+c$cation-transporting#SPACE#ATPase#SPACE#activity	c$mgtA
+c$S-ribosylhomocysteine#SPACE#lyase#SPACE#activity	c$luxS
+c$glycerol-3-phosphate#SPACE#dehydrogenase#SPACE#activity	c$glpB c$glpC c$glpA
+c$adenine#SPACE#phosphoribosyltransferase#SPACE#activity	c$apt
+c$dTTP#SPACE#diphosphatase#SPACE#activity	c$yhdE
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#a#SPACE#sulfur#SPACE#group#SPACE#of#SPACE#donors#COMMA##SPACE#disulfide#SPACE#as#SPACE#acceptor	c$msrA c$trxA
+c$lysine-tRNA#SPACE#ligase#SPACE#activity	c$lysS c$lysU
+c$alpha-1#COMMA#4-glucosidase#SPACE#activity	c$malZ
+c$arabinose#SPACE#isomerase#SPACE#activity	c$fucI
+c$2-iminoacetate#SPACE#synthase#SPACE#activity	c$thiH
+c$succinate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$dauA c$dctA
+c$glutamyl-tRNA#SPACE#reductase#SPACE#activity	c$yfdG c$hemA
+c$L-methionine-(S)-S-oxide#SPACE#reductase#SPACE#activity	c$msrA
+c$UDP-3-O-acyl-N-acetylglucosamine#SPACE#deacetylase#SPACE#activity	c$lpxC
+c$exoribonuclease#SPACE#activity#COMMA##SPACE#producing#SPACE#5'-phosphomonoesters	c$rnr
+c$alanylglutamate#SPACE#dipeptidase#SPACE#activity	c$pepD
+c$phosphoribosylanthranilate#SPACE#isomerase#SPACE#activity	c$trpC
+c$dihydrofolate#SPACE#reductase#SPACE#activity	c$folA
+c$beta-glucuronidase#SPACE#activity	c$uidA
+c$acyl-CoA#SPACE#dehydrogenase#SPACE#activity	c$fadE c$ygcQ
+c$dihydroorotate#SPACE#dehydrogenase#SPACE#activity	c$pyrD
+c$ribulokinase#SPACE#activity	c$araB
+c$tRNA-dihydrouridine20#SPACE#synthase#SPACE#activity	c$dusA
+c$galactokinase#SPACE#activity	c$galT c$galK
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#other#SPACE#nitrogenous#SPACE#compounds#SPACE#as#SPACE#donors#COMMA##SPACE#with#SPACE#NAD#SPACE#or#SPACE#NADP#SPACE#as#SPACE#acceptor	c$nemA
+c$cytosine#SPACE#C-5#SPACE#DNA#SPACE#demethylase#SPACE#activity	c$alkB
+c$cyanate#SPACE#hydratase#SPACE#activity	c$cynS
+c$2-dehydropantoate#SPACE#2-reductase#SPACE#activity	c$panE
+c$N-acylneuraminate#SPACE#cytidylyltransferase#SPACE#activity	c$kdsC
+c$branched-chain#SPACE#amino#SPACE#acid#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$livH c$livG c$livF c$livM
+c$cystathionine#SPACE#beta-lyase#SPACE#activity	c$metC c$malY
+c$enoyl-[acyl-carrier-protein]#SPACE#reductase#SPACE#(NADH)#SPACE#activity	c$fabI
+c$taurine#SPACE#dioxygenase#SPACE#activity	c$tauD
+c$glycerol-phosphate#SEMICOLON#inorganic#SPACE#phosphate#SPACE#antiporter#SPACE#activity	c$glpT
+c$guanine#SPACE#binding	c$purR
+c$quinone#SPACE#binding	c$tynA
+c$aspartate-semialdehyde#SPACE#dehydrogenase#SPACE#activity	c$asd
+c$1#COMMA#4-dihydroxy-2-naphthoyl-CoA#SPACE#synthase#SPACE#activity	c$menB
+c$alcohol#SPACE#oxidase#SPACE#activity	c$adhP
+c$UDP-N-acetylmuramate#SPACE#dehydrogenase#SPACE#activity	c$murB
+c$N6-isopentenyladenosine#SPACE#methylthiotransferase#SPACE#activity	c$miaB
+c$alpha-mannosidase#SPACE#activity	c$mngB
+c$rRNA#SPACE#(adenine-N6-)-methyltransferase#SPACE#activity	c$rlmJ
+c$dihydrouracil#SPACE#dehydrogenase#SPACE#(NAD+)#SPACE#activity	c$preA
+c$phosphoribosylformylglycinamidine#SPACE#synthase#SPACE#activity	c$purL
+c$rRNA#SPACE#(guanosine-2'-O-)-methyltransferase#SPACE#activity	c$rlmB c$yfiF
+c$L-fuculokinase#SPACE#activity	c$fucK
+c$NADPH#SEMICOLON#quinone#SPACE#reductase#SPACE#activity	c$qorA
+c$ribonucleotide#SPACE#binding	c$pfkA
+c$inorganic#SPACE#cation#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$kefB c$kefC c$kch
+c$galactosamine-6-phosphate#SPACE#isomerase#SPACE#activity	c$agaI
+c$deoxyribose-phosphate#SPACE#aldolase#SPACE#activity	c$deoC
+c$exodeoxyribonuclease#SPACE#activity	c$sbcC c$sbcD
+c$glutamate#SPACE#synthase#SPACE#(NADPH)#SPACE#activity	c$gltD c$gltB
+c$carbon#SPACE#monoxide#SPACE#binding	c$hypD c$dosC
+c$4-hydroxy-2-oxovalerate#SPACE#aldolase#SPACE#activity	c$mhpE
+c$guanyl-nucleotide#SPACE#exchange#SPACE#factor#SPACE#activity	c$tsf
+c$nicotinate-nucleotide#SPACE#adenylyltransferase#SPACE#activity	c$nadD
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#a#SPACE#sulfur#SPACE#group#SPACE#of#SPACE#donors	c$rclA
+c$protein#SPACE#tyrosine/serine/threonine#SPACE#phosphatase#SPACE#activity	c$ynbD c$apaH c$pphB c$pphA
+c$isochorismate#SPACE#synthase#SPACE#activity	c$menF c$entC
+c$O#SPACE#antigen#SPACE#ligase#SPACE#activity	c$waaL
+c$5-aminolevulinate#SPACE#synthase#SPACE#activity	c$yfdG
+c$L-seryl-tRNASec#SPACE#selenium#SPACE#transferase#SPACE#activity	c$selA
+c$GDP-glucosidase#SPACE#activity	c$gmm
+c$fumarate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$dauA c$dctA
+c$acyl-[acyl-carrier-protein]-UDP-N-acetylglucosamine#SPACE#O-acyltransferase#SPACE#activity	c$lpxA
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#oxidizing#SPACE#metal#SPACE#ions	c$cueO c$ftsP
+c$protein#SPACE#histidine#SPACE#kinase#SPACE#binding	c$tar c$tsr
+c$DNA#SPACE#translocase#SPACE#activity	c$uvrD c$ftsK c$mfd
+c$ribonuclease#SPACE#R#SPACE#activity	c$rnr
+c$peptide-lysine-N-acetyltransferase#SPACE#activity	c$pka
+c$xyloglucan#SPACE#1#COMMA#6-alpha-xylosidase#SPACE#activity	c$yicI
+c$GMP#SPACE#5'-nucleotidase#SPACE#activity	c$yrfG
+c$precorrin-2#SPACE#dehydrogenase#SPACE#activity	c$cysG
+c$transferase#SPACE#activity#COMMA##SPACE#transferring#SPACE#pentosyl#SPACE#groups	c$arnT c$tgt
+c$adenosine#SPACE#nucleosidase#SPACE#activity	c$rihC
+c$acetyl-CoA#SPACE#hydrolase#SPACE#activity	c$scpC
+c$translation#SPACE#release#SPACE#factor#SPACE#activity#COMMA##SPACE#codon#SPACE#specific	c$prfB c$prfA
+c$arsenate#SPACE#reductase#SPACE#activity	c$gstB
+c$triose-phosphate#SPACE#isomerase#SPACE#activity	c$tpiA
+c$adenylylsulfate#SPACE#kinase#SPACE#activity	c$cysC
+c$xylose#SPACE#isomerase#SPACE#activity	c$xylA
+c$pyridoxine#SPACE#5'-phosphate#SPACE#synthase#SPACE#activity	c$pdxJ
+c$fatty#SPACE#acid#SPACE#binding	c$fadD c$hmp
+c$phosphatidylglycerol-membrane-oligosaccharide#SPACE#glycerophosphotransferase#SPACE#activity	c$mdoB
+c$UDP-N-acetyl-D-mannosamine#SPACE#dehydrogenase#SPACE#activity	c$rffD
+c$xanthosine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$xapB
+c$glycogen#SPACE#debranching#SPACE#enzyme#SPACE#activity	c$glgX
+c$ribosylpyrimidine#SPACE#nucleosidase#SPACE#activity	c$rihC
+c$2-dehydro-3-deoxy-D-pentonate#SPACE#aldolase#SPACE#activity	c$yagE c$yjhH
+c$2-octaprenyl-6-methoxy-1#COMMA#4-benzoquinone#SPACE#methylase#SPACE#activity	c$ubiE
+c$L-threonine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$tdcC
+c$dihydrolipoyllysine-residue#SPACE#acetyltransferase#SPACE#activity	c$aceF
+c$glutamate#SPACE#binding	c$gltI
+c$carnitine-CoA#SPACE#ligase#SPACE#activity	c$caiC
+c$repressing#SPACE#transcription#SPACE#factor#SPACE#binding	c$bluF
+c$protein#SPACE#homodimerization#SPACE#activity	c$ghrA
+c$hydrolase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#carbon-nitrogen#SPACE#(but#SPACE#not#SPACE#peptide)#SPACE#bonds#COMMA##SPACE#in#SPACE#cyclic#SPACE#amides	c$hyuA
+c$serine#SPACE#O-acetyltransferase#SPACE#activity	c$cysE c$wcaB
+c$phospholipid#SPACE#binding	c$pspA c$lpxB c$mlaD
+c$DNA-N1-methyladenine#SPACE#dioxygenase#SPACE#activity	c$alkB
+c$palmitoleoyl#SPACE#[acyl-carrier-protein]-dependent#SPACE#acyltransferase#SPACE#activity	c$lpxP
+c$phosphoenolpyruvate-protein#SPACE#phosphotransferase#SPACE#activity	c$ptsH c$ptsI c$ptsP
+c$(2#COMMA#3-dihydroxybenzoyl)adenylate#SPACE#synthase#SPACE#activity	c$entE
+c$ubiquinone#SPACE#binding	c$cyoA c$gcd c$cyoB c$sdhC c$nuoM
+c$beta-phosphoglucomutase#SPACE#activity	c$ycjU c$yqaB
+c$oxidized#SPACE#purine#SPACE#DNA#SPACE#binding	c$mutY
+c$acetate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$actP
+c$IMP#SPACE#5'-nucleotidase#SPACE#activity	c$yrfG
+c$carboxylic#SPACE#ester#SPACE#hydrolase#SPACE#activity	c$ypfH c$ybfF c$bioH
+c$uroporphyrinogen#SPACE#decarboxylase#SPACE#activity	c$hemE
+c$protein#SPACE#kinase#SPACE#activity	c$hprS c$yeaG
+c$lipid-A-disaccharide#SPACE#synthase#SPACE#activity	c$lpxB
+c$dihydroneopterin#SPACE#aldolase#SPACE#activity	c$folB
+c$membrane#SPACE#insertase#SPACE#activity	c$yidC c$yidD
+c$succinate-CoA#SPACE#ligase#SPACE#(ADP-forming)#SPACE#activity	c$yahF c$sucC c$fdrA c$sucD
+c$ADP-dependent#SPACE#NAD(P)H-hydrate#SPACE#dehydratase#SPACE#activity	c$yjeF
+c$heptose-1-phosphate#SPACE#adenylyltransferase#SPACE#activity	c$rfaE
+c$uridine#SPACE#nucleosidase#SPACE#activity	c$rihA c$rihB c$rihC
+c$tRNA#SPACE#(5-methylaminomethyl-2-thiouridylate)-methyltransferase#SPACE#activity	c$mnmC
+c$valine-pyruvate#SPACE#transaminase#SPACE#activity	c$avtA
+c$selenocysteine#SPACE#insertion#SPACE#sequence#SPACE#binding	c$selB
+c$FK506#SPACE#binding	c$fklB
+c$arsenite#SPACE#secondary#SPACE#active#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$ypjM_2 c$arsB
+c$high-affinity#SPACE#sulfate#SEMICOLON#proton#SPACE#symporter#SPACE#activity	c$cysZ
+c$inosine#SPACE#kinase#SPACE#activity	c$gsk
+c$6-deoxy-6-sulfofructose#SPACE#kinase#SPACE#activity	c$yihV
+c$metalloaminopeptidase#SPACE#activity	c$map
+c$6-carboxy-5#COMMA#6#COMMA#7#COMMA#8-tetrahydropterin#SPACE#synthase#SPACE#activity	c$queD
+c$histidinol-phosphate#SPACE#transaminase#SPACE#activity	c$hisC
+c$short-chain#SPACE#carboxylesterase#SPACE#activity	c$aes c$yjfP
+c$guanine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$ghxP c$ghxQ
+c$ribosomal-protein-alanine#SPACE#N-acetyltransferase#SPACE#activity	c$rimJ c$rimI c$rimL
+c$rRNA#SPACE#(adenine-C2-)-methyltransferase#SPACE#activity	c$rlmN
+c$S-adenosylhomocysteine#SPACE#deaminase#SPACE#activity	c$ssnA
+c$ATPase-coupled#SPACE#sulfate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$cysW
+c$5'-3'#SPACE#exonuclease#SPACE#activity	c$polA
+c$(S)-2-hydroxy-acid#SPACE#oxidase#SPACE#activity	c$lhgO
+c$2-octaprenyl-6-methoxyphenol#SPACE#hydroxylase#SPACE#activity	c$ubiH
+c$serine-type#SPACE#peptidase#SPACE#activity	c$lon c$degS c$clpP c$sppA c$yjfP
+c$acid-amino#SPACE#acid#SPACE#ligase#SPACE#activity	c$mpl
+c$benzoate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$ydcO
+c$ammonium#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$amtB
+c$alcohol#SPACE#dehydrogenase#SPACE#activity#COMMA##SPACE#zinc-dependent	c$frmA
+c$iron#SPACE#chaperone#SPACE#activity	c$cyaY c$iscA
+c$anion#SPACE#channel#SPACE#activity	c$tisB
+c$cation#SPACE#efflux#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$rcnA c$tehA
+c$lactose#SPACE#binding	c$lacY
+c$sulfoquinovosidase#SPACE#activity	c$yihQ
+c$hexose-phosphate#SEMICOLON#inorganic#SPACE#phosphate#SPACE#antiporter#SPACE#activity	c$uhpT
+c$potassium#SPACE#ion#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$kup
+c$AU-rich#SPACE#element#SPACE#binding	c$qorA
+c$protein-phosphocysteine-galactitol-phosphotransferase#SPACE#system#SPACE#transporter#SPACE#activity	c$gatC c$sgcC c$gatB c$gatA
+c$pseudouridine#SPACE#kinase#SPACE#activity	c$psuK
+c$putrescine#SPACE#binding	c$potD c$potF
+c$D-serine#SPACE#ammonia-lyase#SPACE#activity	c$dsdA
+c$obsolete#SPACE#gamma-glutamyltransferase#SPACE#activity	c$ggt
+c$methylgalactoside#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$mglC c$mglA c$melB
+c$glucose-6-phosphatase#SPACE#activity	c$yniC c$hxpB
+c$polyprenyltransferase#SPACE#activity	c$ispU
+c$tagatose-bisphosphate#SPACE#aldolase#SPACE#activity	c$kbaY c$gatY
+c$ribose-5-phosphate#SPACE#isomerase#SPACE#activity	c$rpiB c$rpiA
+c$RNA-DNA#SPACE#hybrid#SPACE#ribonuclease#SPACE#activity	c$rnhA c$rnhB
+c$5-methyltetrahydropteroyltriglutamate-homocysteine#SPACE#S-methyltransferase#SPACE#activity	c$metE
+c$primary#SPACE#amine#SPACE#oxidase#SPACE#activity	c$tynA
+c$indole-3-glycerol-phosphate#SPACE#synthase#SPACE#activity	c$trpC
+c$1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide#SPACE#isomerase#SPACE#activity	c$hisA
+c$purine-nucleoside#SPACE#phosphorylase#SPACE#activity	c$xapA c$deoD c$yaiE c$ppnP
+c$tRNA#SPACE#(adenine-N6-)-methyltransferase#SPACE#activity	c$yfiC
+c$UMP#SPACE#kinase#SPACE#activity	c$pyrH
+c$branched-chain-amino-acid#SPACE#transaminase#SPACE#activity	c$ilvE c$pabC
+c$tRNA#SPACE#m6t6A37#SPACE#methyltransferase#SPACE#activity	c$trmO
+c$leucine-tRNA#SPACE#ligase#SPACE#activity	c$leuS
+c$xanthine#SPACE#dehydrogenase#SPACE#activity	c$xdhB c$xdhA
+c$lactate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$lldP c$glcA
+c$GTP#SPACE#diphosphokinase#SPACE#activity	c$relA c$spoT
+c$tRNA#SPACE#(guanine-N7-)-methyltransferase#SPACE#activity	c$trmI
+c$nickel-transporting#SPACE#ATPase#SPACE#activity	c$nikB c$nikD c$nikC c$nikE
+c$deoxyribonuclease#SPACE#V#SPACE#activity	c$nfi
+c$L-alanine#SEMICOLON#2-oxoglutarate#SPACE#aminotransferase#SPACE#activity	c$alaA c$alaC
+c$riboflavin#SPACE#kinase#SPACE#activity	c$ribF
+c$2'-5'-RNA#SPACE#ligase#SPACE#activity	c$thpR
+c$calcium-transporting#SPACE#ATPase#SPACE#activity	c$mgtA
+c$D-xylose#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$xylG
+c$cystathionine#SPACE#gamma-synthase#SPACE#activity	c$metB
+c$UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine#SPACE#ligase#SPACE#activity	c$murF
+c$uridine#SPACE#phosphorylase#SPACE#activity	c$udp
+c$glucosidase#SPACE#activity	c$bglX c$ygjK c$bglA
+c$succinyldiaminopimelate#SPACE#transaminase#SPACE#activity	c$argD
+c$carbon-carbon#SPACE#lyase#SPACE#activity	c$oxc c$garL
+c$(R)-aminopropanol#SPACE#dehydrogenase#SPACE#activity	c$gldA
+c$virion#SPACE#binding	c$fhuA
+c$tRNA#SPACE#(cytosine-2'-O-)-methyltransferase#SPACE#activity	c$trmJ c$yjtD c$trmL
+c$uridylate#SPACE#kinase#SPACE#activity	c$tmk
+c$4-hydroxybutyrate#SPACE#dehydrogenase#SPACE#activity	c$yihU
+c$nicotinate#SPACE#phosphoribosyltransferase#SPACE#activity	c$pncB
+c$peptide#SPACE#deformylase#SPACE#activity	c$def
+c$inorganic#SPACE#anion#SPACE#exchanger#SPACE#activity	c$narK
+c$solute#SEMICOLON#proton#SPACE#antiporter#SPACE#activity	c$kefB c$alaE c$clcA
+c$oligoribonucleotidase#SPACE#activity	c$orn
+c$6#COMMA#7-dihydropteridine#SPACE#reductase#SPACE#activity	c$nfsB
+c$dCTP#SPACE#deaminase#SPACE#activity	c$dcd
+c$adenosine#SPACE#5'-monophosphoramidase#SPACE#activity	c$hinT
+c$ATPase-coupled#SPACE#molybdate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$modA
+c$glycerol#SPACE#channel#SPACE#activity	c$glpF
+c$enzyme#SPACE#regulator#SPACE#activity	c$lpoA c$glnB c$ppsR c$lpoB
+c$N6-(1#COMMA#2-dicarboxyethyl)AMP#SPACE#AMP-lyase#SPACE#(fumarate-forming)#SPACE#activity	c$purB
+c$murein#SPACE#tripeptide#SPACE#carboxypeptidase#SPACE#activity	c$mpaA
+c$7#COMMA#8-dihydromonapterin#SPACE#aldolase#SPACE#activity	c$folB
+c$nitrate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$narU c$narK
+c$proline#SEMICOLON#sodium#SPACE#symporter#SPACE#activity	c$putP
+c$hydroxymethylbilane#SPACE#synthase#SPACE#activity	c$hemC
+c$monosaccharide-transporting#SPACE#ATPase#SPACE#activity	c$araF c$rbsA
+c$ribonuclease#SPACE#G#SPACE#activity	c$rng
+c$cellulase#SPACE#activity	c$bcsZ
+c$3-deoxy-manno-octulosonate-8-phosphatase#SPACE#activity	c$kdsC
+c$amine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$proW c$proV
+c$glutamate#SPACE#racemase#SPACE#activity	c$murI
+c$acyl#SPACE#carrier#SPACE#activity	c$acpP
+c$ribokinase#SPACE#activity	c$rbsK
+c$5-amino-6-(5-phosphoribosylamino)uracil#SPACE#reductase#SPACE#activity	c$ribD
+c$ATP-dependent#SPACE#3'-5'#SPACE#DNA#SPACE#helicase#SPACE#activity	c$recQ c$helD c$priA
+c$pimelyl-[acyl-carrier#SPACE#protein]#SPACE#methyl#SPACE#ester#SPACE#esterase#SPACE#activity	c$bioH
+c$N-acetyl-gamma-glutamyl-phosphate#SPACE#reductase#SPACE#activity	c$argC
+c$mannonate#SPACE#dehydratase#SPACE#activity	c$uxuA
+c$diphosphotransferase#SPACE#activity	c$ppk
+c$8-oxo-GDP#SPACE#phosphatase#SPACE#activity	c$mutT
+c$Ser-tRNA(Ala)#SPACE#hydrolase#SPACE#activity	c$yeaK c$alaS
+c$polynucleotide#SPACE#adenylyltransferase#SPACE#activity	c$pcnB
+c$2-keto-3-deoxygluconate#SEMICOLON#proton#SPACE#symporter#SPACE#activity	c$kdgT
+c$phospho-N-acetylmuramoyl-pentapeptide-transferase#SPACE#activity	c$rfe c$mraY
+c$carbon#SPACE#dioxide#SPACE#binding	c$hypC c$hybG
+c$hexuronate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$exuT
+c$ribonuclease#SPACE#III#SPACE#activity	c$rnc
+c$2-methylcitrate#SPACE#synthase#SPACE#activity	c$prpC
+c$CDP-diacylglycerol#SPACE#diphosphatase#SPACE#activity	c$cdh
+c$medium-chain#SPACE#fatty#SPACE#acid-CoA#SPACE#ligase#SPACE#activity	c$fadK
+c$cytochrome-c#SPACE#peroxidase#SPACE#activity	c$yhjA
+c$toxin-antitoxin#SPACE#pair#SPACE#type#SPACE#II#SPACE#binding	c$prlF
+c$hydroxylamine#SPACE#reductase#SPACE#activity	c$hcp
+c$AMP#SPACE#nucleosidase#SPACE#activity	c$amn
+c$Ala-tRNA(Pro)#SPACE#hydrolase#SPACE#activity	c$proS
+c$hydroxyisourate#SPACE#hydrolase#SPACE#activity	c$yedX
+c$chitin#SPACE#disaccharide#SPACE#deacetylase#SPACE#activity	c$chbG
+c$5'-3'#SPACE#exodeoxyribonuclease#SPACE#activity	c$yciV
+c$guanyl#SPACE#ribonucleotide#SPACE#binding	c$obgE
+c$nucleoside-triphosphate#SPACE#diphosphatase#SPACE#activity	c$rdgB c$mazG c$yhdE c$yceF
+c$2-hydroxy-6-oxonona-2#COMMA#4-dienedioate#SPACE#hydrolase#SPACE#activity	c$mhpC
+c$diaminopimelate#SPACE#decarboxylase#SPACE#activity	c$lysA
+c$nitric#SPACE#oxide#SPACE#reductase#SPACE#activity	c$nrfA
+c$methyl-CpG#SPACE#binding	c$mcrA
+c$bicarbonate#SPACE#binding	c$menB
+c$DNA#SPACE#supercoiling#SPACE#activity	c$gyrA c$gyrB
+c$putrescine-importing#SPACE#ATPase#SPACE#activity	c$potA
+c$UDP-glucose#SPACE#4-epimerase#SPACE#activity	c$galE
+c$exodeoxyribonuclease#SPACE#V#SPACE#activity	c$recB c$recD c$recC
+c$allantoinase#SPACE#activity	c$allB
+c$ureidoglycolate#SPACE#dehydrogenase#SPACE#activity	c$allD
+c$FMN#SPACE#reductase#SPACE#activity	c$ssuE
+c$DNA#SPACE#(cytosine-5-)-methyltransferase#SPACE#activity	c$dcm
+c$guanosine#SPACE#tetraphosphate#SPACE#binding	c$der c$infB c$cadA
+c$tRNA#SPACE#cytidylyltransferase#SPACE#activity	c$cca
+c$beta-lactamase#SPACE#activity	c$ampC
+c$carnitine#SPACE#dehydratase#SPACE#activity	c$caiE c$caiB
+c$2-dehydro-3-deoxy-6-phosphogalactonate#SPACE#aldolase#SPACE#activity	c$dgoA
+c$phosphatidylcholine#SPACE#1-acylhydrolase#SPACE#activity	c$pldA
+c$allantoate#SPACE#deiminase#SPACE#activity	c$allC
+c$arylamine#SPACE#N-acetyltransferase#SPACE#activity	c$nhoA
+c$mannose-6-phosphate#SPACE#isomerase#SPACE#activity	c$manA
+c$4-(cytidine#SPACE#5'-diphospho)-2-C-methyl-D-erythritol#SPACE#kinase#SPACE#activity	c$ispE
+c$N-acetylglucosamine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$nagE
+c$erythrose-4-phosphate#SPACE#dehydrogenase#SPACE#activity	c$epd
+c$polyamine-transporting#SPACE#ATPase#SPACE#activity	c$potA c$potG
+c$tRNA#SPACE#5-carboxymethoxyuridine#SPACE#methyltransferase#SPACE#activity	c$cmoM
+c$tungstate#SPACE#binding	c$modA
+c$cyclopropane-fatty-acyl-phospholipid#SPACE#synthase#SPACE#activity	c$cfa
+c$dGTPase#SPACE#activity	c$dgt
+c$23S#SPACE#rRNA#SPACE#(guanine(1835)-N(2))-methyltransferase#SPACE#activity	c$rlmG
+c$cadaverine#SPACE#aminopropyltransferase#SPACE#activity	c$speE
+c$homoserine#SPACE#dehydrogenase#SPACE#activity	c$thrA c$metL
+c$L-tryptophan#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$aroP c$yddG
+c$protein-phosphocysteine-mannosylglycerate-phosphotransferase#SPACE#system#SPACE#transporter#SPACE#activity	c$mngA
+c$L-aspartate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$dauA c$dctA
+c$protein#SPACE#serine/threonine#SPACE#phosphatase#SPACE#activity	c$aceK
+c$gluconate#SPACE#5-dehydrogenase#SPACE#activity	c$idnO
+c$ligand-gated#SPACE#channel#SPACE#activity	c$fepA c$fadL
+c$aconitate#SPACE#hydratase#SPACE#activity	c$acnB c$acnA c$ybhJ
+c$alkali#SPACE#metal#SPACE#ion#SPACE#binding	c$lacZ
+c$succinyltransferase#SPACE#activity	c$mdoC
+c$D#COMMA#D-heptose#SPACE#1#COMMA#7-bisphosphate#SPACE#phosphatase#SPACE#activity	c$gmhB
+c$glycerol-2-phosphatase#SPACE#activity	c$suhB
+c$hydrolase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#acid#SPACE#anhydrides#COMMA##SPACE#in#SPACE#phosphorus-containing#SPACE#anhydrides	c$dinG c$rppH c$nudL
+c$protein-phosphocysteine-N-acetylglucosamine#SPACE#phosphotransferase#SPACE#system#SPACE#transporter#SPACE#activity	c$nagE
+c$glycerone#SPACE#kinase#SPACE#activity	c$dhaL c$dhaK
+c$polyphosphate#SEMICOLON#AMP#SPACE#phosphotransferase#SPACE#activity	c$ppk
+c$protein-phosphocysteine-trehalose#SPACE#phosphotransferase#SPACE#system#SPACE#transporter#SPACE#activity	c$treB
+c$ion#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$fetB c$ompF
+c$phosphatidate#SPACE#cytidylyltransferase#SPACE#activity	c$cdsA
+c$pyrimidine-nucleoside#SPACE#phosphorylase#SPACE#activity	c$yaiE c$ppnP
+c$misfolded#SPACE#RNA#SPACE#binding	c$rpsL
+c$biotin-[acetyl-CoA-carboxylase]#SPACE#ligase#SPACE#activity	c$birA
+c$glycine#SPACE#hydroxymethyltransferase#SPACE#activity	c$glyA
+c$3'-tRNA#SPACE#processing#SPACE#endoribonuclease#SPACE#activity	c$rbn
+c$glucarate#SPACE#dehydratase#SPACE#activity	c$gudD
+c$dihydroneopterin#SPACE#triphosphate#SPACE#2'-epimerase#SPACE#activity	c$folX
+c$antisigma#SPACE#factor#SPACE#binding	c$rseP c$rseB
+c$folic#SPACE#acid#SPACE#binding	c$ygfZ
+c$thymidylate#SPACE#synthase#SPACE#activity	c$thyA
+c$phosphopantothenate--cysteine#SPACE#ligase#SPACE#activity	c$dfp
+c$2-dehydro-3-deoxy-phosphogluconate#SPACE#aldolase#SPACE#activity	c$eda
+c$recombination#SPACE#hotspot#SPACE#binding	c$rusA
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#iron-sulfur#SPACE#proteins#SPACE#as#SPACE#donors#COMMA##SPACE#NAD#SPACE#or#SPACE#NADP#SPACE#as#SPACE#acceptor	c$norW
+c$cytosolic#SPACE#dipeptidase#SPACE#activity	c$pepD
+c$cysteine-transporting#SPACE#ATPase#SPACE#activity	c$tcyN
+c$NAD+#SPACE#synthase#SPACE#activity	c$nadE
+c$diaminopimelate#SPACE#epimerase#SPACE#activity	c$dapF
+c$azobenzene#SPACE#reductase#SPACE#activity	c$azoR
+c$tartrate#SPACE#dehydrogenase#SPACE#activity	c$dmlA
+c$transcription#SPACE#corepressor#SPACE#activity	c$ghrA c$yoeB
+c$cobalamin-transporting#SPACE#ATPase#SPACE#activity	c$btuD
+c$trans-2-decenoyl-acyl-carrier-protein#SPACE#isomerase#SPACE#activity	c$fabA
+c$UDP-glucuronate#SPACE#decarboxylase#SPACE#activity	c$arnA
+c$3-chloro-D-alanine#SPACE#dehydrochlorinase#SPACE#activity	c$dcyD
+c$S-adenosylmethionine#SEMICOLON#tRNA#SPACE#ribosyltransferase-isomerase#SPACE#activity	c$queA
+c$ATPase-coupled#SPACE#protein#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$secA
+c$N-acetylneuraminate#SPACE#lyase#SPACE#activity	c$nanA
+c$glycerol#SPACE#dehydrogenase#SPACE#[NAD+]#SPACE#activity	c$gldA
+c$UDP-4-amino-4-deoxy-L-arabinose#SPACE#formyltransferase#SPACE#activity	c$arnA
+c$glutamate#SPACE#N-acetyltransferase#SPACE#activity	c$argA
+c$voltage-gated#SPACE#chloride#SPACE#channel#SPACE#activity	c$yfeO c$clcA
+c$L-arabinose#SPACE#isomerase#SPACE#activity	c$araA
+c$lactoylglutathione#SPACE#lyase#SPACE#activity	c$gloA
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#paired#SPACE#donors#COMMA##SPACE#with#SPACE#incorporation#SPACE#or#SPACE#reduction#SPACE#of#SPACE#molecular#SPACE#oxygen#COMMA##SPACE#NAD(P)H#SPACE#as#SPACE#one#SPACE#donor#COMMA##SPACE#and#SPACE#incorporation#SPACE#of#SPACE#one#SPACE#atom#SPACE#of#SPACE#oxygen	c$epmC
+c$L-methionine-(R)-S-oxide#SPACE#reductase#SPACE#activity	c$msrC
+c$thiosulfate#SPACE#sulfurtransferase#SPACE#activity	c$glpE c$sseA c$ygaP c$pspE
+c$3-dehydroquinate#SPACE#synthase#SPACE#activity	c$aroB
+c$serine-type#SPACE#endopeptidase#SPACE#inhibitor#SPACE#activity	c$eco
+c$threonine#SPACE#efflux#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$yigM c$tdcC c$rhtA
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#paired#SPACE#donors#COMMA##SPACE#with#SPACE#incorporation#SPACE#or#SPACE#reduction#SPACE#of#SPACE#molecular#SPACE#oxygen	c$ubiF
+c$2-C-methyl-D-erythritol#SPACE#2#COMMA#4-cyclodiphosphate#SPACE#synthase#SPACE#activity	c$ispF
+c$phosphopentomutase#SPACE#activity	c$yhfW c$deoB
+c$organophosphate#SEMICOLON#inorganic#SPACE#phosphate#SPACE#antiporter#SPACE#activity	c$glpT
+c$ribonuclease#SPACE#E#SPACE#activity	c$rne
+c$DNA#SPACE#topoisomerase#SPACE#binding	c$topAI
+c$isocitrate#SPACE#lyase#SPACE#activity	c$aceA
+c$inorganic#SPACE#anion#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$crcB
+c$8-oxo-7#COMMA#8-dihydrodeoxyguanosine#SPACE#triphosphate#SPACE#pyrophosphatase#SPACE#activity	c$mutT
+c$thiamine-phosphate#SPACE#diphosphorylase#SPACE#activity	c$thiE
+c$lipid#SPACE#binding	c$lpp c$msbA c$mdtQ c$poxB
+c$23S#SPACE#rRNA#SPACE#(adenine(2030)-N(6))-methyltransferase#SPACE#activity	c$rlmJ
+c$methionyl-tRNA#SPACE#formyltransferase#SPACE#activity	c$fmt
+c$lipid-transporting#SPACE#ATPase#SPACE#activity	c$msbA
+c$tRNA#SPACE#(guanine-N1-)-methyltransferase#SPACE#activity	c$trmD
+c$isocitrate#SPACE#dehydrogenase#SPACE#(NADP+)#SPACE#activity	c$icd
+c$adenylate#SPACE#cyclase#SPACE#activity	c$cyaA
+c$NADPHX#SPACE#epimerase#SPACE#activity	c$yjeF
+c$D-ribose#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$rbsA c$rbsC
+c$trehalose-phosphatase#SPACE#activity	c$otsB
+c$[isocitrate#SPACE#dehydrogenase#SPACE#(NADP+)]#SPACE#kinase#SPACE#activity	c$aceK
+c$malate#SPACE#dehydrogenase#SPACE#(decarboxylating)#SPACE#(NADP+)#SPACE#activity	c$maeB
+c$NADHX#SPACE#epimerase#SPACE#activity	c$yjeF
+c$glycine#SPACE#dehydrogenase#SPACE#(decarboxylating)#SPACE#activity	c$gcvP
+c$phenylserine#SPACE#aldolase#SPACE#activity	c$ltaE
+c$acetylglucosaminyltransferase#SPACE#activity	c$pgaC
+c$ATP-dependent#SPACE#helicase#SPACE#activity	c$yoaA
+c$16S#SPACE#rRNA#SPACE#(guanine(1207)-N(2))-methyltransferase#SPACE#activity	c$rsmC
+c$ammeline#SPACE#aminohydrolase#SPACE#activity	c$guaD
+c$D-glucose#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$malX
+c$activating#SPACE#transcription#SPACE#factor#SPACE#binding	c$malK
+c$rRNA#SPACE#(guanine-N7-)-methyltransferase#SPACE#activity	c$rsmG c$rlmL
+c$threonine-type#SPACE#endopeptidase#SPACE#activity	c$hslV
+c$N-methyl-L-amino-acid#SPACE#oxidase#SPACE#activity	c$solA
+c$secondary#SPACE#active#SPACE#p-aminobenzoyl-glutamate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$abgT
+c$phosphoribosylaminoimidazolecarboxamide#SPACE#formyltransferase#SPACE#activity	c$purH
+c$peptide#SPACE#alpha-N-acetyltransferase#SPACE#activity	c$rimI c$rimL
+c$neutral#SPACE#amino#SPACE#acid#SEMICOLON#sodium#SPACE#symporter#SPACE#activity	c$sstT
+c$hydroxymethylpyrimidine#SPACE#kinase#SPACE#activity	c$thiD c$pdxK
+c$FAD#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$yeeO
+c$ferric-transporting#SPACE#ATPase#SPACE#activity	c$afuC
+c$RNA-dependent#SPACE#ATPase#SPACE#activity	c$srmB
+c$site-specific#SPACE#DNA-methyltransferase#SPACE#(adenine-specific)#SPACE#activity	c$dam c$yhdJ
+c$DNA#SPACE#topoisomerase#SPACE#(ATP-hydrolyzing)#SPACE#inhibitor#SPACE#activity	c$sbmC c$yacG
+c$adenosine#SPACE#deaminase#SPACE#activity	c$add c$ssnA
+c$pyrimidine#SPACE#deoxyribonucleotide#SPACE#binding	c$nrdD
+c$2-dehydro-3-deoxygluconokinase#SPACE#activity	c$kdgK
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#the#SPACE#CH-NH#SPACE#group#SPACE#of#SPACE#donors#COMMA##SPACE#NAD#SPACE#or#SPACE#NADP#SPACE#as#SPACE#acceptor	c$rutF
+c$oligopeptide#SPACE#binding	c$oppA
+c$glycerol-3-phosphate#SPACE#dehydrogenase#SPACE#[NAD(P)+]#SPACE#activity	c$gpsA
+c$undecaprenyl-phosphate#SPACE#glucose#SPACE#phosphotransferase#SPACE#activity	c$wcaJ
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#a#SPACE#heme#SPACE#group#SPACE#of#SPACE#donors	c$msrP
+c$DNA/RNA#SPACE#hybrid#SPACE#annealing#SPACE#activity	c$cas3
+c$cadmium-exporting#SPACE#ATPase#SPACE#activity	c$zntA
+c$3-deoxy-7-phosphoheptulonate#SPACE#synthase#SPACE#activity	c$aroF c$aroH c$aroG
+c$glycerate#SPACE#2-kinase#SPACE#activity	c$garK c$glxK
+c$zinc#SPACE#efflux#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$ydaN
+c$DNA#SPACE#primase#SPACE#activity	c$dnaG
+c$protein-lysine#SPACE#N-methyltransferase#SPACE#activity	c$prmA
+c$adenyl-nucleotide#SPACE#exchange#SPACE#factor#SPACE#activity	c$grpE
+c$rRNA#SPACE#(guanine-N1-)-methyltransferase#SPACE#activity	c$rlmA
+c$glutamine-tRNA#SPACE#ligase#SPACE#activity	c$glnS
+c$biotin#SPACE#synthase#SPACE#activity	c$bioB
+c$acid#SPACE#phosphatase#SPACE#activity	c$aphA
+c$maltodextrin#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$lamB
+c$4-hydroxythreonine-4-phosphate#SPACE#dehydrogenase#SPACE#activity	c$pdxA
+c$phosphoenolpyruvate-glycerone#SPACE#phosphotransferase#SPACE#activity	c$dhaK
+c$oxygen#SPACE#binding	c$dosC
+c$trans-aconitate#SPACE#2-methyltransferase#SPACE#activity	c$tam
+c$alkylated#SPACE#DNA#SPACE#binding	c$alkA
+c$NADH#SPACE#binding	c$ldhA
+c$gamma-glutamyl-gamma-aminobutyrate#SPACE#hydrolase#SPACE#activity	c$puuD
+c$UDP-2#COMMA#3-diacylglucosamine#SPACE#hydrolase#SPACE#activity	c$lpxH
+c$aspartate-tRNA#SPACE#ligase#SPACE#activity	c$aspS
+c$amidophosphoribosyltransferase#SPACE#activity	c$purF
+c$epoxyqueuosine#SPACE#reductase#SPACE#activity	c$queG
+c$siderophore#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$tonB c$cirA
+c$rRNA#SPACE#cytidine#SPACE#N-acetyltransferase#SPACE#activity	c$tmcA
+c$carbamoyl-phosphate#SPACE#synthase#SPACE#(glutamine-hydrolyzing)#SPACE#activity	c$carA c$carB
+c$cholate#SPACE#7-alpha-dehydrogenase#SPACE#activity	c$hdhA
+c$phosphomannomutase#SPACE#activity	c$glmM c$cpsG
+c$2'#COMMA#3'-cyclic-nucleotide#SPACE#3'-phosphodiesterase#SPACE#activity	c$thpR
+c$dihydropteroate#SPACE#synthase#SPACE#activity	c$folP
+c$site-specific#SPACE#recombinase#SPACE#activity	c$xerC c$xerD
+c$methylenetetrahydrofolate#SPACE#dehydrogenase#SPACE#(NADP+)#SPACE#activity	c$folD
+c$4-hydroxybenzoate#SPACE#octaprenyltransferase#SPACE#activity	c$ubiA
+c$adenylosuccinate#SPACE#synthase#SPACE#activity	c$purA
+c$glutathione#SPACE#oxidoreductase#SPACE#activity	c$grxB
+c$UDP-3-O-[3-hydroxymyristoyl]#SPACE#N-acetylglucosamine#SPACE#deacetylase#SPACE#activity	c$lpxC
+c$N-acylmannosamine#SPACE#kinase#SPACE#activity	c$nanK
+c$dihydrofolate#SPACE#synthase#SPACE#activity	c$folC
+c$proline#SPACE#dehydrogenase#SPACE#activity	c$putA
+c$acetyl-CoA#SPACE#carboxylase#SPACE#activity	c$accB c$accD
+c$small#SPACE#molecule#SPACE#binding	c$glnB
+c$alpha#COMMA#alpha-phosphotrehalase#SPACE#activity	c$treC
+c$colicin#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$fepA c$cirA c$ompF
+c$uracil#SPACE#DNA#SPACE#N-glycosylase#SPACE#activity	c$ung
+c$DNA#SPACE#insertion#SPACE#or#SPACE#deletion#SPACE#binding	c$insI-1
+c$DNA-(apurinic#SPACE#or#SPACE#apyrimidinic#SPACE#site)#SPACE#endonuclease#SPACE#activity	c$nfo c$nth c$nei c$mutM
+c$choline#SPACE#dehydrogenase#SPACE#activity	c$betA
+c$N-ethylmaleimide#SPACE#reductase#SPACE#activity	c$nemA
+c$3-oxoacyl-[acyl-carrier-protein]#SPACE#reductase#SPACE#(NADPH)#SPACE#activity	c$fabG
+c$pyruvate#COMMA##SPACE#water#SPACE#dikinase#SPACE#activity	c$ppsA
+c$S-adenosylmethionine-homocysteine#SPACE#S-methyltransferase#SPACE#activity	c$mmuM
+c$exodeoxyribonuclease#SPACE#III#SPACE#activity	c$xthA
+c$molybdenum#SPACE#cofactor#SPACE#guanylyltransferase#SPACE#activity	c$mobA
+c$D-tyrosyl-tRNA(Tyr)#SPACE#deacylase#SPACE#activity	c$dtd
+c$selenium#SPACE#binding	c$fdnG
+c$leucyltransferase#SPACE#activity	c$aat
+c$inorganic#SPACE#diphosphatase#SPACE#activity	c$ppa
+c$bacterial-type#SPACE#RNA#SPACE#polymerase#SPACE#enhancer#SPACE#sequence-specific#SPACE#DNA#SPACE#binding	c$glrR c$fhlA c$norR
+c$4-hydroxyphenylacetaldehyde#SPACE#dehydrogenase#SPACE#activity	c$feaB
+c$nicotinamidase#SPACE#activity	c$pncA
+c$UDP-3-O-(R-3-hydroxymyristoyl)-glucosamine#SPACE#N-acyltransferase#SPACE#activity	c$lpxD
+c$oxygen#SPACE#sensor#SPACE#activity	c$dosP
+c$glycerol-3-phosphate-transporting#SPACE#ATPase#SPACE#activity	c$ugpC
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#the#SPACE#CH-CH#SPACE#group#SPACE#of#SPACE#donors	c$cbrA
+c$protein-phosphocysteine-glucose#SPACE#phosphotransferase#SPACE#system#SPACE#transporter#SPACE#activity	c$ptsG
+c$2#COMMA#3#COMMA#4#COMMA#5-tetrahydropyridine-2#COMMA#6-dicarboxylate#SPACE#N-succinyltransferase#SPACE#activity	c$dapD
+c$pantetheine-phosphate#SPACE#adenylyltransferase#SPACE#activity	c$coaD
+c$hydroxypyruvate#SPACE#reductase#SPACE#activity	c$ghrA c$ghrB
+c$tetraacyldisaccharide#SPACE#4'-kinase#SPACE#activity	c$lpxK
+c$methylenetetrahydrofolate#SPACE#reductase#SPACE#(NAD(P)H)#SPACE#activity	c$metF
+c$4-alpha-glucanotransferase#SPACE#activity	c$malQ
+c$long-chain#SPACE#fatty#SPACE#acid#SPACE#[acyl-carrier-protein]#SPACE#ligase#SPACE#activity	c$aas
+c$phosphoribosylformylglycinamidine#SPACE#cyclo-ligase#SPACE#activity	c$purM
+c$L-methionine#SEMICOLON#thioredoxin-disulfide#SPACE#S-oxidoreductase#SPACE#activity	c$bisC
+c$rRNA#SPACE#(pseudouridine-N3-)-methyltransferase#SPACE#activity	c$rlmH
+c$starch#SPACE#synthase#SPACE#activity	c$glgA
+c$2#COMMA#3-dihydro-2#COMMA#3-dihydroxybenzoate#SPACE#dehydrogenase#SPACE#activity	c$entA
+c$acetylornithine#SPACE#deacetylase#SPACE#activity	c$argE
+c$GDP-mannose#SPACE#mannosyl#SPACE#hydrolase#SPACE#activity	c$gmm
+c$triphosphoribosyl-dephospho-CoA#SPACE#synthase#SPACE#activity	c$citG
+c$ferric#SPACE#iron#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$fecA
+c$sialic#SPACE#acid#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$nanC c$nanT
+c$copper-transporting#SPACE#ATPase#SPACE#activity	c$copA
+c$rRNA#SPACE#(adenine-N6#COMMA#N6-)-dimethyltransferase#SPACE#activity	c$rsmA
+c$protein-L-isoaspartate#SPACE#(D-aspartate)#SPACE#O-methyltransferase#SPACE#activity	c$pcm
+c$glycoside-pentoside-hexuronide#SEMICOLON#cation#SPACE#symporter#SPACE#activity	c$melB
+c$alkanesulfonate#SPACE#monooxygenase#SPACE#activity	c$ssuD
+c$UDP-N-acetylmuramate-L-alanine#SPACE#ligase#SPACE#activity	c$murC
+c$intramolecular#SPACE#transferase#SPACE#activity#COMMA##SPACE#transferring#SPACE#amino#SPACE#groups	c$epmB
+c$2-methylisocitrate#SPACE#dehydratase#SPACE#activity	c$acnB
+c$putrescine#SEMICOLON#ornithine#SPACE#antiporter#SPACE#activity	c$potE
+c$lithium#SPACE#ion#SPACE#binding	c$suhB
+c$2-octaprenyl-3-methyl-5-hydroxy-6-methoxy-1#COMMA#4-benzoquinone#SPACE#methyltransferase#SPACE#activity	c$ubiG
+c$quinoprotein#SPACE#glucose#SPACE#dehydrogenase#SPACE#activity	c$gcd
+c$tRNA#SPACE#adenylyltransferase#SPACE#activity	c$cca
+c$P-P-bond-hydrolysis-driven#SPACE#protein#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$secG
+c$dihydroxy-acid#SPACE#dehydratase#SPACE#activity	c$ilvD
+c$UDP-glucuronic#SPACE#acid#SPACE#dehydrogenase#SPACE#activity	c$arnA
+c$guanine#SPACE#deaminase#SPACE#activity	c$guaD
+c$tagaturonate#SPACE#reductase#SPACE#activity	c$uxaB
+c$ferric-chelate#SPACE#reductase#SPACE#(NADPH)#SPACE#activity	c$yqjH
+c$pyrimidine#SPACE#nucleoside#SPACE#binding	c$cdd
+c$cystathionine#SPACE#gamma-lyase#SPACE#activity	c$metB
+c$ATP#SPACE#phosphoribosyltransferase#SPACE#activity	c$hisG
+c$CDP-diacylglycerol-serine#SPACE#O-phosphatidyltransferase#SPACE#activity	c$pssA
+c$sulfonate#SPACE#dioxygenase#SPACE#activity	c$tauD
+c$phenylacetaldehyde#SPACE#dehydrogenase#SPACE#activity	c$feaB
+c$tetrapyrrole#SPACE#binding	c$hemF
+c$ureidoglycine#SPACE#aminohydrolase#SPACE#activity	c$allE
+c$urate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$uacT
+c$lipopolysaccharide#SPACE#N-acetylglucosaminyltransferase#SPACE#activity	c$waaU
+c$3-oxo-pimeloyl-[acp]#SPACE#methyl#SPACE#ester#SPACE#reductase#SPACE#activity	c$fabG
+c$arsenate#SPACE#reductase#SPACE#(glutaredoxin)#SPACE#activity	c$arsC
+c$pyrimidine-specific#SPACE#mismatch#SPACE#base#SPACE#pair#SPACE#DNA#SPACE#N-glycosylase#SPACE#activity	c$mug
+c$endochitinase#SPACE#activity	c$chiA
+c$dodecenoyl-CoA#SPACE#delta-isomerase#SPACE#activity	c$fadB
+c$phosphoribosylaminoimidazole#SPACE#carboxylase#SPACE#activity	c$purK
+c$galactitol-1-phosphate#SPACE#5-dehydrogenase#SPACE#activity	c$gatD
+c$lysophospholipid#SPACE#transporter#SPACE#activity	c$lplT
+c$UDP-glucose#SEMICOLON#hexose-1-phosphate#SPACE#uridylyltransferase#SPACE#activity	c$galT
+c$DNA#SPACE#binding#COMMA##SPACE#bending	c$mutS
+c$fluoride#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$crcB
+c$ferredoxin-NADP+#SPACE#reductase#SPACE#activity	c$fpr
+c$biotin#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$bioP
+c$beta-N-acetylhexosaminidase#SPACE#activity	c$nagZ
+c$rRNA#SPACE#(uridine-2'-O-)-methyltransferase#SPACE#activity	c$rlmE
+c$ribosylnicotinamide#SPACE#kinase#SPACE#activity	c$nadR
+c$molybdenum#SPACE#cofactor#SPACE#cytidylyltransferase#SPACE#activity	c$mocA
+c$phosphoribosylglycinamide#SPACE#formyltransferase#SPACE#activity	c$purN
+c$amidase#SPACE#activity	c$mpaA
+c$aldehyde#SPACE#dehydrogenase#SPACE#[NAD(P)+]#SPACE#activity	c$puuC
+c$antioxidant#SPACE#activity	c$sodA
+c$pyridoxamine-phosphate#SPACE#oxidase#SPACE#activity	c$pdxH
+c$GTP#SPACE#cyclohydrolase#SPACE#I#SPACE#activity	c$folE
+c$N-acetylglucosamine#SPACE#kinase#SPACE#activity	c$nagK
+c$carboxyl-#SPACE#or#SPACE#carbamoyltransferase#SPACE#activity	c$hypF
+c$lysophospholipase#SPACE#activity	c$rssA c$tesA c$pldB
+c$dTDP-4-dehydrorhamnose#SPACE#3#COMMA#5-epimerase#SPACE#activity	c$rfbC
+c$serine-type#SPACE#carboxypeptidase#SPACE#activity	c$mrcA
+c$peptide-methionine#SPACE#(S)-S-oxide#SPACE#reductase#SPACE#activity	c$msrA
+c$nucleoside#SEMICOLON#proton#SPACE#symporter#SPACE#activity	c$nupC
+c$alkylbase#SPACE#DNA#SPACE#N-glycosylase#SPACE#activity	c$alkA
+c$lead#SPACE#ion#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$zntA
+c$rRNA#SPACE#(cytosine)#SPACE#methyltransferase#SPACE#activity	c$rlmI
+c$hexose#SEMICOLON#proton#SPACE#symporter#SPACE#activity	c$fucP
+c$farnesyltranstransferase#SPACE#activity	c$cyoE
+c$FMN#SPACE#adenylyltransferase#SPACE#activity	c$ribF
+c$mannose#SPACE#isomerase#SPACE#activity	c$yihS
+c$L-lysine#SPACE#efflux#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$lysO
+c$fucose#SEMICOLON#proton#SPACE#symporter#SPACE#activity	c$fucP
+c$L-ascorbate#SPACE#6-phosphate#SPACE#lactonase#SPACE#activity	c$ulaG
+c$tetrahydrofolylpolyglutamate#SPACE#synthase#SPACE#activity	c$folC
+c$acetylesterase#SPACE#activity	c$aes
+c$glutathionylspermidine#SPACE#synthase#SPACE#activity	c$gss
+c$aspartate#SPACE#ammonia-lyase#SPACE#activity	c$aspA
+c$L-aspartate#SEMICOLON#2-oxoglutarate#SPACE#aminotransferase#SPACE#activity	c$aspC
+c$glucosamine-1-phosphate#SPACE#N-acetyltransferase#SPACE#activity	c$glmU
+c$D-cysteine#SPACE#desulfhydrase#SPACE#activity	c$dcyD
+c$glutathione#SPACE#synthase#SPACE#activity	c$gshB
+c$ribonucleoside-triphosphate#SPACE#reductase#SPACE#activity	c$nrdD
+c$dihydrolipoyl#SPACE#dehydrogenase#SPACE#activity	c$lpd
+c$DOPA#SPACE#dioxygenase#SPACE#activity	c$ygiD
+c$hydrolase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#acid#SPACE#carbon-carbon#SPACE#bonds#COMMA##SPACE#in#SPACE#ketonic#SPACE#substances	c$paaZ
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#NAD(P)H	c$hcr
+c$proline#SPACE#dipeptidase#SPACE#activity	c$pepQ
+c$aspartate#SPACE#carbamoyltransferase#SPACE#activity	c$pyrB
+c$glycerol#SPACE#kinase#SPACE#activity	c$glpK
+c$phosphoglycolate#SPACE#phosphatase#SPACE#activity	c$gph
+c$diacylglycerol#SPACE#kinase#SPACE#activity	c$dgkA
+c$6-phosphogluconolactonase#SPACE#activity	c$pgl
+c$o-succinylbenzoate-CoA#SPACE#ligase#SPACE#activity	c$menE
+c$methenyltetrahydrofolate#SPACE#cyclohydrolase#SPACE#activity	c$folD
+c$protein-phosphocysteine-glucosamine#SPACE#phosphotransferase#SPACE#system#SPACE#transporter#SPACE#activity	c$nagE
+c$O-phospho-L-serine#SEMICOLON#2-oxoglutarate#SPACE#aminotransferase#SPACE#activity	c$serC
+c$O-acetyl-ADP-ribose#SPACE#deacetylase#SPACE#activity	c$ymdB
+c$neutral#SPACE#L-amino#SPACE#acid#SPACE#secondary#SPACE#active#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$yjeH
+c$carnitine#SPACE#racemase#SPACE#activity	c$caiD
+c$lipopolysaccharide#SPACE#core#SPACE#heptosyltransferase#SPACE#activity	c$waaQ
+c$glutathione#SPACE#binding	c$grxC
+c$L-fuculose-phosphate#SPACE#aldolase#SPACE#activity	c$fucA
+c$riboflavin#SPACE#synthase#SPACE#activity	c$ribC
+c$GTPase#SPACE#activating#SPACE#protein#SPACE#binding	c$der
+c$sorbitol-6-phosphate#SPACE#2-dehydrogenase#SPACE#activity	c$srlD
+c$galactarate#SPACE#dehydratase#SPACE#activity	c$garD
+c$nicotinamide#SPACE#riboside#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$pnuC
+c$4-hydroxy-tetrahydrodipicolinate#SPACE#synthase	c$dapA
+c$chromate#SPACE#reductase#SPACE#activity	c$nemA c$nfsA
+c$L-idonate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$idnT
+c$L-rhamnose#SPACE#isomerase#SPACE#activity	c$rhaA
+c$O-acetylhomoserine#SPACE#aminocarboxypropyltransferase#SPACE#activity	c$yhfS
+c$uroporphyrinogen-III#SPACE#synthase#SPACE#activity	c$hemD
+c$[protein-PII]#SPACE#uridylyltransferase#SPACE#activity	c$glnD
+c$RNA-3'-phosphate#SPACE#cyclase#SPACE#activity	c$rtcA
+c$L-aspartate#SEMICOLON#fumarate#SPACE#oxidoreductase#SPACE#activity	c$nadB
+c$iron-sulfur#SPACE#transferase#SPACE#activity	c$iscU
+c$coproporphyrinogen#SPACE#oxidase#SPACE#activity	c$hemF
+c$glucose-6-phosphate#SPACE#isomerase#SPACE#activity	c$pgi
+c$galactoside#SPACE#O-acetyltransferase#SPACE#activity	c$lacA
+c$acetate-CoA#SPACE#ligase#SPACE#activity	c$acs
+c$S-adenosylmethionine-dependent#SPACE#tRNA#SPACE#(m5U54)#SPACE#methyltransferase#SPACE#activity	c$trmA
+c$protoheme#SPACE#IX#SPACE#farnesyltransferase#SPACE#activity	c$cyoE
+c$transcription#SPACE#factor#SPACE#activity#COMMA##SPACE#core#SPACE#RNA#SPACE#polymerase#SPACE#binding	c$rpoH
+c$purine#SPACE#nucleoside#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$nepI
+c$exoribonuclease#SPACE#activity	c$rbn
+c$nucleoside-specific#SPACE#channel#SPACE#forming#SPACE#porin#SPACE#activity	c$tsx
+c$selenide#COMMA##SPACE#water#SPACE#dikinase#SPACE#activity	c$selD
+c$purine-specific#SPACE#mismatch#SPACE#base#SPACE#pair#SPACE#DNA#SPACE#N-glycosylase#SPACE#activity	c$mutY
+c$maltose#SPACE#transporting#SPACE#porin#SPACE#activity	c$ompG
+c$diaminopropionate#SPACE#ammonia-lyase#SPACE#activity	c$ygeX
+c$glutamate#SPACE#dehydrogenase#SPACE#(NAD+)#SPACE#activity	c$gdhA
+c$asparagine-tRNA#SPACE#ligase#SPACE#activity	c$asnS
+c$L-ascorbic#SPACE#acid#SPACE#binding	c$ulaR
+c$integrase#SPACE#activity	c$intE
+c$glycine#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$cycA
+c$leucine#SPACE#binding	c$livK
+c$glycerol-3-phosphate#SPACE#dehydrogenase#SPACE#[NADP+]#SPACE#activity	c$gpsA
+c$lipoyl(octanoyl)#SPACE#transferase#SPACE#activity	c$lipB
+c$phosphatidylglycerol-prolipoprotein#SPACE#diacylglyceryl#SPACE#transferase#SPACE#activity	c$lgt
+c$phosphoadenylyl-sulfate#SPACE#reductase#SPACE#(thioredoxin)#SPACE#activity	c$cysH
+c$undecaprenyldiphospho-muramoylpentapeptide#SPACE#beta-N-acetylglucosaminyltransferase#SPACE#activity	c$murG
+c$tyrosine-tRNA#SPACE#ligase#SPACE#activity	c$tyrS
+c$6#COMMA#7-dimethyl-8-ribityllumazine#SPACE#synthase#SPACE#activity	c$ribE
+c$isoguanine#SPACE#deaminase#SPACE#activity	c$codA
+c$6-pyruvoyltetrahydropterin#SPACE#synthase#SPACE#activity	c$queD
+c$oleic#SPACE#acid#SPACE#binding	c$fadD
+c$threonine#SPACE#aldolase#SPACE#activity	c$tdcB
+c$bacterial-type#SPACE#RNA#SPACE#polymerase#SPACE#transcription#SPACE#factor#SPACE#activity#COMMA##SPACE#sequence-specific#SPACE#DNA#SPACE#binding	c$ada
+c$thiamine-phosphate#SPACE#kinase#SPACE#activity	c$thiL
+c$shikimate#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$shiA
+c$glycine#SPACE#binding	c$gcvP
+c$asparagine#SPACE#synthase#SPACE#(glutamine-hydrolyzing)#SPACE#activity	c$asnB
+c$DNA#SPACE#clamp#SPACE#loader#SPACE#activity	c$dnaX
+c$L-fucose#SPACE#isomerase#SPACE#activity	c$fucI
+c$alkyl#SPACE#sulfatase#SPACE#activity	c$yjcS
+c$hydrolase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#carbon-nitrogen#SPACE#(but#SPACE#not#SPACE#peptide)#SPACE#bonds#COMMA##SPACE#in#SPACE#linear#SPACE#amides	c$rutB
+c$NADP+#SPACE#binding	c$rfaD
+c$2-hydroxy-6-oxonona-2#COMMA#4#COMMA#7-trienedioate#SPACE#hydrolase#SPACE#activity	c$mhpC
+c$6-deoxy-6-sulfofructose-1-phosphate#SPACE#aldolase#SPACE#activity	c$yihT
+c$L-methionine#SPACE#secondary#SPACE#active#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$yjeH
+c$4-acetamido-4#COMMA#6-dideoxy-D-galactose#SPACE#transferase#SPACE#activity	c$rffT
+c$threonine-tRNA#SPACE#ligase#SPACE#activity	c$thrS
+c$CTP#SPACE#reductase#SPACE#activity	c$nrdD
+c$deoxycytidine#SPACE#deaminase#SPACE#activity	c$cdd
+c$L-amino#SPACE#acid#SPACE#efflux#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$alaE
+c$3-sulfolactaldehyde#SPACE#reductase#SPACE#activity	c$yihU
+c$glutamate-ammonia#SPACE#ligase#SPACE#activity	c$glnA
+c$glucuronosyltransferase#SPACE#activity	c$waaH
+c$deoxyribodipyrimidine#SPACE#photo-lyase#SPACE#activity	c$phr
+c$oxidoreductase#SPACE#activity#COMMA##SPACE#acting#SPACE#on#SPACE#a#SPACE#sulfur#SPACE#group#SPACE#of#SPACE#donors#COMMA##SPACE#quinone#SPACE#or#SPACE#similar#SPACE#compound#SPACE#as#SPACE#acceptor	c$msrP
+c$succinyl-diaminopimelate#SPACE#desuccinylase#SPACE#activity	c$dapE
+c$rRNA#SPACE#(cytosine-N4-)-methyltransferase#SPACE#activity	c$rsmH
+c$tRNA#SPACE#(guanosine-2'-O-)-methyltransferase#SPACE#activity	c$trmH
+c$rhamnulose-1-phosphate#SPACE#aldolase#SPACE#activity	c$rhaD
+c$rRNA#SPACE#(uridine-N3-)-methyltransferase#SPACE#activity	c$rsmE
+c$tartronate-semialdehyde#SPACE#synthase#SPACE#activity	c$gcl
+c$phospholipase#SPACE#A2#SPACE#activity	c$pldA
+c$phosphomethylpyrimidine#SPACE#kinase#SPACE#activity	c$thiD
+c$fucose#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$araE
+c$isovaleryl-CoA#SPACE#dehydrogenase#SPACE#activity	c$aidB
+c$molybdopterin#SPACE#molybdotransferase#SPACE#activity	c$moeA
+c$UDP-N-acetylglucosamine#SPACE#diphosphorylase#SPACE#activity	c$glmU
+c$maltose#SPACE#O-acetyltransferase#SPACE#activity	c$maa
+c$FMN#SPACE#reductase#SPACE#(NADPH)#SPACE#activity	c$yieF
+c$lipopolysaccharide#SPACE#heptosyltransferase#SPACE#activity	c$waaC
+c$rRNA#SPACE#(uridine)#SPACE#methyltransferase#SPACE#activity	c$rlmC
+c$3-methyl-2-oxobutanoate#SPACE#hydroxymethyltransferase#SPACE#activity	c$panB
+c$DNA#SPACE#polymerase#SPACE#processivity#SPACE#factor#SPACE#activity	c$dnaX
+c$metalloexopeptidase#SPACE#activity	c$pepP
+c$glycerol#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$glpF
+c$UDP-galactopyranose#SPACE#mutase#SPACE#activity	c$glf

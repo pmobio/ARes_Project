@@ -1,0 +1,17 @@
+relation	#queries	range	#filter_size	#good	#filter_error
+confers#SPACE#resistance#SPACE#to#SPACE#antibiotic	622	c$antibiotic	104	84	0
+_confers#SPACE#resistance#SPACE#to#SPACE#antibiotic	84	c$gene	4488	622	0
+has	3238	c$molecular_function	1781	1782	1
+_has	1782	c$gene	4488	3238	0
+is#SPACE#involved#SPACE#in	2918	c$biological_process	1522	1522	0
+_is#SPACE#involved#SPACE#in	1522	c$gene	4488	2918	0
+represses	138	c$gene	4488	1463	0
+_represses	1463	c$gene	4488	138	0
+upregulated#SPACE#by#SPACE#antibiotic	97	c$antibiotic	104	4	0
+_upregulated#SPACE#by#SPACE#antibiotic	4	c$gene	4488	97	0
+is#SPACE#part#SPACE#of	2560	c$cellular_component	152	152	0
+_is#SPACE#part#SPACE#of	152	c$gene	4488	2560	0
+activates	124	c$gene	4488	1413	0
+_activates	1413	c$gene	4488	124	0
+targeted#SPACE#by	19	c$antibiotic	104	9	0
+_targeted#SPACE#by	9	c$gene	4488	19	0

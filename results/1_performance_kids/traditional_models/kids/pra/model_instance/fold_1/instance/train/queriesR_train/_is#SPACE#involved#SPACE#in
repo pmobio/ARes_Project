@@ -1,0 +1,1522 @@
+c$regulation#SPACE#of#SPACE#transcription#COMMA##SPACE#DNA-templated	c$uhpA c$gcvR c$yddM c$feaR c$eutR c$ydeO c$evgA c$pheM c$nsrR c$ybhD c$yiiE c$ybcM c$iclR c$arsR c$nikR c$narP c$caiF c$soxS c$fliA c$basR c$yfeR c$adiY c$iscR c$nagC c$tyrR c$nanR c$fis c$rpiR c$yiaU c$ygaV c$chbR c$yehT c$aaeR c$hypT c$lgoR c$narL c$rcsC c$yhjC c$gadW c$tdcA c$cra c$gadE c$rpoE c$fnr c$stpA c$hdfR c$rfaH c$ynfL c$nimR c$araC c$allS c$acrR c$yqhC c$slmA c$dpiA c$feoC c$leuO c$mfd c$dhaR c$appY c$dgoR c$gutM c$dicA c$melR c$glcC c$yijO c$ydcI c$ygbI c$hycA c$agaR c$yidZ c$yafN c$csiR c$envY c$cusR c$arcA c$hchA c$rpoH c$ymfK c$xylR c$nusG c$yghO c$higA c$trpR c$hexR c$rhaR c$ybiH c$rhaS c$ydiP c$torR c$yciT c$lrhA c$argP c$kdpE c$ypdC c$galS c$lrp c$metR c$rclR c$yfeD c$envR c$mqsA c$galR c$gcvA c$gadX c$dicC c$cnu c$ypdB c$yneL c$dcuS c$ygfI c$hicB
+c$cellular#SPACE#response#SPACE#to#SPACE#acidic#SPACE#pH	c$clcB c$yodD c$oxc c$yhcN c$frc c$clcA c$yjaA c$iraM c$hdeA
+c$DNA#SPACE#repair	c$nth c$alkA c$gph c$rusA c$ligA c$recR c$polA c$sbcD c$recQ c$mfd c$radD c$recJ c$nudG c$umuD c$mutT c$alkB c$ligB c$yebG c$mug c$dinG c$dnaX c$uvrA c$sbcC c$mutY c$rtcB
+c$ammonium#SPACE#transport	c$amtB
+c$tRNA#SPACE#aminoacylation#SPACE#for#SPACE#protein#SPACE#translation	c$metG c$lysS c$thrS c$glyS c$epmA c$proS c$asnS c$lysU c$aspS c$serS c$valS
+c$selenocysteine#SPACE#incorporation	c$selB
+c$10-formyltetrahydrofolate#SPACE#biosynthetic#SPACE#process	c$purU c$folM c$folC c$folA
+c$metabolic#SPACE#process	c$pbpC c$ybiW c$nhoA c$pabA c$leuD c$leuC c$ybhJ c$acnA c$eda c$rssA c$udk c$acnB c$yjjU c$yjhG c$abgB c$ycgM c$yagF c$glnE
+c$response#SPACE#to#SPACE#oxidative#SPACE#stress	c$sufD c$degP c$wrbA c$katE c$uspF c$ybhJ c$fumC c$azoR c$yidH c$nfuA c$yfcG c$oxyR c$yfdS c$fre c$clpA c$ftnA c$sufE c$lpd c$osmC c$ychF c$katG c$efeO c$ubiH c$napF c$soxR c$msrA c$hslO c$yfdK c$rseC c$sufA c$yaaU c$ydbK c$pka c$cysD c$ybeQ c$acnA c$icd c$ftsP c$bcp c$yhbO c$sodA c$yfdO c$gpmM c$msrP
+c$protein#SPACE#folding	c$dnaJ c$hlpA c$degP c$groS c$yidC c$yehC c$fkpA c$yfcS c$groL c$sfmC c$tig c$ybgP c$yraI c$ppiA c$ppiD c$dsbB c$fklB c$elfD c$htpG c$surA
+c$sister#SPACE#chromatid#SPACE#cohesion	c$seqA c$parE c$parC c$mukB
+c$aerobic#SPACE#electron#SPACE#transport#SPACE#chain	c$cyoB c$appB c$cyoA c$cyoC c$cydA c$cyoD c$cydB c$ndh c$appC
+c$maltose#SPACE#transport	c$malF c$malK c$malX c$malG c$ompG c$malE
+c$response#SPACE#to#SPACE#cold	c$ybiT c$raiA c$ydfK c$lpxP c$rbfA c$rnr c$cspA c$ynaE c$lepA c$cspI c$cspG c$infC c$cspB c$typA
+c$response#SPACE#to#SPACE#antibiotic	c$pbpC c$acrA c$kilR c$rfbX c$mdtM c$prc c$macB c$ycjU c$blr c$mlaB c$ykfM c$ybcM c$mdtQ c$yibA c$rfbC c$bacA c$mrdA c$nimT c$yqaE c$emrY c$emrK c$fsr c$rpsL c$mrcB c$mprA c$arnA c$sbmA c$ampE c$alaA c$rpsQ c$relE c$priA c$entS c$bamE c$mdtO c$efeO c$yafQ c$ybjG c$mdtE c$ybhG c$acrE c$mdfA c$mdtK c$mdtN c$rcsB c$yadC c$ypdB c$mrcA c$sseA c$yojI c$ftsE c$rpmG
+c$response#SPACE#to#SPACE#zinc#SPACE#ion	c$asr c$znuC c$cusF c$znuB
+c$keto-3-deoxy-D-manno-octulosonic#SPACE#acid#SPACE#biosynthetic#SPACE#process	c$kdsD c$gutQ c$kdsA c$kdsB
+c$cell#SPACE#separation#SPACE#after#SPACE#cytokinesis	c$ygeR c$ftsK c$mepM c$nlpD c$envC
+c$carbohydrate#SPACE#metabolic#SPACE#process	c$ybiW c$kdsD c$pgl c$gutQ c$malS c$yphB c$malZ c$amyA c$bglB c$rffD c$ycjU c$ascB c$treC c$agaA c$galE c$yieL c$glgB c$bglA c$zwf
+c$regulation#SPACE#of#SPACE#cell#SPACE#shape	c$rodZ c$mrdA c$ftsW c$mrcB c$dacA c$dacC c$murJ c$mreC c$dacD c$mreD c$mrcA c$ampH c$murB c$mrdB c$dacB c$mreB
+c$glycine#SPACE#biosynthetic#SPACE#process#SPACE#from#SPACE#serine	c$glyA
+c$L-lyxose#SPACE#metabolic#SPACE#process	c$rhaA c$sgbU c$sgbE c$araD c$lyxK
+c$formate#SPACE#oxidation	c$fdnG c$fdnH c$fdhF c$fdoI c$fdoH c$fdnI c$fdoG
+c$ATP#SPACE#hydrolysis#SPACE#coupled#SPACE#cation#SPACE#transmembrane#SPACE#transport	c$potI c$copA c$potF c$afuC c$atpH c$potH c$kdpC c$atpG c$atpC c$zntA c$atpD c$atpF c$nikD c$potA c$tcyN c$mgtA c$nikE c$kdpB c$atpB c$atpA c$potG c$kdpA c$kdpF
+c$nucleoside#SPACE#transmembrane#SPACE#transport	c$psuT c$xapB c$nupC c$yegT c$nupX c$tsx c$nupG
+c$nucleic#SPACE#acid#SPACE#phosphodiester#SPACE#bond#SPACE#hydrolysis	c$recC c$exoX c$dnaN c$ruvC c$polB c$rnt c$hsdR c$endA c$rnr c$mutM c$holD c$rnpA c$rne c$sbcD c$mrr c$orn c$vsr c$mutH c$ycjD c$symE c$yqgF c$hicA c$yafO c$holB c$recB c$chpB c$xseA c$nfo c$uvrA c$yraN c$yhbQ c$rnhA c$mazF c$rnd c$ralR c$yjdK c$rph c$uvrC c$rnlA c$mcrB c$ybcC c$mqsR c$rusA c$rnc c$polA c$xseB c$relE c$xthA c$rnb c$rpsP c$recJ c$mcrA c$recD c$smrA c$yajD c$yciV c$cas2 c$yafQ c$cas1 c$ygdG c$yhhZ c$nei c$higB c$nfi c$sbcC c$rng c$cho c$rna c$dnaQ c$uvrB c$rnhB
+c$transcription#COMMA##SPACE#DNA-templated	c$glrR c$frvR c$bolA c$gcvR c$yddM c$eutR c$ydcR c$ydeO c$qseB c$ycaN c$dinJ c$cecR c$ybhD c$yneJ c$arsR c$yfaX c$yhaJ c$rcsA c$caiF c$hupB c$ttdR c$yidP c$cspA c$ygeV c$yfeR c$pepA c$yagI c$zur c$ascG c$nanR c$uidR c$zraR c$mprA c$baeR c$yjiR c$relB c$yiaU c$uxuR c$hipB c$aaeR c$hypT c$mlc c$yhjC c$gadW c$yidL c$lsrR c$rcsB c$abgR c$gyrB c$stpA c$hupA c$ycjW c$lexA c$yihW c$ybeF c$yahB c$acrR c$yaiW c$dcuR c$yafC c$yqhC c$perR c$feoC c$yebK c$yfhH c$dsdC c$ihfA c$yihL c$dhaR c$ihfB c$rcdA c$sfsB c$dicA c$yijO c$ygbI c$ydcI c$flhC c$yeiE c$yidZ c$cueR c$yfiE c$yjhI c$ykgA c$ulaR c$rpoH c$ymfK c$pgrR c$puuR c$rho c$flhD c$cysB c$yghO c$fhlA c$hprR c$rhaR c$ydiP c$yciT c$paaX c$lrhA c$sgcR c$yhjB c$rclR c$ybaQ c$frlR c$yaiV c$gyrA c$crp c$galR c$gadX c$gcvA c$dicC c$yeeY c$decR c$cnu c$yeiL c$dmlR c$ydfH c$ygfI c$hicB
+c$transmembrane#SPACE#transport	c$ydjE c$mdtI c$sugE c$thiQ c$adeP c$yihP c$lamB c$codB c$ybgQ c$ompC c$phoE c$tqsA c$uidC c$znuB c$yehB c$gltP c$elfC c$emrB c$citT c$yejA c$ttdT c$ompL c$nikA c$lsrA c$aaeB c$emrY c$pgaA c$yqiG c$fimD c$mdtJ c$nanC c$dppA c$yhjX c$nhaA c$mscS c$ygiS c$yeeA c$ydjK c$dctA c$yraJ c$yagG c$ytfR c$tolC c$mdtO c$ugpC c$yhfK c$ybbW c$yccS c$yajR c$actP c$yjfF c$yrbG c$arnF c$dipZ c$ompW c$ghxQ c$nanT c$yddA c$kefB c$fepA c$hcaT c$yfeO c$mdlA c$mntH c$yejF c$mppA c$afuC c$nhaB c$caiT c$setA c$eamA c$tbpA c$fadL c$gltS c$tsx c$exbB c$yijE c$setC c$sapA c$yicJ c$pstC c$ygaZ c$uhpT c$yhcD c$nimT c$ybhI c$potA c$melB c$nmpC c$tsgA c$mdlB c$ybiO c$malK c$ydcT c$cysA c$wza c$ccmA c$tcyP c$ygaH c$yebQ c$gfcE c$ycjP c$ytfT c$btuB c$sbmA c$yihO c$yfaV c$sfmD c$ynaI c$metN c$setB c$arnE c$gsiB c$emrE c$ydeE c$oppA c$yqjA c$cynX c$yghB c$sstT c$ydeT c$lptF c$ydcO c$aqpZ c$yaaJ c$clcA c$ravA c$acrE c$rhaT c$chiP c$hsrA c$mdtD c$ydhK c$ymjB c$uhpC c$lacY c$tehA c$yddL c$yojI c$potG c$yedA
+c$purine#SPACE#ribonucleotide#SPACE#biosynthetic#SPACE#process	c$purU
+c$cobalamin#SPACE#transport	c$btuD c$btuF c$btuB c$btuE c$tonB c$btuC c$exbB
+c$protein-heme#SPACE#linkage	c$ccmE c$ccmC
+c$proteolysis	c$pbpC c$degP c$pppA c$mrcB c$ldtE c$clpX c$prc c$tsaD c$ydcP c$pmbA c$yjfP c$ftsH c$tsaB c$degS c$clpA c$lon c$ldtC c$ompT c$dcp c$tldD c$glpG c$sgcX c$mtfA c$lit c$pepB c$mrdA c$degQ c$yifB c$sohB c$ldtD c$ldtB c$yfeW c$hslU c$htpX c$ftsI c$prlC c$ptrA c$lepB c$pepN c$ypdF c$ybeY c$clpP c$mrcA c$ldtA
+c$protein#SPACE#unfolding	c$clpA c$clpX c$hslU c$tig
+c$tricarboxylic#SPACE#acid#SPACE#cycle	c$sucC c$ybhJ c$sucD c$aceK c$fumC c$yahF c$fdrA c$ppc c$acnA c$sucA c$aspA c$acnB c$fumB c$fumA c$sdhA c$sucB c$mdh
+c$gene#SPACE#silencing	c$stpA c$hns
+c$tRNA#SPACE#pseudouridine#SPACE#synthesis	c$iscS c$truC c$truA c$rluA c$truB c$rluF
+c$modulation#SPACE#of#SPACE#apoptotic#SPACE#process#SPACE#in#SPACE#other#SPACE#organism	c$hlyE
+c$arsenite#SPACE#transport	c$arsB c$ypjM_2
+c$DNA-dependent#SPACE#DNA#SPACE#replication	c$holA c$dam c$priA c$priC c$holB c$polB c$rarA c$dnaT c$polA c$dnaX
+c$phosphoenolpyruvate-dependent#SPACE#sugar#SPACE#phosphotransferase#SPACE#system	c$srlA c$fryC c$chbC c$fruA c$sgcB c$sgcC c$gatC c$agaW c$ulaC c$fryB c$manZ c$frvA c$ptsG c$gatZ c$ulaB c$frwD c$fruB c$agaD c$chbA c$crr c$glvC c$yadI c$chbB c$manX c$ptsH c$nagE c$frwB c$kbaZ c$gatB c$manY c$srlE c$mngA c$sgcA c$mtlA c$ascF c$murP c$glvB c$ulaA c$cmtB c$gatA c$treB c$fryA c$agaS c$bglF c$agaC c$ptsN c$ptsI c$srlB c$cmtA c$frwC c$frvB
+c$isopentenyl#SPACE#diphosphate#SPACE#biosynthetic#SPACE#process#COMMA##SPACE#methylerythritol#SPACE#4-phosphate#SPACE#pathway	c$dxr c$dxs c$ispH c$ispG
+c$peptidoglycan#SPACE#biosynthetic#SPACE#process	c$murC c$pbpC c$ddpX c$ddlB c$ftsW c$mrcB c$lpoA c$yiaT c$murE c$dacD c$lpoB c$mtgA c$mipA c$murI c$mrdA c$ygeA c$mepA c$glmM c$dacC c$murJ c$ispU c$ftsI c$ddlA c$pgpB c$murG c$murF c$murD c$murA c$mrcA c$mrdB c$murB
+c$arginine#SPACE#catabolic#SPACE#process#SPACE#to#SPACE#succinate	c$astC
+c$phosphorelay#SPACE#signal#SPACE#transduction#SPACE#system	c$glrR c$rstB c$phoP c$cheA c$creC c$zraR c$glnL c$zraS c$dcuR c$dpiA c$yehU c$phoQ c$rcsD c$yehT c$glrK c$narX c$envZ c$qseC c$narQ c$baeS c$argK c$rcsC c$atoS c$dpiB c$uhpB c$barA c$uvrY c$cusS c$phoR c$cheY c$ompR c$cusR c$basR c$arcA c$basS c$cpxA c$uhpC c$torS c$ypdA c$evgS c$arcB c$dcuS
+c$ammonium#SPACE#transmembrane#SPACE#transport	c$amtB
+c$DNA#SPACE#duplex#SPACE#unwinding	c$recQ c$recT c$recC c$uvrD c$ruvB c$helD c$ruvA c$recB c$recG c$dinG
+c$protein#SPACE#quality#SPACE#control#SPACE#for#SPACE#misfolded#SPACE#or#SPACE#incompletely#SPACE#synthesized#SPACE#proteins	c$degP c$lon c$clpP c$pth
+c$nitrogen#SPACE#utilization	c$rutD c$rutB c$rutF c$rutE c$rutC c$rutA c$glnA
+c$mixed#SPACE#acid#SPACE#fermentation	c$dcuC c$ldhA
+c$regulation#SPACE#of#SPACE#nucleic#SPACE#acid-templated#SPACE#transcription	c$dnaJ c$yoeB c$dnaK c$fliZ c$rssB
+c$Gram-negative-bacterium-type#SPACE#cell#SPACE#wall#SPACE#biogenesis	c$ldtD c$mtgA c$ldtC c$ldtE c$ldtB c$elyC c$ispU c$ldtA
+c$rRNA#SPACE#processing	c$rluA c$rng c$ybeY c$rsmA c$rne
+c$pilus#SPACE#organization	c$yfcU c$elfC c$yraI c$yraJ c$yehC c$yfcS c$yadV c$sfmD c$fimG c$elfD c$sfmC c$yehB
+c$DNA#SPACE#catabolic#SPACE#process#COMMA##SPACE#exonucleolytic	c$tatD c$sbcB c$cas3
+c$rRNA#SPACE#base#SPACE#methylation	c$rlmD c$rsmE c$rlmA c$rlmG c$rsmH c$rsmB c$rlmC c$rsmC c$rlmL c$rlmN c$rlmI c$rsmA c$rsmG c$rsmD c$rlmJ c$rlmF c$rsmJ c$rlmH c$rsmF
+c$protein#SPACE#transport#SPACE#by#SPACE#the#SPACE#Tat#SPACE#complex	c$tatB c$tatC c$tatA c$tatE
+c$cellular#SPACE#response#SPACE#to#SPACE#DNA#SPACE#damage#SPACE#stimulus	c$paaJ c$yedF c$yjhC c$mutM c$lamB c$ydhQ c$yqjI c$recX c$mlaB c$ybcM c$glgX c$mglA c$proQ c$adhP c$iraD c$rfbC c$aidB c$yqgF c$yiaO c$malE c$yehB c$yqiJ c$hisA c$yhcF c$yhbQ c$hprS c$yggE c$emrY c$rcnB c$emrK c$yibH c$ybiX c$lldR c$hyfF c$glgB c$entS c$yoeE c$treA c$yjjU c$recD c$fdoG c$cas1 c$yidQ c$eutN c$hupA c$thiH c$dsdA c$argB c$dsdX c$ycjW c$lexA c$rtcB c$yphB c$katE c$fdoI c$uxuA c$ycjU c$yebK c$yfgI c$mfd c$glgA c$paoC c$yjeI c$allR c$ydjM c$solA c$dinB c$rbfA c$ada c$pflA c$yafN c$gabP c$ygjK c$ydiZ c$pfkB c$fsr c$deoD c$gpr c$recN c$narY c$yjiY c$glxR c$purN c$alaA c$radD c$yciT c$ybjX c$yciF c$kdgK c$fimB c$arsC c$ssuE c$add c$glpK c$yaaY c$yohC c$dnaN c$rfbX c$ygcW c$yjiM c$nikE c$dhaM c$frdA c$ycdY c$yghG c$ompC c$deoA c$yibA c$narX c$symE c$feoA c$nanK c$pstA c$mutS c$argF c$treC c$pdeD c$dinD c$elaB c$sbmC c$uvrC c$mmuM c$deoB c$hokE c$purB c$alkA c$ycfL c$yajQ c$blc c$sulA c$dctA c$yraJ c$yaiP c$umuD c$ydiQ c$puuP c$gadW c$cpdB c$betT c$ybfE c$mglC c$yjiX c$recA c$lldP c$yceK c$ydeM c$dinQ c$cobU c$asnA c$purD c$rihC c$bsmA c$pstS c$ybhR c$umuC c$ykfM c$nadE c$hyfC c$yjiA c$flgI c$idi c$aldB c$ybiJ c$deoC c$ompA c$yiaB c$fumB c$insK c$yeaD c$ycgB c$rutE c$htpG c$yhaC c$fepB c$asd c$glcD c$yqiH c$yiaA c$nagE c$yfbU c$recQ c$udp c$oxyR c$xthA c$yciE c$gsiB c$purA c$ftnA c$emrE c$otsA c$yhcH c$ldtD c$feoB c$tisB c$malF c$yadC c$gadX c$cho c$dhaK c$gntR c$ygfI
+c$pyrimidine#SPACE#ribonucleoside#SPACE#catabolic#SPACE#process	c$rihB c$rihA
+c$nitrogen#SPACE#compound#SPACE#metabolic#SPACE#process	c$gabD c$yjjI c$sad c$hcp
+c$drug#SPACE#transmembrane#SPACE#transport	c$mdtA c$bcr c$mdtC c$acrA c$mdtM c$mdtE c$macB c$ompF c$ybhR c$emrD c$ydhC c$acrE c$mdlB c$mdtN c$mdfA c$acrB c$mdtL c$mdtB c$mdlA c$mdtG c$ybhF c$acrD c$mdtF c$ybhS
+c$glycine#SPACE#betaine#SPACE#transport	c$mdtJ c$mdtI c$yehX c$proP c$yehW c$emrE c$osmF c$proW c$proV c$yehY c$proX
+c$cellular#SPACE#response#SPACE#to#SPACE#nitric#SPACE#oxide	c$norW
+c$cell#SPACE#division	c$amiB c$ftsW c$dicB c$ftsQ c$tolR c$clpX c$minC c$tolA c$amiC c$ycjY c$amiA c$radD c$ftsA c$zapE c$dicA c$tolB c$nlpI c$ymgF c$ftsK c$minD c$dacA c$ftsB c$ftsZ c$matP c$cpoB c$ftsI c$zapA c$tolQ c$mukB c$ftsP c$dicC c$ftsX c$ftsN c$mrdB c$ftsE c$pal
+c$positive#SPACE#regulation#SPACE#of#SPACE#transcription#COMMA##SPACE#DNA-templated	c$glrR c$allS c$rutR c$dcuR c$sgrR c$yqhC c$feaR c$ydeO c$yqjI c$xapR c$asnC c$appY c$iraD c$hcaR c$pspF c$insH-5 c$ftsK c$cadC c$nac c$cueR c$ogrK c$ttdR c$ada c$pdeL c$ompR c$marA c$arcA c$adiY c$rbsR c$rseP c$iraM c$zntR c$creB c$hprR c$cdaR c$bglJ c$tdcR c$fadR c$lrhA c$atoC c$crl c$aaeR c$alpA c$hepA c$argP c$iraP c$rclR c$tdcA c$cpxR c$sutR c$pdhR c$rcsB c$sfsA c$crp c$gadX c$prpR c$dmlR c$gntR c$sspA c$rtcR
+c$proline#SPACE#biosynthetic#SPACE#process	c$proA c$proB
+c$regulation#SPACE#of#SPACE#heme#SPACE#biosynthetic#SPACE#process	c$cydC
+c$oxidation-reduction#SPACE#process	c$phoA c$aslB c$wrbA c$aceF c$cysH c$ycjQ c$ydjL c$adhP c$ybdR c$cbrA c$msrQ c$cyaY c$tynA c$ahr c$yjeI c$hcp c$sdhA c$curA c$ybiY c$ccmH c$napF c$yhdH c$idnD c$mdaB c$lipA c$lsrG c$ynjA c$yfcF c$leuB c$mhpA c$rspB c$yraR c$icd c$hcaC c$ybbN c$puuB c$pdxH c$ydfG c$zwf c$ccmG c$ygjR c$gatD c$qorA c$lpd c$lgoD c$gstB c$gcvP c$yfdG c$tdh c$yahK c$dmlA c$yggP c$dsbA c$dnaJ c$dipZ c$dsbC c$dsbG c$yjjW c$yphC c$bamB c$frmA c$pflC c$ydjJ c$msrC c$grxD c$sodA c$bdcA c$ydeM c$msrP c$gnd c$sodB
+c$positive#SPACE#regulation#SPACE#of#SPACE#translation	c$rfaH c$deaD c$rbbA
+c$signal#SPACE#peptide#SPACE#processing	c$sppA c$prlC c$lepB
+c$extracellular#SPACE#polysaccharide#SPACE#biosynthetic#SPACE#process	c$yjbF c$yjbG c$rffG c$rfbB c$yjbE c$rfbC c$yjbH c$rffH c$rfbD
+c$carbohydrate#SPACE#transmembrane#SPACE#transport	c$fryC c$chbC c$rbsA c$fruA c$ompG c$setA c$sgcB c$sgcC c$gatC c$bglH c$yiaN c$agaW c$ulaC c$mglA c$fryB c$ptsG c$gatZ c$frvA c$ulaB c$frwD c$yiaO c$setC c$fruB c$agaD c$chbA c$melB c$glvC c$yiaM c$chbB c$manX c$nagE c$frwB c$kbaZ c$srlE c$gatB c$mngA c$malX c$mtlA c$setB c$ascF c$murP c$ompN c$agaB c$glvB c$ulaA c$gatA c$treB c$agaS c$fryA c$bglF c$agaC c$ptsN c$cmtA c$srlB c$frwC c$frvB c$agaV
+c$arabinose#SPACE#transmembrane#SPACE#transport	c$araH c$fucP c$ompL
+c$fructose#SPACE#6-phosphate#SPACE#metabolic#SPACE#process	c$glmS c$fbp c$frlB
+c$mRNA#SPACE#cleavage#SPACE#involved#SPACE#in#SPACE#gene#SPACE#silencing	c$yoeB
+c$mRNA#SPACE#pseudouridine#SPACE#synthesis	c$truB
+c$response#SPACE#to#SPACE#osmotic#SPACE#stress	c$betA c$betB c$ftsK c$yjjB c$aqpZ c$rpoE c$ybdG c$mdoG c$cysG c$emrE c$mdoH c$osmE c$otsA c$otsB c$betI c$flgH
+c$negative#SPACE#regulation#SPACE#of#SPACE#transcription#COMMA##SPACE#DNA-templated	c$rutR c$acrR c$frmR c$mraZ c$sgrR c$marR c$glpR c$purR c$yqjI c$mngR c$asnC c$iclR c$fur c$fabR c$exuR c$hcaR c$pspF c$aidB c$allR c$bdcR c$kdgR c$ydcI c$nemR c$yiaJ c$lacI c$nac c$yggD c$ada c$yjhI c$marA c$arcA c$alaS c$ebgR c$pgrR c$zur c$yagI c$ascG c$tyrR c$betI c$putA c$uidR c$prlF c$ygiV c$mprA c$comR c$mntR c$yefM c$hprR c$treR c$mqsR c$rpiR c$ygaV c$malI c$fadR c$cytR c$hipB c$chbR c$lrhA c$argP c$murR c$bluR c$cpxR c$sutR c$mcbR c$nrdR c$pdhR c$rcsB c$mtlR c$envR c$crp c$hdfR c$rhmR c$mhpR c$prpR c$rcnR c$nimR c$srlR c$cpxP c$dmlR c$gntR c$lexA
+c$fucose#SPACE#transmembrane#SPACE#transport	c$fucP c$araE
+c$glycogen#SPACE#biosynthetic#SPACE#process	c$glgB c$glgA c$pgm c$glgC
+c$regulation#SPACE#of#SPACE#fatty#SPACE#acid#SPACE#metabolic#SPACE#process	c$fadR
+c$guanine#SPACE#metabolic#SPACE#process	c$guaD
+c$regulation#SPACE#of#SPACE#endoribonuclease#SPACE#activity	c$rraB
+c$cell#SPACE#motility	c$tsr c$recA c$plaP c$ypdB
+c$maltodextrin#SPACE#transport	c$malF c$malK c$lamB c$malG c$malE
+c$response#SPACE#to#SPACE#starvation	c$spoT c$ddpX c$cspD c$sspA c$dps c$gpp c$relA
+c$L-arginine#SPACE#import#SPACE#across#SPACE#plasma#SPACE#membrane	c$artP c$artM c$artJ c$artQ
+c$cellular#SPACE#protein#SPACE#modification#SPACE#process	c$hybD c$citC c$hyaD c$glnD c$hycI c$sixA c$hypD c$lipB c$rimJ c$rimI c$nrdI c$rimL
+c$protein#SPACE#homotetramerization	c$kbaY c$wrbA c$betB c$kdsA c$menE c$fhlA c$ydiF c$rne c$atoB c$entA c$pykF c$cmoB c$pfkA c$norV c$uidA c$glgC c$pykA c$hdhA c$glsA c$fbp c$galU c$metF c$aldA c$pka c$fabI c$tnaA c$seqA c$csiD c$ssuE c$speG c$kch c$yeiG c$poxB c$nagA c$ansB c$feaB
+c$peptidoglycan-associated#SPACE#peptide#SPACE#transport	c$oppB c$oppF c$mppA c$oppC c$oppD
+c$response#SPACE#to#SPACE#radiation	c$recC c$ruvC c$ruvA c$dcd c$holD c$queA c$yibA c$dusB c$pstC c$radA c$recO c$elfG c$recB c$glnA c$seqA c$uvrA c$priB c$dppF c$yhjV c$cpxA c$uvrC c$uup c$clpP c$tatC c$thyA c$sufC c$recN c$rep c$fis c$recF c$yahO c$holC c$recR c$envC c$rpmF c$bglJ c$yiaL c$uvrD c$deaD c$ybfA c$groL c$xerD c$recA c$prpR c$rplY c$uvrB c$recG c$yahD c$pstS
+c$pantothenate#SPACE#transmembrane#SPACE#transport	c$panF
+c$anaerobic#SPACE#respiration	c$torA c$narV c$torZ c$fdoI c$hybC c$bisC c$dmsA c$dcuA c$ynfE c$frdA c$hyaA c$yjjI c$ynfF c$sdhA c$torC c$glpA c$mdh c$dld c$napC c$narI c$fdnH c$erpA c$acnA c$torY c$hybA c$narG c$nirD c$napA c$nirB c$hyaB c$frdD c$narY c$hybO c$fdnI c$ndh c$hyaC c$dmsC c$fdnG c$frdB c$glpD c$dcuB c$fdoG c$glpB c$ynfH c$narZ c$fdoH c$fnr c$frdC c$lldD c$hybB c$glpC c$dmsB c$napB c$narH c$torS
+c$protein#SPACE#destabilization	c$rssB
+c$N-acetylglucosamine#SPACE#transport	c$manX c$manY c$manZ c$nagE
+c$monosaccharide#SPACE#transmembrane#SPACE#transport	c$yjfF c$yphF c$ytfT c$araG c$rbsA c$mglB c$alsC c$xylF c$xylH c$mglC c$ytfQ c$rbsC c$alsB c$rbsB c$araH c$lsrC c$alsA c$lsrD c$yphD c$araF c$lsrB
+c$translational#SPACE#elongation	c$tufA c$efp c$tsf c$tufB c$lepA
+c$glutamate#SPACE#biosynthetic#SPACE#process	c$gltD c$gdhA c$glsA2 c$glsA1 c$gltB
+c$carbohydrate#SPACE#transport	c$ptsH c$nagE c$fruA c$sgcB c$mtlA c$rbsB c$ptsG c$araH c$ugpC c$malE c$setC c$araF c$idnT c$ascF c$fruB c$murP c$glvB c$treB c$glvC c$yadI c$malK c$bglF c$alsB c$ptsI c$lacY
+c$phospholipid#SPACE#biosynthetic#SPACE#process	c$plsX c$fadD c$plsB c$psd c$aas c$adk
+c$GMP#SPACE#biosynthetic#SPACE#process	c$guaA
+c$amino#SPACE#acid#SPACE#transport	c$gltK c$leuE c$adiC c$eamB c$rhtC c$gltS c$tcyJ c$livK c$yhdW c$gltP c$sstT c$rhtB c$proP c$hisM c$glnP c$metI c$tcyN c$yahN c$yecS c$tdcC c$yhdX c$artM c$yhdZ c$argO c$yjeH c$yhaO
+c$cellular#SPACE#response#SPACE#to#SPACE#UV	c$nth c$uspE
+c$positive#SPACE#regulation#SPACE#of#SPACE#gene#SPACE#expression	c$cusR c$lysR c$cusS
+c$protein#SPACE#transport	c$bcr c$yeeO c$motA c$dppA c$secB c$yidD c$mppA c$secF c$sbmA c$tolA c$secD c$mdtK c$secA c$ppiD c$ydeE c$oppA c$tolB c$surA
+c$posttranscriptional#SPACE#regulation#SPACE#of#SPACE#gene#SPACE#expression	c$proQ c$pdeR
+c$FtsZ-dependent#SPACE#cytokinesis	c$yohD c$zapD c$amiB c$ftsQ c$zapC c$zapB c$ftsB c$amiC c$ftsL c$zapA c$ftsP c$pbpG c$yabI c$yqjA c$dacB c$yghB c$mreB
+c$peptidoglycan#SPACE#transport	c$ampG
+c$viral#SPACE#entry#SPACE#into#SPACE#host#SPACE#cell	c$ompA c$intZ c$intE c$tolA c$lamB c$intQ c$tsx
+c$cellular#SPACE#response#SPACE#to#SPACE#unfolded#SPACE#protein	c$hscC c$hscA c$dnaK c$yegD
+c$tRNA#SPACE#3'-terminal#SPACE#CCA#SPACE#addition	c$cca
+c$protein#SPACE#maturation#SPACE#by#SPACE#iron-sulfur#SPACE#cluster#SPACE#transfer	c$iscA c$hscB c$nfuA c$hscA c$sufA c$erpA c$iscU
+c$sodium#SPACE#ion#SPACE#transport	c$actP c$nhaB c$nhaA c$chaA
+c$glutathione#SPACE#metabolic#SPACE#process	c$gor c$yfcF c$yibF
+c$lipid#SPACE#catabolic#SPACE#process	c$yjjU c$rssA
+c$bacterial-type#SPACE#flagellum-dependent#SPACE#cell#SPACE#motility	c$motA c$fliS c$flgA c$cheY c$fdrA c$fliK c$frdC c$uspE c$frdA c$ycgR c$chaC c$frdB c$fliG c$fliD c$flgJ c$flgF c$flgG c$fliT c$flgI
+c$peptidoglycan#SPACE#catabolic#SPACE#process	c$mltA c$slt c$mpaA c$amiD c$ampH c$mltC c$ampD c$mltB c$dacB c$mltF
+c$thiosulfate#SPACE#transport	c$cysP
+c$cellular#SPACE#response#SPACE#to#SPACE#antibiotic	c$dsbA c$phoU c$ftsK c$amiA c$marR c$mltC
+c$tRNA#SPACE#metabolic#SPACE#process	c$truC c$dtd
+c$pyrimidine#SPACE#nucleoside#SPACE#transport	c$nupG
+c$negative#SPACE#regulation#SPACE#of#SPACE#translation	c$relE c$yafO c$accD c$rpsG c$rplY c$rsfS c$rplD c$mqsR c$higB c$hpf c$rplT c$rplM
+c$receptor-mediated#SPACE#bacteriophage#SPACE#irreversible#SPACE#attachment#SPACE#to#SPACE#host#SPACE#cell	c$tonB
+c$single-species#SPACE#biofilm#SPACE#formation	c$rcsC c$csgF c$csgG c$yoeB c$csgA c$yefM c$mqsR c$lsrK c$csgE c$tomB c$dinJ c$uspE c$csgB c$yqcC c$bdcA c$yagI c$ybcQ c$tabA c$bsmA c$hipA c$yafQ
+c$response#SPACE#to#SPACE#UV	c$dam c$ruvB c$guaB c$fadD c$recF c$dgkA c$yfaL c$recR c$radD c$yhbO c$gcvA c$rfbC c$efeO c$mnmG
+c$tRNA#SPACE#5'-leader#SPACE#removal	c$rnpA
+c$formation#SPACE#of#SPACE#translation#SPACE#preinitiation#SPACE#complex	c$yciH
+c$L-glutamate#SPACE#transmembrane#SPACE#transport	c$gltP c$gltS c$gltI
+c$cellular#SPACE#response#SPACE#to#SPACE#sulfur#SPACE#starvation	c$tauB c$dcyD c$rhsD c$tauC
+c$rRNA#SPACE#catabolic#SPACE#process	c$mazF c$rph
+c$dTMP#SPACE#biosynthetic#SPACE#process	c$thyA
+c$cellular#SPACE#response#SPACE#to#SPACE#magnesium#SPACE#starvation	c$phoQ c$iraM
+c$polyamine#SPACE#catabolic#SPACE#process	c$puuD c$speG c$puuA
+c$translation	c$ybcJ c$rplA c$rpsL c$rpmH c$rplJ c$rplQ c$rplI c$rpsE c$lysU c$rplO c$ykgO c$rpsK c$rplN c$rpsN c$frr c$rpsA c$rpsQ c$lysS c$rpsB c$pheS c$selB c$rpsP c$rplL c$rpmC c$rplX c$adk c$rplT c$rpmE c$rplC c$rpmA c$rpsR c$rpmJ c$ykgM c$rplP c$rplS c$rpsG c$ybeY c$rplY c$rpmB c$typA c$rplR c$rpsT c$rpmG c$rimP c$rplM
+c$base-excision#SPACE#repair#COMMA##SPACE#AP#SPACE#site#SPACE#formation#SPACE#via#SPACE#deaminated#SPACE#base#SPACE#removal	c$ung
+c$polysaccharide#SPACE#transport	c$lamB c$bglH
+c$response#SPACE#to#SPACE#X-ray	c$yagJ c$intF c$betB c$mrcB c$cmk c$yebG c$ybaK c$eutK c$cysE c$yadG c$ddlA c$apaH c$appY c$lon c$recJ c$cysB
+c$methylation	c$cmoM c$gcvT c$dam c$yafS
+c$response#SPACE#to#SPACE#amino#SPACE#acid	c$tsr c$ybaO c$lrp c$asnC
+c$positive#SPACE#regulation#SPACE#of#SPACE#oxidoreductase#SPACE#activity	c$nrdH c$mltD
+c$cellular#SPACE#water#SPACE#homeostasis	c$aqpZ c$mscS c$mscL c$mscK
+c$potassium#SPACE#ion#SPACE#transmembrane#SPACE#transport	c$trkG c$kdpC c$mdtM c$trkA c$kefC c$chaA c$mdfA c$trkH c$sapD c$kdpB c$yjcE c$kdpA c$kdpF
+c$carbohydrate#SPACE#phosphorylation	c$gntK c$dgoK c$nanK c$rbsK c$mak c$kdgK c$yihV c$phnN c$fruK c$alsK c$araB c$xylB c$yegV c$fucK c$nagK c$rfaE c$idnK c$pfkA c$ydjH c$rhaB c$galT c$pfkB c$lyxK
+c$Gram-negative-bacterium-type#SPACE#cell#SPACE#outer#SPACE#membrane#SPACE#assembly	c$lptE c$bamC c$hlpA c$lptD c$lpxT c$bamE c$bamB c$bamA c$surA c$bamD
+c$spermidine#SPACE#transmembrane#SPACE#transport	c$mdtJ c$mdtI c$potA c$potC c$potB
+c$valine#SPACE#biosynthetic#SPACE#process	c$ilvE c$avtA c$ilvB c$ilvI c$ilvC c$ivbL c$ilvH c$ilvN c$ilvL c$ilvD
+c$glucose#SPACE#import#SPACE#across#SPACE#plasma#SPACE#membrane	c$manX c$manY c$manZ c$ptsG
+c$fermentation	c$frdA c$hyaA c$frdB c$hyaB c$frdC c$hyaC c$frdD c$mdh
+c$tRNA#SPACE#wobble#SPACE#adenosine#SPACE#to#SPACE#inosine#SPACE#editing	c$tadA
+c$fatty#SPACE#acid#SPACE#beta-oxidation	c$paaJ c$fadI c$fadM c$fadA c$fadJ c$fadD c$paaG c$atoB c$fadB c$caiD c$yqeF c$paaF c$scpB
+c$cell#SPACE#adhesion	c$fimA c$sfmA c$uspF c$csgA c$yadV c$cpxR c$znuA c$fimH c$yehD c$sfmF c$sfmH c$yadC c$csgB c$cpxA c$yadM c$nlpE c$yfcP c$yadK c$yfcQ c$yraH c$yfcV c$yadN c$yfcR
+c$fructose#SPACE#1#COMMA#6-bisphosphate#SPACE#metabolic#SPACE#process	c$yggF c$glpX c$fbp
+c$aromatic#SPACE#amino#SPACE#acid#SPACE#family#SPACE#biosynthetic#SPACE#process	c$aroK c$trpB c$trpA c$aroH c$aroG c$aroA c$aroL c$aroC c$aroF c$aroB
+c$protein#SPACE#refolding	c$dnaJ c$hscC c$slyD c$hscA c$yajL c$hslO c$dnaK c$fkpA c$yegD
+c$D-serine#SPACE#metabolic#SPACE#process	c$dsdA
+c$transposition	c$insI3 c$insF-1 c$insI4 c$ydcM c$insI-1 c$insI-2
+c$pyruvate#SPACE#metabolic#SPACE#process	c$maeA c$lpd c$aceF c$poxB
+c$D-alanine#SPACE#catabolic#SPACE#process	c$dadA c$hinT
+c$organic#SPACE#phosphonate#SPACE#catabolic#SPACE#process	c$phnJ c$phnL c$phnK c$phnI c$phnP c$phnH c$phnM c$phnG
+c$sulfur#SPACE#compound#SPACE#metabolic#SPACE#process	c$dcyD c$sufS c$ssuC c$metC c$tauA c$sbp c$cysH c$cysD c$cysN c$ssuA c$cysP c$ssuB c$tauD
+c$carbohydrate#SPACE#derivative#SPACE#metabolic#SPACE#process	c$kdsD c$gutQ c$ybiA c$yebK c$lpcA c$rpiR c$yfhH c$frlB c$glmS c$agaS c$diaA c$murQ c$murR
+c$single-species#SPACE#biofilm#SPACE#formation#SPACE#on#SPACE#inanimate#SPACE#substrate	c$yodD c$ackA c$ychH c$ydeI c$yhcN c$yjaA c$ygiW c$rcsB
+c$tripeptide#SPACE#transmembrane#SPACE#transport	c$tppB c$dtpC c$dtpB
+c$phosphate#SPACE#ion#SPACE#transport	c$uhpT c$pstA c$pstB c$pstS
+c$deoxyribonucleotide#SPACE#biosynthetic#SPACE#process	c$nrdB c$nrdA c$nrdF c$nrdE
+c$phosphorylation	c$cheA c$ptsH c$nagE c$purT c$fruA c$sgcB c$mtlA c$ptsG c$waaY c$envZ c$pdxY c$ascF c$fruB c$murP c$rcsC c$cusS c$glvB c$treB c$thiD c$srkA c$yadI c$bglF c$cysC c$glpK c$ptsI
+c$galactose#SPACE#catabolic#SPACE#process#SPACE#via#SPACE#UDP-galactose	c$yphB c$galU c$yihR c$galK c$galT c$galE c$galM
+c$signal#SPACE#transduction	c$aer c$rcsC c$trg c$tsr c$suhB c$cheW c$bluF c$prc c$narX
+c$protein#SPACE#autophosphorylation	c$rstB c$cheA c$glnL c$zraS c$phoQ c$kdpD c$uspG c$glrK c$narX c$envZ c$baeS c$atoS c$rcsC c$dpiB c$uhpB c$barA c$glmM c$sucD c$phoR c$cpxA c$torS c$evgS c$arcB c$ppk c$era
+c$UDP-N-acetylglucosamine#SPACE#biosynthetic#SPACE#process	c$glmS c$glmU c$yieK c$agaI c$glmM c$nagB
+c$lipid#SPACE#metabolic#SPACE#process	c$ynbC c$yjjU c$fadD c$pldB c$rssA
+c$peptidyl-histidine#SPACE#phosphorylation	c$rstB c$creC c$cheA c$glnL c$zraS c$yehU c$rcsD c$kdpD c$glrK c$narX c$qseC c$envZ c$narQ c$baeS c$atoS c$rcsC c$dpiB c$uhpB c$barA c$cusS c$phoR c$hprS c$basS c$cpxA c$torS c$evgS c$ypdA c$arcB c$dcuS
+c$fatty#SPACE#acid#SPACE#biosynthetic#SPACE#process	c$acpH c$acpS c$fabB c$accC c$accA c$acpT c$fabG c$accD c$accB c$fabA c$fabZ c$acpP c$fabD
+c$'de#SPACE#novo'#SPACE#GDP-L-fucose#SPACE#biosynthetic#SPACE#process	c$gmd
+c$tryptophan#SPACE#transport	c$yddG c$aroP c$mtr
+c$DNA#SPACE#methylation#SPACE#on#SPACE#adenine	c$yhdJ c$dam c$hsdM
+c$6-sulfoquinovose(1-)#SPACE#catabolic#SPACE#process	c$yihT c$yihR c$yihU c$yihV c$yihS
+c$DNA#SPACE#import#SPACE#into#SPACE#cell#SPACE#involved#SPACE#in#SPACE#transformation	c$sxy c$ydcS
+c$chaperone#SPACE#cofactor-dependent#SPACE#protein#SPACE#refolding	c$groS c$hscC c$hscA c$dnaK c$yegD c$surA c$groL
+c$cellular#SPACE#amino#SPACE#acid#SPACE#catabolic#SPACE#process	c$asnB c$ygeX c$tdcG c$rhmD
+c$oxidative#SPACE#demethylation	c$alkB
+c$DNA#SPACE#replication	c$dnaJ c$dam c$ligB c$dnaC c$prlC c$ydaV c$ligA c$hda c$polA c$dnaX c$priA c$dnaB c$dnaA
+c$positive#SPACE#regulation#SPACE#of#SPACE#transport	c$proQ
+c$threonine#SPACE#biosynthetic#SPACE#process	c$thrC c$thrB
+c$allose#SPACE#transmembrane#SPACE#transport	c$alsB c$alsA c$alsC
+c$response#SPACE#to#SPACE#heat	c$groS c$slyD c$yjaZ c$marR c$pnp c$eutD c$rhlE c$mngR c$tig c$ldhA c$pykF c$rpoD c$hflK c$yajL c$yccX c$dnaK c$lon c$grpE c$pncB c$hslU c$pka c$hslJ c$nudF c$hflD c$yhbO c$rpoH c$clpB c$dsbB c$clpP c$typA c$htpG c$hflC c$hslR c$gloB c$ibpA c$hflX c$ssuD c$oppA c$yebS c$dnaJ c$hslO c$dtd c$yfcA c$groL c$lsrR c$moaA c$hslV c$ybeY c$sodA c$clpS c$ibpB c$ttdB c$pspA
+c$DNA#SPACE#recombination	c$xisE c$recC c$rarA c$intE c$pinQ c$recQ c$priA c$rpnA c$rmuC c$intZ c$recJ c$pinR c$recD c$pinE c$topB c$recB c$fimB c$rpnB c$fimE c$recA c$rpnD c$ydcM c$helD c$intQ c$rayT c$rpnC c$yjiQ
+c$chromosome#SPACE#segregation	c$ftsK c$setB c$minD c$crfC c$obgE c$matP c$parC c$maoP c$mukB
+c$regulation#SPACE#of#SPACE#phosphatase#SPACE#activity	c$pstC c$pstA c$pstB c$pstS
+c$cation#SPACE#transmembrane#SPACE#transport	c$kgtP c$leuE c$nhaB c$gntU c$cvrA c$trkA c$nhaA c$kefC c$yihO c$chaA c$melB c$yidE c$brnQ c$livF c$livK c$zitB c$fieF c$ybjL c$tehA c$ybaL c$yfbS
+c$negative#SPACE#regulation#SPACE#of#SPACE#FtsZ-dependent#SPACE#cytokinesis	c$sulA
+c$tRNA#SPACE#methylation	c$cmoM c$yfiC c$rlmN c$trmO c$mnmE c$trmI c$mnmC c$trmA c$miaB c$trmH c$trmD c$mnmG
+c$glycerol-3-phosphate#SPACE#catabolic#SPACE#process	c$glpB c$glpC c$glpD c$glpA
+c$postreplication#SPACE#repair	c$yoaA
+c$nucleobase#SPACE#transport	c$ybbW
+c$protein#SPACE#maturation#SPACE#by#SPACE#protein#SPACE#folding	c$hlpA c$slyD
+c$SRP-dependent#SPACE#cotranslational#SPACE#protein#SPACE#targeting#SPACE#to#SPACE#membrane#COMMA##SPACE#translocation	c$secY c$secG c$secE
+c$cellular#SPACE#copper#SPACE#ion#SPACE#homeostasis	c$cusA c$cusF c$cutC c$cusC c$cusB
+c$SOS#SPACE#response	c$recN c$umuD c$ruvB c$polB c$dinB c$yebG c$ruvA c$umuC c$recX c$rimK c$ssb c$dinG c$tisB c$sulA c$recA c$dinD c$uvrD c$cho c$dinI c$symE c$ydjM c$lexA
+c$cell#SPACE#redox#SPACE#homeostasis	c$dsbA c$ccmG c$nrdH c$dsbC c$dipZ c$ahpC c$rclA c$gor c$bcp c$ybbN c$cydD c$tpx c$trxA c$sthA
+c$lipid#SPACE#A#SPACE#biosynthetic#SPACE#process	c$pagP c$lpxL c$lpxC c$lpxH c$acpP c$lpxD c$lpxB c$lpxK c$eptB c$waaA
+c$glycolytic#SPACE#process	c$gapA c$cra c$hexR c$rpiR c$pgk c$glk c$yfhH c$pykF c$eno c$gpmA c$pfkA c$fbaA c$tpiA c$pykA c$pgi c$pfkB c$mdh c$murR
+c$response#SPACE#to#SPACE#organic#SPACE#substance	c$lptD
+c$sucrose#SPACE#biosynthetic#SPACE#process	c$fbp
+c$IMP#SPACE#metabolic#SPACE#process	c$purA
+c$ubiquinone#SPACE#biosynthetic#SPACE#process	c$ubiD c$ubiF c$ubiE c$ubiG c$ubiX c$ubiA c$ubiC c$ispF c$ispB c$dxs c$ubiB c$ubiH c$ubiI
+c$lactose#SPACE#transport	c$setB c$lacY c$setA c$setC
+c$regulation#SPACE#of#SPACE#protein#SPACE#targeting#SPACE#to#SPACE#membrane	c$yhjG c$asmA
+c$sorbitol#SPACE#catabolic#SPACE#process	c$srlD
+c$N-terminal#SPACE#protein#SPACE#amino#SPACE#acid#SPACE#acetylation	c$rimJ c$rimI c$rimL
+c$mRNA#SPACE#catabolic#SPACE#process	c$relE c$rraB c$yoeB c$mazF c$rppH c$rnr c$symE c$rne c$hicA c$yafQ c$rnlA
+c$sodium#SPACE#ion#SPACE#import#SPACE#across#SPACE#plasma#SPACE#membrane	c$yjcE
+c$L-amino#SPACE#acid#SPACE#transport	c$livK c$livF c$alaE c$frlA c$brnQ c$gadC
+c$sulfathiazole#SPACE#transmembrane#SPACE#transport	c$mdtP c$mdtO c$mdtN
+c$ribosomal#SPACE#large#SPACE#subunit#SPACE#assembly	c$yhbY c$rplK c$der c$rplW c$rplE c$deaD c$rplF c$dbpA c$srmB c$rluD c$typA c$rlmE c$rplT
+c$chemotaxis	c$tar c$tap c$cheA c$cobB c$tsr c$dppA c$cheW c$cheB c$cheY c$mglB c$aer c$trg c$rbsB
+c$glutamate#SPACE#catabolic#SPACE#process	c$gadA c$gadB
+c$proton#SPACE#transmembrane#SPACE#transport	c$cvrA c$kefB c$cysZ c$kefC c$clcA c$dctA c$tppB c$dtpC c$dtpB c$mntH c$yjcE c$sthA c$ybaL
+c$leucyl-tRNA#SPACE#aminoacylation	c$leuS
+c$propionate#SPACE#catabolic#SPACE#process#COMMA##SPACE#2-methylcitrate#SPACE#cycle	c$acnB c$prpB
+c$pentose-phosphate#SPACE#shunt#COMMA##SPACE#non-oxidative#SPACE#branch	c$tktA c$rpiA c$talB c$tktB c$rpe c$sgcE c$alsE
+c$O#SPACE#antigen#SPACE#biosynthetic#SPACE#process	c$rffH
+c$polyamine#SPACE#transmembrane#SPACE#transport	c$potG c$potA c$potB c$potC c$potD
+c$glutamine#SPACE#transport	c$glnH c$glnP c$glnQ
+c$dephosphorylation	c$phoA c$yggF c$yigB c$pgpC c$yqaB c$yedP c$sixA c$gph c$yihX c$yieH c$umpG c$ybjI c$otsA c$umpH c$ais c$yidA c$appA c$yciV c$fbp c$bacA c$yjjG c$ybhA c$cof c$yigL c$ybiV c$cobC c$agp c$yfdR c$cysQ c$aceK c$cpdB c$pgpB c$yrfG c$yfbR c$serB c$hisB c$glpX c$aphA c$hxpA c$otsB c$gmhB c$hxpB c$ushA c$kdsC
+c$peptide#SPACE#transport	c$bcr c$sapA c$yeeO c$dppA c$mppA c$sgrR c$sbmA c$yejA c$ygiS c$mdtK c$nikA c$ddpA c$gsiB c$ydeE c$oppA c$yojI c$ybaE
+c$intracellular#SPACE#sequestering#SPACE#of#SPACE#iron#SPACE#ion	c$bfr c$ftnA c$ftnB
+c$positive#SPACE#regulation#SPACE#of#SPACE#DNA-templated#SPACE#transcription#COMMA##SPACE#initiation	c$slyA c$csgD c$baeR c$norR c$sdiA c$yhaJ c$decR c$mntR c$fhlA c$nhaR c$cecR
+c$negative#SPACE#regulation#SPACE#of#SPACE#DNA#SPACE#topoisomerase#SPACE#(ATP-hydrolyzing)#SPACE#activity	c$sbmC c$yacG
+c$enzyme-directed#SPACE#rRNA#SPACE#pseudouridine#SPACE#synthesis	c$rluB c$rluA c$rluD c$rsuA c$rluE c$rluC c$rluF
+c$purine#SPACE#ribonucleotide#SPACE#interconversion	c$guaC c$adk
+c$L-methionine#SPACE#salvage#SPACE#from#SPACE#S-adenosylmethionine	c$mtn c$mtnN c$luxS
+c$dTTP#SPACE#biosynthetic#SPACE#process	c$tmk
+c$transcription#SPACE#antitermination	c$nusG c$rpsD c$cspC c$cspE c$cspA c$nusA c$rpsJ c$rfaH c$pepA c$ybeY c$ybcQ c$yqgF c$rof
+c$transcriptional#SPACE#attenuation	c$pyrL c$rhoL c$ilvL c$thrL
+c$DNA#SPACE#unwinding#SPACE#involved#SPACE#in#SPACE#DNA#SPACE#replication	c$priA c$rep c$dnaB
+c$maturation#SPACE#of#SPACE#SSU-rRNA	c$ybeY c$rimM c$rbfA
+c$response#SPACE#to#SPACE#cadmium#SPACE#ion	c$zntA c$zinT
+c$electron#SPACE#transport#SPACE#coupled#SPACE#proton#SPACE#transport	c$nuoN c$cyoB c$cyoA c$nuoM c$cyoC c$nuoL c$nuoB c$cyoD
+c$sulfur#SPACE#utilization	c$dcyD c$tcyJ c$tcyL c$tcyP
+c$gluconeogenesis	c$yggF c$pck c$ppsA c$maeA c$gpmA c$glpX c$fbaA c$tpiA c$fbp
+c$nucleobase-containing#SPACE#small#SPACE#molecule#SPACE#interconversion	c$nrdB c$dgt c$cdd c$cmk c$dcd c$pyrF c$relA c$nrdE c$nrdD c$deoC c$spoT c$xapA c$apaH c$purA c$nrdG c$tmk c$nrdA c$pphB c$gpp
+c$plasma#SPACE#membrane#SPACE#acetate#SPACE#transport	c$actP
+c$nitrite#SPACE#transport	c$focA c$narU c$nirC c$yfdC c$focB c$narK
+c$signal#SPACE#transduction#SPACE#by#SPACE#protein#SPACE#phosphorylation	c$rstB c$creC c$cheA c$glnL c$zraS c$yehU c$phoQ c$kdpD c$glrK c$dosP c$narX c$narQ c$envZ c$qseC c$baeS c$argK c$rcsC c$atoS c$dpiB c$barA c$uhpB c$cusS c$phoR c$dgcE c$dgcM c$hprS c$cpxA c$basS c$torS c$ypdA c$evgS c$arcB c$dcuS
+c$negative#SPACE#regulation#SPACE#of#SPACE#translational#SPACE#elongation	c$raiA c$ettA c$hpf
+c$C4-dicarboxylate#SPACE#transport	c$dcuA c$dcuD c$dcuB c$dcuC
+c$phosphate#SPACE#ion#SPACE#transmembrane#SPACE#transport	c$yjbB c$pitB c$pstC c$uhpT c$pstA c$glpT c$pstB c$pitA c$pstS
+c$rhamnose#SPACE#catabolic#SPACE#process	c$rhaA c$fucK c$rhaM c$aldA c$rhaB c$rhaD c$fucO
+c$menaquinone#SPACE#biosynthetic#SPACE#process	c$menH c$menE c$menD c$menC c$cbrA c$menI c$ubiE c$menF c$menA c$menB
+c$dGTP#SPACE#catabolic#SPACE#process	c$dgt c$mazG
+c$proteasomal#SPACE#protein#SPACE#catabolic#SPACE#process	c$clpP
+c$mRNA#SPACE#processing	c$pcnB c$hrpA
+c$protein#SPACE#dephosphorylation	c$uhpB c$glnL c$cheZ c$torS c$narX c$sixA c$pphA c$aceK c$phoR c$envZ c$phoQ c$pphB
+c$fructose#SPACE#import	c$manX c$fruB c$manY c$manZ c$fruA
+c$dUMP#SPACE#biosynthetic#SPACE#process	c$dut c$yfbR
+c$choline#SPACE#transport	c$mdtJ c$mdtI c$emrE c$proW c$betT
+c$lysyl-tRNA#SPACE#aminoacylation	c$lysS c$lysU
+c$protein#SPACE#repair	c$eutA c$msrA c$hchA c$fre c$yhbO c$yajL c$ytfE c$msrB c$msrQ c$msrP
+c$D-arabinose#SPACE#catabolic#SPACE#process	c$fucK c$fucI c$fucA
+c$tRNA#SPACE#3'-trailer#SPACE#cleavage#COMMA##SPACE#endonucleolytic	c$rbn
+c$glycine#SPACE#decarboxylation#SPACE#via#SPACE#glycine#SPACE#cleavage#SPACE#system	c$gcvT c$lpd c$gcvP c$gcvH
+c$ribosomal#SPACE#small#SPACE#subunit#SPACE#assembly	c$yhbY c$rpsS c$rpsP c$rpsG c$rsmA c$rimM c$era c$rpsK c$rimP
+c$aspartate#SPACE#metabolic#SPACE#process	c$aspA
+c$lipoprotein#SPACE#metabolic#SPACE#process	c$lolB
+c$response#SPACE#to#SPACE#acidic#SPACE#pH	c$yceO c$hdeB c$ygiN c$hchA c$sodA c$yqgB c$ydeP c$yagU c$evgS c$mgrB c$glsA
+c$dUDP#SPACE#biosynthetic#SPACE#process	c$tmk
+c$thiamine#SPACE#metabolic#SPACE#process	c$yajO c$yjjX
+c$phenylacetate#SPACE#catabolic#SPACE#process	c$paaJ c$paaE c$paaZ c$fadA c$paaG c$paaK c$paaC c$paaA c$paaB c$paaX c$paaH c$paaD c$paaF
+c$protein#SPACE#maturation	c$hypA c$aslB c$slyD c$hypB c$fdhE c$erpA c$hybF c$hypD c$hybE c$torD c$hypE c$hycH c$hypF c$hypC c$hybG c$ydeM
+c$response#SPACE#to#SPACE#pH	c$yhbO c$hdeD c$mnmE c$ybaT c$lepA
+c$protein#SPACE#peptidyl-prolyl#SPACE#isomerization	c$slyD c$ppiD c$fkpA c$fklB c$ppiC c$surA c$fkpB c$tig
+c$sulfate#SPACE#transmembrane#SPACE#transport	c$cysU c$cysW c$cysP c$cysA c$sbp c$cysZ c$dauA
+c$RNA#SPACE#phosphodiester#SPACE#bond#SPACE#hydrolysis	c$orn c$rnb c$rng c$rnt c$rnd c$yhaV c$tatD c$rnr c$rnpA c$rne c$rnc
+c$bile#SPACE#acid#SPACE#and#SPACE#bile#SPACE#salt#SPACE#transport	c$acrA c$mdtE
+c$ATP#SPACE#hydrolysis#SPACE#coupled#SPACE#anion#SPACE#transmembrane#SPACE#transport	c$tauB c$gltL c$pstC c$pstA c$hisP c$sbp c$tcyN c$cysU c$artP c$cysW c$cysP c$cysA c$pstB c$yhdZ c$modC c$glnQ c$ugpC c$modA c$phnC c$pstS
+c$heme#SPACE#transport	c$dppC c$dppA c$dppF c$dppD c$ccmE c$ccmD c$ccmA c$ccmC c$dppB
+c$L-lysine#SPACE#transport	c$argT c$lysP
+c$leucine#SPACE#transport	c$livK c$leuE c$livJ c$yjeH c$brnQ
+c$RNA#SPACE#phosphodiester#SPACE#bond#SPACE#hydrolysis#COMMA##SPACE#endonucleolytic	c$yafO c$yoeB c$rbn c$mqsR c$higB c$casE c$chpB c$rnpA c$rnc c$relE c$rnhA c$ydiZ c$mazF c$yjdK c$rna c$symE c$hicA c$rnhB c$rnlA c$yafQ
+c$sulfate#SPACE#transport	c$cysU c$cysP c$cysA c$sbp
+c$fatty#SPACE#acid#SPACE#metabolic#SPACE#process	c$fabH c$fadD c$yciA c$plsB c$aas
+c$thiamine#SPACE#transport	c$tbpA
+c$tRNA#SPACE#wobble#SPACE#position#SPACE#uridine#SPACE#thiolation	c$tusB c$tusC c$tusE c$tusA c$mnmA c$tusD
+c$polysaccharide#SPACE#biosynthetic#SPACE#process	c$rffA c$fepE c$wzzE c$wzzB c$arnB
+c$putrescine#SPACE#transport	c$potI c$potF c$plaP c$potH c$puuP c$potA c$potC c$sapB c$sapD c$potE c$sapF c$potG c$sapC c$potB c$potD
+c$response#SPACE#to#SPACE#carbon#SPACE#starvation	c$csiD c$sanA
+c$cellular#SPACE#response#SPACE#to#SPACE#osmotic#SPACE#stress	c$rcsC c$ybdG c$mscM c$ynaI c$ybiO
+c$acetate#SPACE#catabolic#SPACE#process	c$acs c$pta
+c$organic#SPACE#phosphonate#SPACE#metabolic#SPACE#process	c$phnN
+c$colanic#SPACE#acid#SPACE#biosynthetic#SPACE#process	c$wzc c$manA c$galU c$mcbA c$rcsF c$ypdI c$wzb c$wcaJ c$ugd c$galE c$cpsB
+c$L-serine#SPACE#catabolic#SPACE#process	c$dsdA c$sdaA c$sdaB c$tdcB c$glyA
+c$potassium#SPACE#ion#SPACE#transport	c$trkG c$kdpC c$cvrA c$trkA c$kefB c$kefC c$chaA c$trkH c$sapD c$kdpB c$kch c$kup c$kdpA
+c$fructose#SPACE#transmembrane#SPACE#transport	c$mngA c$fryB c$frwB c$fucP c$fruA c$frwD c$frvB
+c$RNA#SPACE#processing	c$rapZ c$rnpA c$casE c$rnc c$rtcB
+c$glycopeptide#SPACE#catabolic#SPACE#process	c$ldcA c$mpaA
+c$silver#SPACE#ion#SPACE#transmembrane#SPACE#transport	c$cusA c$copA
+c$tetrahydrobiopterin#SPACE#biosynthetic#SPACE#process	c$folE c$queD
+c$response#SPACE#to#SPACE#nitric#SPACE#oxide	c$norV c$fnr
+c$negative#SPACE#regulation#SPACE#of#SPACE#catalytic#SPACE#activity	c$ybcL c$rraB c$recX c$mliC c$hflK c$pliG c$atoC c$ptsN c$ychF c$sgrT c$hflC c$iscX c$rpsT c$cbpM c$hipA
+c$ion#SPACE#transmembrane#SPACE#transport	c$fetB c$ybdG c$ompA c$nhaB c$yfeO c$mscS c$nhaA c$mscL c$ompF c$clcA
+c$protoporphyrinogen#SPACE#IX#SPACE#biosynthetic#SPACE#process#SPACE#from#SPACE#glutamate	c$hemA c$hemN c$hemE c$hemF
+c$tRNA#SPACE#threonylcarbamoyladenosine#SPACE#modification	c$tsaC c$tsaB c$tsaE c$tsaD
+c$microcin#SPACE#transport	c$yejB c$yejE c$sbmA c$yejA c$yojI c$yejF c$fiu
+c$methylglyoxal#SPACE#catabolic#SPACE#process#SPACE#to#SPACE#D-lactate#SPACE#via#SPACE#S-lactoyl-glutathione	c$rclR c$gadW c$feaR c$eutR c$ydeO c$gloA c$gloB c$rhaR c$rhaS c$ydiP c$envY c$ybcM c$hchA c$adiY c$appY c$chbR c$gadX c$gloC c$yneL c$nimR c$araC c$melR c$ypdC c$yijO
+c$xanthosine#SPACE#catabolic#SPACE#process	c$xapA
+c$cellular#SPACE#response#SPACE#to#SPACE#heat	c$phoU c$hscC c$hslR c$hscA c$yggE c$dnaK c$yegD c$miaA c$yobF
+c$L-alpha-amino#SPACE#acid#SPACE#transmembrane#SPACE#transport	c$livK c$leuE c$livF c$alaE c$frlA c$brnQ c$gadC
+c$bacteriocin#SPACE#transport	c$tolR c$cirA c$tolA c$ompF c$tolB c$tolQ
+c$positive#SPACE#regulation#SPACE#of#SPACE#catalytic#SPACE#activity	c$hybD c$lpoB c$ftsK c$hyaD c$ptsH c$fre c$hycI c$yjcO c$sufE c$fdhD c$ssb
+c$dipeptide#SPACE#transport	c$dtpD c$dppA c$gsiB
+c$biotin#SPACE#biosynthetic#SPACE#process	c$birA c$bioC c$bioA c$bioH c$bioD1 c$bioD2 c$mioC c$bioF c$bioB c$fabI c$bioD c$fabG
+c$cell#SPACE#wall#SPACE#organization	c$mrdA c$pbpG c$rfe c$murJ c$mraY c$ftsI c$murB c$mrdB c$rlpA c$mltG c$dacB
+c$cell-cell#SPACE#signaling#SPACE#involved#SPACE#in#SPACE#quorum#SPACE#sensing	c$luxS c$zwf
+c$dATP#SPACE#catabolic#SPACE#process	c$mazG
+c$NADPH#SPACE#regeneration	c$pntB c$pntA
+c$drug#SPACE#export	c$macA c$sugE c$mdtC c$acrB c$emrE c$mdtM c$acrD
+c$detoxification#SPACE#of#SPACE#copper#SPACE#ion	c$cusA c$copA c$cusF c$cusC c$cusB c$cueO
+c$copper#SPACE#ion#SPACE#export	c$cusA c$copA c$cusC c$cusB
+c$carnitine#SPACE#catabolic#SPACE#process	c$fixB c$fixA c$caiB c$caiD
+c$purine#SPACE#nucleotide#SPACE#biosynthetic#SPACE#process	c$purU c$purA c$purF c$purD
+c$positive#SPACE#regulation#SPACE#of#SPACE#cell#SPACE#projection#SPACE#organization	c$rcsB
+c$response#SPACE#to#SPACE#peptide	c$yaiW c$yjjB c$rcnB
+c$ADP#SPACE#biosynthetic#SPACE#process	c$adk
+c$4-nitrophenol#SPACE#catabolic#SPACE#process	c$feaB
+c$protein#SPACE#processing	c$hybD c$panZ c$hyaD c$hycI c$lepB
+c$pyrimidine#SPACE#nucleotide#SPACE#metabolic#SPACE#process	c$ndk
+c$rRNA#SPACE#methylation	c$rlmI c$rsmA c$rsmJ c$rlmH c$rsmC c$rlmL
+c$phospholipid#SPACE#transport	c$mlaD c$ompC c$mlaE c$mlaC c$mlaF c$mlaB
+c$plasmid#SPACE#maintenance	c$priA c$pcnB c$xerD c$pepA c$priB c$xerC
+c$negative#SPACE#regulation#SPACE#of#SPACE#cytoplasmic#SPACE#translation	c$rpsA
+c$transposition#COMMA##SPACE#DNA-mediated	c$insH-6 c$insB-2 c$insI-1 c$insE-1 c$insA-2 c$insA-1 c$insB-4
+c$hypoxanthine#SPACE#transport	c$ghxQ c$ghxP
+c$DNA#SPACE#catabolic#SPACE#process	c$hofP c$mcrB c$hofN c$hofM c$hofO c$gntX c$ycfH c$tatD c$sbcB c$endA c$hofQ
+c$'de#SPACE#novo'#SPACE#L-methionine#SPACE#biosynthetic#SPACE#process	c$metB
+c$cellular#SPACE#response#SPACE#to#SPACE#anoxia	c$pdeF c$appA
+c$response#SPACE#to#SPACE#ionizing#SPACE#radiation	c$ftsP c$ybgI c$yebC c$yhgF c$recA c$radD c$dnaB c$ybjN c$yabI c$abpB c$yafC
+c$L-ascorbic#SPACE#acid#SPACE#transmembrane#SPACE#transport	c$ulaC c$ulaB c$ulaA
+c$cellular#SPACE#oxidant#SPACE#detoxification	c$sodC c$katE c$ahpC c$ynjA c$yfcF c$yfeX c$btuE c$yghU c$trxC c$gor c$bcp c$yfcG c$tpx c$trxA c$osmC c$adeD c$hcp c$yhjA c$katG
+c$pyrimidine#SPACE#nucleobase#SPACE#catabolic#SPACE#process	c$rutD c$preT c$rutB c$rutF c$rutE c$rutC c$rutA c$preA
+c$cytochrome#SPACE#c-heme#SPACE#linkage	c$ccmE c$ccmF
+c$post-translational#SPACE#protein#SPACE#modification	c$roxA c$epmA c$epmB c$epmC c$iap
+c$hyperosmotic#SPACE#response	c$katE c$osmY c$gshA c$osmC c$proW c$proV c$proX c$cpsB
+c$branched-chain#SPACE#amino#SPACE#acid#SPACE#transport	c$livH c$livF c$livM c$livJ c$brnQ c$livG
+c$ion#SPACE#transport	c$actP c$afuC c$mntP c$mscS c$nhaA c$znuA c$kefB c$clcA c$ynaI c$ybiO c$sapD c$ompA c$kdpB c$yfeO c$mscL c$kch c$znuB c$fepB
+c$pyrimidine#SPACE#ribonucleotide#SPACE#biosynthetic#SPACE#process	c$pyrD c$pyrB
+c$double-strand#SPACE#break#SPACE#repair	c$recN c$priA c$recC c$ybhP c$radD c$recF c$recB c$ybjD c$recD
+c$UDP-D-xylose#SPACE#biosynthetic#SPACE#process	c$arnA
+c$non-phosphorylated#SPACE#glucose#SPACE#catabolic#SPACE#process	c$gcd
+c$cellular#SPACE#response#SPACE#to#SPACE#cell#SPACE#envelope#SPACE#stress	c$yqcG c$acrZ c$ybaM c$dgcN c$blr c$yobF
+c$response#SPACE#to#SPACE#drug	c$acrR c$folP c$nlpD c$envC c$acrB c$radD c$acpP c$emrE c$folA c$yqjA c$acrD c$yghB c$mrdA c$dipZ c$mepA c$sanA c$dacC c$ftsI c$gyrA c$acrE c$envR c$gyrB c$fimZ c$pbpG c$fpr
+c$branched-chain#SPACE#amino#SPACE#acid#SPACE#biosynthetic#SPACE#process	c$ilvE c$pabC c$ilvC c$ilvN c$ilvA
+c$cellular#SPACE#sodium#SPACE#ion#SPACE#homeostasis	c$nhaB c$nhaA c$chaA
+c$DNA#SPACE#mediated#SPACE#transformation	c$ygcO c$ycjU
+c$peptidoglycan#SPACE#metabolic#SPACE#process	c$mltA c$mepA c$mepS c$dacA c$pbpG c$ampG c$elyC c$mepM c$mltG c$dacB c$mepH c$bacA
+c$RNA#SPACE#methylation	c$yjtD c$rlmB c$yfiF c$rsmF
+c$cellular#SPACE#stress#SPACE#response#SPACE#to#SPACE#acid#SPACE#chemical	c$yobF
+c$biosynthetic#SPACE#process	c$trpE c$pabB c$entF
+c$RNA#SPACE#repair	c$alkB c$cca c$rtcB
+c$farnesyl#SPACE#diphosphate#SPACE#biosynthetic#SPACE#process	c$ispA
+c$xanthine#SPACE#transport	c$xanP c$xanQ c$uacT c$ybbY
+c$bacteriocin#SPACE#immunity	c$cbrA c$cbrC
+c$enterobactin#SPACE#biosynthetic#SPACE#process	c$entE c$entH c$ybdZ c$entC c$entB c$entF c$entD c$entA
+c$vitamin#SPACE#transmembrane#SPACE#transport	c$btuD c$btuC
+c$magnesium#SPACE#ion#SPACE#transmembrane#SPACE#transport	c$corA c$mgtA
+c$intracellular#SPACE#pH#SPACE#elevation	c$adiA c$gadA c$gadB c$adiC c$gadC
+c$deoxyribonucleotide#SPACE#catabolic#SPACE#process	c$deoC c$deoB
+c$lipid#SPACE#modification	c$lpp c$cfa
+c$lipopolysaccharide#SPACE#metabolic#SPACE#process	c$lapA c$lapB
+c$lipopolysaccharide#SPACE#biosynthetic#SPACE#process	c$rffG c$eptA c$arnT c$rfbB c$rfe c$waaB c$rfbC c$rfbD c$kdsC
+c$N#COMMA#N'-diacetylchitobiose#SPACE#import	c$chbB c$chbC c$chbA
+c$cellular#SPACE#response#SPACE#to#SPACE#cold	c$deaD c$hscA
+c$pantothenate#SPACE#biosynthetic#SPACE#process#SPACE#from#SPACE#valine	c$panB c$panC c$cmk c$panE
+c$cellular#SPACE#response#SPACE#to#SPACE#lead#SPACE#ion	c$zraS
+c$response#SPACE#to#SPACE#copper#SPACE#ion	c$cusR c$cusA c$cusF c$cusS c$comR c$cutC c$cusC c$cutA c$cusB c$cueO c$bhsA
+c$ncRNA#SPACE#catabolic#SPACE#process	c$csrD
+c$ionotropic#SPACE#glutamate#SPACE#receptor#SPACE#signaling#SPACE#pathway	c$tcyJ c$artJ c$glnH c$artI
+c$regulation#SPACE#of#SPACE#cellular#SPACE#organohalogen#SPACE#metabolic#SPACE#process	c$rclR
+c$cellular#SPACE#response#SPACE#to#SPACE#oxidative#SPACE#stress	c$gor c$yajL c$qorA c$tpx c$yggX c$mntH c$trxA c$pgi c$mltC
+c$obsolete#SPACE#intermembrane#SPACE#transport	c$pqiB c$pqiC c$ompC c$pqiA c$yebS c$yebT
+c$RNA#SPACE#catabolic#SPACE#process	c$orn c$deaD c$yoeB c$rraA c$pnp c$rna c$rhlB c$rne
+c$peptidyl-serine#SPACE#autophosphorylation	c$hflX c$hipA
+c$negative#SPACE#regulation#SPACE#of#SPACE#nucleic#SPACE#acid-templated#SPACE#transcription	c$yoeB
+c$thiamine#SPACE#salvage	c$thiM
+c$intracellular#SPACE#protein#SPACE#transmembrane#SPACE#transport	c$secA c$secY c$tatB c$secE c$secG c$tatC c$tatA c$tatE
+c$nitrate#SPACE#metabolic#SPACE#process	c$narG c$narH
+c$gamma-aminobutyric#SPACE#acid#SPACE#catabolic#SPACE#process	c$gabD c$gabT c$puuE c$sad
+c$toxin#SPACE#transport	c$gltK c$sbmA
+c$protein#SPACE#hexamerization	c$udp c$xapA c$arnA c$moaC
+c$phosphatidylcholine#SPACE#metabolic#SPACE#process	c$rssA
+c$glutamine#SPACE#metabolic#SPACE#process	c$asnB c$purL c$carA c$pabA c$purF
+c$negative#SPACE#regulation#SPACE#of#SPACE#endoribonuclease#SPACE#activity	c$rraB c$rraA c$rplD c$rnlB c$ymdB
+c$arginine#SPACE#biosynthetic#SPACE#process	c$argA c$carA c$argG c$argB c$argC c$argE c$carB
+c$histidine#SPACE#biosynthetic#SPACE#process	c$hisI c$hisF c$hisB c$hisD c$hisC c$hisH c$hisA c$hisG
+c$L-alanine#SPACE#transport	c$cycA c$alaE
+c$deoxycytidine#SPACE#catabolic#SPACE#process	c$cdd
+c$L-valine#SPACE#transmembrane#SPACE#transport	c$livH c$ygaZ c$livF c$livM c$ygaH c$yjeH c$brnQ c$livG
+c$glyoxylate#SPACE#metabolic#SPACE#process	c$ygbM c$hyi
+c$quorum#SPACE#sensing	c$lsrK c$tqsA c$zwf
+c$metal#SPACE#ion#SPACE#transport	c$mntH c$znuA c$cusB
+c$RNA#SPACE#destabilization	c$rppH
+c$isoleucine#SPACE#transmembrane#SPACE#transport	c$livH c$livF c$livM c$yjeH c$livG
+c$response#SPACE#to#SPACE#superoxide	c$sodB c$fpr
+c$ribosome#SPACE#biogenesis	c$yajL c$rsgA c$ybeY c$yceD c$yqgF c$ykgO
+c$positive#SPACE#regulation#SPACE#of#SPACE#translational#SPACE#fidelity	c$rpsD c$yeaK c$valS
+c$cytosine#SPACE#metabolic#SPACE#process	c$codB
+c$tRNA#SPACE#wobble#SPACE#uridine#SPACE#modification	c$cmoM c$cmoB c$selU c$mnmE c$mnmC c$cmoA c$mnmG
+c$ferrous#SPACE#iron#SPACE#transport	c$fieF c$mntH c$feoB c$zupT
+c$division#SPACE#septum#SPACE#site#SPACE#selection	c$minD c$bcsQ c$minE c$slmA
+c$transcription#SPACE#elongation#SPACE#from#SPACE#bacterial-type#SPACE#RNA#SPACE#polymerase#SPACE#promoter	c$rfaH
+c$antibiotic#SPACE#transport	c$cycA c$tppB c$nagE c$dtpB c$macB c$mdtK
+c$response#SPACE#to#SPACE#paraquat	c$ybjC
+c$positive#SPACE#regulation#SPACE#of#SPACE#DNA-templated#SPACE#transcription#COMMA##SPACE#termination	c$cnu
+c$negative#SPACE#regulation#SPACE#of#SPACE#DNA-dependent#SPACE#DNA#SPACE#replication#SPACE#initiation	c$seqA c$argP c$hda
+c$formaldehyde#SPACE#catabolic#SPACE#process	c$frmA c$yeiG
+c$tRNA#SPACE#thio-modification	c$ttcA
+c$response#SPACE#to#SPACE#cobalt#SPACE#ion	c$rcnA c$rcnB
+c$enterobactin#SPACE#transport	c$entS c$tolC
+c$tRNA-guanine#SPACE#transglycosylation	c$tgt
+c$malate#SPACE#metabolic#SPACE#process	c$maeA c$fumC c$dmlR c$dmlA c$mdh
+c$translation#SPACE#reinitiation	c$yciH
+c$folic#SPACE#acid#SPACE#catabolic#SPACE#process	c$abgA c$abgB
+c$response#SPACE#to#SPACE#cation#SPACE#stress	c$nhaA
+c$galactose#SPACE#catabolic#SPACE#process	c$pgm
+c$toxin#SPACE#catabolic#SPACE#process	c$yihU c$yiiM c$ycbX
+c$purine#SPACE#nucleoside#SPACE#catabolic#SPACE#process	c$xapA c$rihB c$deoD c$rihC c$rihA
+c$cadmium#SPACE#ion#SPACE#transmembrane#SPACE#transport	c$fieF c$mntH c$zntA c$zupT
+c$cytolysis#SPACE#by#SPACE#virus#SPACE#of#SPACE#host#SPACE#cell	c$rrrD c$ydfD c$essD c$rrrQ
+c$regulation#SPACE#of#SPACE#cell#SPACE#division	c$dicB c$zapC c$minE c$fic c$minC c$cedA
+c$iron#SPACE#assimilation#SPACE#by#SPACE#chelation#SPACE#and#SPACE#transport	c$fepA c$ahpC
+c$glycolipid#SPACE#transport	c$lptC c$lptA
+c$3-phenylpropionate#SPACE#catabolic#SPACE#process	c$hcaC c$hcaE c$hcaD c$hcaF c$hcaB
+c$detection#SPACE#of#SPACE#chemical#SPACE#stimulus	c$kdpD
+c$endonucleolytic#SPACE#cleavage#SPACE#involved#SPACE#in#SPACE#rRNA#SPACE#processing	c$ybeY
+c$D-xylose#SPACE#catabolic#SPACE#process	c$xylA c$xylB
+c$L-idonate#SPACE#catabolic#SPACE#process	c$idnD c$idnK c$idnO
+c$diacetylchitobiose#SPACE#catabolic#SPACE#process	c$chbF c$chbG
+c$dicarboxylic#SPACE#acid#SPACE#transport	c$dctA c$gltP
+c$negative#SPACE#regulation#SPACE#of#SPACE#cell#SPACE#division	c$sulA c$dicB c$bcsQ c$kilR c$minD c$mreB
+c$iron#SPACE#ion#SPACE#transport	c$mntH
+c$DNA#SPACE#integration	c$fimE c$xerD c$intS c$intZ c$fimB c$intE c$intQ
+c$NAD#SPACE#catabolic#SPACE#process	c$nudC
+c$sulfathiazole#SPACE#transport	c$mdtP c$mdtO c$mdtN
+c$division#SPACE#septum#SPACE#assembly	c$ftsQ c$zipA c$ftsN c$zapA c$nlpD
+c$glutathione#SPACE#catabolic#SPACE#process	c$chaC c$ggt
+c$L-histidine#SPACE#import#SPACE#across#SPACE#plasma#SPACE#membrane	c$hisQ c$hisP
+c$virion#SPACE#assembly	c$groS c$groL
+c$detoxification#SPACE#of#SPACE#nitrogen#SPACE#compound	c$dsdA
+c$glycolate#SPACE#catabolic#SPACE#process	c$glcD c$glcE c$gcl c$glcF c$glxK
+c$phenylalanine#SPACE#transport	c$livH c$yddG c$aroP c$livF c$pheP c$livM c$livG
+c$methylgalactoside#SPACE#transport	c$mglC c$mglA c$mglB c$melB
+c$lysine#SPACE#biosynthetic#SPACE#process#SPACE#via#SPACE#diaminopimelate#SPACE#and#SPACE#N-succinyl-2-amino-6-ketopimelate	c$serC c$argD
+c$negative#SPACE#regulation#SPACE#of#SPACE#DNA#SPACE#binding#SPACE#transcription#SPACE#factor#SPACE#activity	c$mtfA c$aes c$malY c$bluF c$ydiV c$pspA
+c$intracellular#SPACE#pH#SPACE#reduction	c$nhaB
+c$acetate#SPACE#transmembrane#SPACE#transport	c$satP
+c$mannosylation	c$arnT
+c$aspartate#SPACE#transmembrane#SPACE#transport	c$gltP c$dauA
+c$putrescine#SPACE#catabolic#SPACE#process	c$puuD c$patA c$puuP c$puuE c$sad c$puuA c$patD c$puuC
+c$cellular#SPACE#response#SPACE#to#SPACE#organic#SPACE#substance	c$dpiB c$barA c$torS
+c$nucleotide#SPACE#phosphorylation	c$uspG c$cmk c$pyrH c$tmk c$adk
+c$negative#SPACE#regulation#SPACE#of#SPACE#translational#SPACE#initiation	c$raiA c$rplA c$rpsD c$thrS c$yoeB c$ratA c$csrA
+c$localization#SPACE#within#SPACE#membrane	c$lolB
+c$glycerol#SPACE#catabolic#SPACE#process	c$dhaL c$glpK c$dhaK
+c$cell#SPACE#wall#SPACE#assembly	c$mrdA c$ftsI
+c$glycerol-3-phosphate#SPACE#metabolic#SPACE#process	c$plsB
+c$defense#SPACE#response#SPACE#to#SPACE#virus	c$casA c$casB c$cobB c$abpA c$casD c$casC c$abpB c$casE c$cas3 c$cas1
+c$mannose#SPACE#catabolic#SPACE#process	c$manA
+c$folic#SPACE#acid#SPACE#metabolic#SPACE#process	c$folA
+c$ncRNA#SPACE#processing	c$rnr
+c$positive#SPACE#regulation#SPACE#of#SPACE#ATPase#SPACE#activity	c$hscB c$djlC c$viaA
+c$tRNA#SPACE#seleno-modification	c$selU c$selD
+c$carnitine#SPACE#metabolic#SPACE#process	c$fixB c$fixA c$caiE c$fixC c$caiF
+c$response#SPACE#to#SPACE#iron(III)#SPACE#ion	c$arnF c$basR c$arnD c$arnT c$arnE c$basS
+c$rescue#SPACE#of#SPACE#stalled#SPACE#ribosome	c$hflX c$efp c$arfA c$arfB
+c$iron-sulfur#SPACE#cluster#SPACE#assembly	c$iscA c$sufD c$sufS c$sufB c$mrp c$sufA c$erpA c$ygfZ c$iscS c$csdE c$nfuA c$fdx c$cyaY c$iscU c$fpr c$iscX c$sufC
+c$glutathione#SPACE#transmembrane#SPACE#transport	c$cydC c$gsiC c$cydD c$gsiA c$gsiD
+c$viral#SPACE#release#SPACE#from#SPACE#host#SPACE#cell	c$rzpR c$rzoR c$rzoD c$rzpD
+c$negative#SPACE#regulation#SPACE#of#SPACE#DNA-templated#SPACE#transcription#COMMA##SPACE#initiation	c$argR c$mraZ c$slyA c$paaX c$torI c$deoR c$cecR c$dinJ
+c$D-ribose#SPACE#transmembrane#SPACE#transport	c$rbsC c$xylG c$rbsB c$rbsA c$xylF c$xylH
+c$peptidoglycan#SPACE#turnover	c$nagK c$ldcA c$nagZ c$mepS c$amiD c$nagE c$murQ c$ampD c$mepH c$dacB
+c$glycerol#SPACE#to#SPACE#glycerone#SPACE#phosphate#SPACE#metabolic#SPACE#process	c$dhaK
+c$maintenance#SPACE#of#SPACE#CRISPR#SPACE#repeat#SPACE#elements	c$casD c$cas2 c$cas1
+c$protein#SPACE#insertion#SPACE#into#SPACE#membrane#SPACE#from#SPACE#inner#SPACE#side	c$hlpA c$secY c$secE c$secG
+c$argininosuccinate#SPACE#metabolic#SPACE#process	c$argG
+c$rRNA#SPACE#3'-end#SPACE#processing	c$rph
+c$carbon#SPACE#utilization	c$hofP c$nfuA c$hofM c$hofN c$gntX c$hofO c$rlmJ c$hofQ
+c$regulation#SPACE#of#SPACE#secondary#SPACE#metabolite#SPACE#biosynthetic#SPACE#process	c$fur c$zur
+c$dipeptide#SPACE#transmembrane#SPACE#transport	c$dppC c$bcr c$yeeO c$dppF c$tppB c$dppD c$dtpB c$dtpC c$ydeE c$dppB c$mdtK
+c$cellular#SPACE#carbohydrate#SPACE#metabolic#SPACE#process	c$rpe c$sgcE c$alsE
+c$translesion#SPACE#synthesis	c$umuD c$dinB c$umuC
+c$RNA#SPACE#secondary#SPACE#structure#SPACE#unwinding	c$deaD c$dbpA c$radD c$srmB c$rhlB c$lhr c$rhlE c$recG
+c$regulation#SPACE#of#SPACE#gene#SPACE#expression	c$hha c$rpoH c$bssR c$prmC c$narL
+c$heme#SPACE#O#SPACE#biosynthetic#SPACE#process	c$cyoE
+c$lipid#SPACE#transport	c$cydD c$mdlB
+c$cellular#SPACE#response#SPACE#to#SPACE#phosphate#SPACE#starvation	c$phoU c$appY c$phoR c$waaH c$appA c$iraP
+c$negative#SPACE#regulation#SPACE#of#SPACE#growth	c$glsB c$glsA
+c$threonine#SPACE#catabolic#SPACE#process	c$pflB c$dsdA c$tdcB c$tdh c$grcA c$tdcD c$tdcE c$ltaE
+c$regulation#SPACE#of#SPACE#DNA-templated#SPACE#transcription#COMMA##SPACE#initiation	c$oxyR c$phoB c$lsrR c$hyfR
+c$molybdopterin#SPACE#cofactor#SPACE#biosynthetic#SPACE#process	c$mog c$moaE c$moeA
+c$negative#SPACE#regulation#SPACE#of#SPACE#protein#SPACE#catabolic#SPACE#process	c$iraD c$iraP c$iraM
+c$thiamine#SPACE#biosynthetic#SPACE#process	c$thiE c$thiD c$thiI c$thiH c$cof c$thiC c$dxs c$thiG c$thiL
+c$cellular#SPACE#response#SPACE#to#SPACE#nutrient#SPACE#levels	c$cstA c$yjiY c$yhjX
+c$lipoprotein#SPACE#localization#SPACE#to#SPACE#outer#SPACE#membrane	c$lolB c$lolD c$lolA c$lolC c$lolE
+c$transcription#SPACE#initiation#SPACE#from#SPACE#bacterial-type#SPACE#RNA#SPACE#polymerase#SPACE#promoter	c$rpoS
+c$pyridoxine#SPACE#biosynthetic#SPACE#process	c$pdxA c$dxs c$pdxK c$pdxB c$pdxJ c$epd c$pdxH
+c$heme#SPACE#biosynthetic#SPACE#process	c$hemG c$cyoE c$yfdG c$hemE c$hemH c$hemF c$hemB c$hemC
+c$rhamnose#SPACE#transmembrane#SPACE#transport	c$rhaT
+c$plasmid#SPACE#recombination	c$argR c$pepA c$xerC
+c$cysteine#SPACE#transmembrane#SPACE#transport	c$tcyJ c$tcyL c$tcyP c$tcyN c$eamB
+c$gluconate#SPACE#transmembrane#SPACE#transport	c$gntU c$gntP c$dsdX c$gntT c$idnT c$kdgT
+c$regulation#SPACE#of#SPACE#catalytic#SPACE#activity	c$grpE c$ivy c$rraB c$lpoA c$glnB c$ppsR c$aceK c$glnK c$galF
+c$homoserine#SPACE#biosynthetic#SPACE#process	c$thrA c$asd c$metL c$lysC
+c$D-serine#SPACE#catabolic#SPACE#process	c$dsdA
+c$cellular#SPACE#respiration	c$nuoG c$cyoE c$fdoI c$fdoH c$fdoG
+c$DNA#SPACE#biosynthetic#SPACE#process	c$umuD c$holA c$holB c$dnaN c$polB c$holD c$holC c$polA c$dnaX c$ycdX c$holE c$dnaQ c$dnaE c$yciV
+c$prosthetic#SPACE#group#SPACE#biosynthetic#SPACE#process	c$citG
+c$cysteine#SPACE#biosynthetic#SPACE#process#SPACE#from#SPACE#serine	c$cysK c$cysM c$cysE
+c$regulation#SPACE#of#SPACE#translational#SPACE#elongation	c$lit
+c$bacterial-type#SPACE#flagellum-dependent#SPACE#swarming#SPACE#motility	c$motA c$flgB c$ycdX c$flgC c$yciG c$fliL c$yfiR c$ycdY c$yfgJ c$pgrR c$flgE c$flgD c$flgF c$flgG
+c$xenobiotic#SPACE#metabolic#SPACE#process	c$nemA c$yieF c$mnmE c$emrE
+c$aerobic#SPACE#respiration	c$nuoG c$torA c$dld c$nuoI c$cyoC c$nuoM c$erpA c$nuoF c$sdhB c$nuoH c$cyoD c$ndh c$lldD c$nuoN c$cyoB c$cyoA c$nuoB c$glpD c$sdhD c$sdhA c$sdhC c$torC
+c$chaperone-mediated#SPACE#protein#SPACE#transport	c$secB
+c$uracil#SPACE#catabolic#SPACE#process	c$rutD c$hycB c$rutG c$rutB c$hyfA c$rutF c$rutE c$rutC c$rutA c$preA c$ydfG
+c$D-gluconate#SPACE#metabolic#SPACE#process	c$idnK c$gnd
+c$nucleotide-excision#SPACE#repair#COMMA##SPACE#DNA#SPACE#incision	c$cho
+c$cytochrome#SPACE#complex#SPACE#assembly	c$ccmG c$dipZ c$ccmE c$sdhD c$ccmH c$sdhC c$ypjD
+c$protein#SPACE#targeting#SPACE#to#SPACE#membrane	c$ffh
+c$ATP#SPACE#hydrolysis#SPACE#coupled#SPACE#ion#SPACE#transmembrane#SPACE#transport	c$copA
+c$fumarate#SPACE#transport	c$dctA c$dauA
+c$leucine#SPACE#import#SPACE#across#SPACE#plasma#SPACE#membrane	c$livH c$livF c$livM c$livG
+c$bacterial-type#SPACE#flagellum#SPACE#assembly	c$flgK c$fliS c$frdA c$fliG c$frdB c$frdC c$flhA
+c$unsaturated#SPACE#fatty#SPACE#acid#SPACE#biosynthetic#SPACE#process	c$gnsB
+c$negative#SPACE#regulation#SPACE#of#SPACE#single-species#SPACE#biofilm#SPACE#formation	c$ymgA
+c$transition#SPACE#metal#SPACE#ion#SPACE#transport	c$modC
+c$glutathione#SPACE#transport	c$gsiB
+c$lipopolysaccharide#SPACE#transport	c$lptE c$msbA c$lptD c$lptF c$lptB c$lptC c$lptG c$yhjD c$lptA
+c$L-histidine#SPACE#transmembrane#SPACE#transport	c$hisQ c$hisP
+c$6-sulfoquinovose(1-)#SPACE#catabolic#SPACE#process#SPACE#to#SPACE#glycerone#SPACE#phosphate#SPACE#and#SPACE#3-sulfolactaldehyde	c$yihT c$yihV c$yihQ c$yihS
+c$sulfate#SPACE#assimilation#COMMA##SPACE#phosphoadenylyl#SPACE#sulfate#SPACE#reduction#SPACE#by#SPACE#phosphoadenylyl-sulfate#SPACE#reductase#SPACE#(thioredoxin)	c$cysH
+c$response#SPACE#to#SPACE#gamma#SPACE#radiation	c$priA
+c$cell#SPACE#adhesion#SPACE#involved#SPACE#in#SPACE#single-species#SPACE#biofilm#SPACE#formation	c$yehA c$dgcZ c$yadC c$yraK c$elfG c$elfA c$ycbU c$yadK c$ycbV
+c$alkanesulfonate#SPACE#transport	c$ssuC c$ssuA c$tauA c$ssuB
+c$response#SPACE#to#SPACE#hypochlorite	c$rclA c$rclC c$msrP c$rclB
+c$L-aspartate#SPACE#transmembrane#SPACE#transport	c$dctA c$gltI
+c$positive#SPACE#regulation#SPACE#of#SPACE#DNA-dependent#SPACE#DNA#SPACE#replication#SPACE#initiation	c$diaA c$holC
+c$tetrahydrofolylpolyglutamate#SPACE#biosynthetic#SPACE#process	c$folC
+c$positive#SPACE#regulation#SPACE#of#SPACE#glycogen#SPACE#catabolic#SPACE#process	c$ptsH
+c$lipoprotein#SPACE#biosynthetic#SPACE#process	c$lgt c$lnt
+c$thiamine#SPACE#diphosphate#SPACE#biosynthetic#SPACE#process	c$thiD c$thiL
+c$peptidyl-tyrosine#SPACE#phosphorylation	c$wzc
+c$nucleoside#SPACE#triphosphate#SPACE#catabolic#SPACE#process	c$rdgB
+c$regulation#SPACE#of#SPACE#cell#SPACE#growth	c$phoU c$prlF
+c$carnitine#SPACE#transmembrane#SPACE#transport	c$caiT
+c$amino#SPACE#acid#SPACE#transmembrane#SPACE#transport	c$gltK c$tnaB c$yqeG c$glnP c$tcyN c$adiC c$proV c$yahN c$mtr c$gadC c$tdcC c$artM c$yhjV c$yhdZ c$frlA c$yjeH c$yijE
+c$replication#SPACE#fork#SPACE#reversal	c$ruvC
+c$regulation#SPACE#of#SPACE#cell#SPACE#motility	c$uspG c$mqsR
+c$non-recombinational#SPACE#repair	c$nfo
+c$pentose#SPACE#catabolic#SPACE#process	c$ygbL c$sgbE c$rhaD c$araD c$rpe c$fucA c$ulaF c$sgcE c$alsE
+c$glucan#SPACE#biosynthetic#SPACE#process	c$mdoH c$waaB
+c$DNA#SPACE#replication#SPACE#proofreading	c$exoX c$polB c$rnt c$dnaQ
+c$methionine#SPACE#transport	c$metN c$nlpA c$metI c$yjeH c$metQ
+c$leucine#SPACE#biosynthetic#SPACE#process	c$ilvE c$leuD c$leuC c$leuA c$leuB c$lrp c$tyrB
+c$chloride#SPACE#transport	c$yfeO c$clcA
+c$UDP-N-acetylglucosamine#SPACE#metabolic#SPACE#process	c$glmS c$frlB
+c$proline#SPACE#transport	c$proP c$putP
+c$glycogen#SPACE#catabolic#SPACE#process	c$glgX c$malP c$glgP
+c$regulation#SPACE#of#SPACE#glutamine#SPACE#family#SPACE#amino#SPACE#acid#SPACE#metabolic#SPACE#process	c$glnE
+c$DNA#SPACE#replication#COMMA##SPACE#removal#SPACE#of#SPACE#RNA#SPACE#primer	c$rnhA c$rnhB
+c$response#SPACE#to#SPACE#unfolded#SPACE#protein	c$hscC c$clpB c$hscA c$dnaK c$yegD
+c$glycerol#SPACE#transport	c$glpT c$glpF
+c$valyl-tRNA#SPACE#aminoacylation	c$valS
+c$septin#SPACE#ring#SPACE#assembly	c$zapA
+c$negative#SPACE#regulation#SPACE#of#SPACE#fatty#SPACE#acid#SPACE#biosynthetic#SPACE#process	c$accC
+c$peptidoglycan-protein#SPACE#cross-linking	c$ycbB c$ybiS c$ycfS c$ynhG c$ldtC c$ldtB c$ldtA c$erfK
+c$serine#SPACE#family#SPACE#amino#SPACE#acid#SPACE#biosynthetic#SPACE#process	c$serA
+c$lipid#SPACE#biosynthetic#SPACE#process	c$fabB c$acpP c$fabA c$fabI c$fabG
+c$transcriptional#SPACE#attenuation#SPACE#by#SPACE#ribosome	c$mgtL c$tnaC
+c$silver#SPACE#ion#SPACE#transport	c$cusA
+c$ribonucleotide#SPACE#excision#SPACE#repair	c$rnhB
+c$cellular#SPACE#iron#SPACE#ion#SPACE#homeostasis	c$fetB c$fieF c$cyaY c$fetA c$iscU c$ybiX
+c$positive#SPACE#regulation#SPACE#of#SPACE#DNA#SPACE#binding#SPACE#transcription#SPACE#factor#SPACE#activity	c$sxy c$dgcM
+c$galactarate#SPACE#catabolic#SPACE#process	c$garR c$garD c$garK c$garL
+c$biological#SPACE#adhesion	c$csgF c$csgG c$csgE
+c$shikimate#SPACE#metabolic#SPACE#process	c$aroK c$aroL c$aroE c$ydiB
+c$DNA#SPACE#demethylation	c$alkB c$ada
+c$iron#SPACE#ion#SPACE#homeostasis	c$fecB c$afuC c$fepB
+c$nucleotide#SPACE#catabolic#SPACE#process	c$cpdB c$ushA
+c$UDP-4-deoxy-4-formamido-beta-L-arabinopyranose#SPACE#biosynthetic#SPACE#process	c$arnA
+c$XMP#SPACE#salvage	c$gpt
+c$positive#SPACE#regulation#SPACE#of#SPACE#hydrolase#SPACE#activity	c$nlpD c$envC
+c$phenazine#SPACE#biosynthetic#SPACE#process	c$entB c$trpD
+c$glycine#SPACE#betaine#SPACE#biosynthetic#SPACE#process#SPACE#from#SPACE#choline	c$betB c$betA
+c$uracil#SPACE#transport	c$rutG c$uraA
+c$allantoin#SPACE#assimilation#SPACE#pathway	c$allB c$allC c$allD c$ybcF c$glxR
+c$phosphorus#SPACE#metabolic#SPACE#process	c$ppx c$gpp
+c$lipid#SPACE#translocation	c$msbA c$murJ
+c$DNA#SPACE#replication#SPACE#initiation	c$priA c$priC c$priB c$dnaA c$hda
+c$adenosine#SPACE#biosynthetic#SPACE#process	c$purA
+c$cellular#SPACE#response#SPACE#to#SPACE#temperature#SPACE#stimulus	c$dipZ
+c$cell#SPACE#wall#SPACE#macromolecule#SPACE#metabolic#SPACE#process	c$ldtD c$dacA c$ldtE
+c$glucose#SPACE#metabolic#SPACE#process	c$pgl c$yphB c$yihR c$pgm c$gapC c$epd c$zwf c$galM
+c$pyrimidine#SPACE#nucleobase#SPACE#biosynthetic#SPACE#process	c$pyrL c$carB
+c$peptide#SPACE#metabolic#SPACE#process	c$pepT c$prlC
+c$amino#SPACE#acid#SPACE#export#SPACE#across#SPACE#plasma#SPACE#membrane	c$alaE
+c$methionine#SPACE#biosynthetic#SPACE#process	c$metE c$metH c$mmuP c$metB
+c$dUTP#SPACE#catabolic#SPACE#process	c$dut c$mazG
+c$L-ascorbic#SPACE#acid#SPACE#metabolic#SPACE#process	c$ulaE c$sgbU c$ulaF
+c$cofactor#SPACE#biosynthetic#SPACE#process	c$hypB
+c$carboxylic#SPACE#acid#SPACE#metabolic#SPACE#process	c$nanS
+c$'de#SPACE#novo'#SPACE#NAD#SPACE#biosynthetic#SPACE#process#SPACE#from#SPACE#aspartate	c$nadC c$nadE c$nadD c$nadB c$nadA
+c$cellular#SPACE#response#SPACE#to#SPACE#arsenic-containing#SPACE#substance	c$gshA
+c$tRNA#SPACE#wobble#SPACE#cytosine#SPACE#modification	c$tmcA
+c$internal#SPACE#peptidyl-lysine#SPACE#acetylation	c$cheY c$pka
+c$nickel#SPACE#cation#SPACE#transmembrane#SPACE#transport	c$corA c$nikE c$nikB c$rcnA c$zntA c$nikD c$nikC
+c$oxalate#SPACE#catabolic#SPACE#process	c$oxc
+c$wobble#SPACE#position#SPACE#uridine#SPACE#ribose#SPACE#methylation	c$trmL
+c$regulation#SPACE#of#SPACE#mRNA#SPACE#stability	c$rpsH c$mqsR c$higB c$chpB
+c$stringent#SPACE#response	c$rplK
+c$sulfate#SPACE#assimilation	c$cysQ c$cysZ
+c$response#SPACE#to#SPACE#alkyl#SPACE#hydroperoxide	c$ahpC
+c$L-methionine#SPACE#salvage#SPACE#from#SPACE#methylthioadenosine	c$mtnN
+c$isoleucine#SPACE#biosynthetic#SPACE#process	c$ilvB c$ilvI c$ilvC c$ilvH c$ilvN c$ilvA c$ilvD
+c$Mo-molybdopterin#SPACE#cofactor#SPACE#biosynthetic#SPACE#process	c$moaD c$moaA c$tusA c$moaC c$mocA c$moaB c$moeA c$moeB
+c$folic#SPACE#acid#SPACE#biosynthetic#SPACE#process	c$folM c$pabB c$pabA c$nudB c$folC c$folA c$folP
+c$phage#SPACE#shock	c$pspG c$pspD c$pspA
+c$osmoregulated#SPACE#periplasmic#SPACE#glucan#SPACE#biosynthetic#SPACE#process	c$galU
+c$positive#SPACE#regulation#SPACE#of#SPACE#translation#COMMA##SPACE#ncRNA-mediated	c$hfq
+c$L-ascorbic#SPACE#acid#SPACE#catabolic#SPACE#process	c$ulaD c$ulaG
+c$nitroglycerin#SPACE#metabolic#SPACE#process	c$nemA
+c$response#SPACE#to#SPACE#ethanol	c$adhP c$aldB c$uspB
+c$GMP#SPACE#salvage	c$hpt c$gpt
+c$tetrahydrofolate#SPACE#biosynthetic#SPACE#process	c$pabB c$pabA c$metF c$nudB c$folP c$folA
+c$contractile#SPACE#ring#SPACE#localization	c$zapB
+c$regulation#SPACE#of#SPACE#single-species#SPACE#biofilm#SPACE#formation	c$pdeF c$yfjR c$csgD c$bssR c$bssS c$ycfJ
+c$purine#SPACE#nucleobase#SPACE#metabolic#SPACE#process	c$hiuH
+c$dTDP#SPACE#biosynthetic#SPACE#process	c$tmk
+c$autolysis	c$ygeR c$mepM c$nlpD c$envC
+c$long-chain#SPACE#fatty#SPACE#acid#SPACE#transport	c$fadL
+c$phosphatidylglycerol#SPACE#biosynthetic#SPACE#process	c$pgpA c$cdsA
+c$threonyl-tRNA#SPACE#aminoacylation	c$thrS
+c$negative#SPACE#regulation#SPACE#of#SPACE#bacterial-type#SPACE#flagellum-dependent#SPACE#cell#SPACE#motility	c$dgcQ c$ybjN c$glgS c$cdgI c$ydiV c$dgcN c$dgcJ
+c$D-ribose#SPACE#metabolic#SPACE#process	c$rpiA
+c$cellular#SPACE#response#SPACE#to#SPACE#nitrite	c$narX c$narQ
+c$porphyrin-containing#SPACE#compound#SPACE#biosynthetic#SPACE#process	c$yggW c$hemL c$hemG c$cysG c$hemE c$gltX
+c$negative#SPACE#regulation#SPACE#of#SPACE#cellular#SPACE#component#SPACE#movement	c$dgcT c$dgcZ
+c$positive#SPACE#regulation#SPACE#of#SPACE#bacterial-type#SPACE#flagellum#SPACE#assembly	c$bdm
+c$GMP#SPACE#metabolic#SPACE#process	c$gmk
+c$deoxyribonucleoside#SPACE#monophosphate#SPACE#biosynthetic#SPACE#process	c$tdk
+c$negative#SPACE#regulation#SPACE#of#SPACE#single-species#SPACE#biofilm#SPACE#formation#SPACE#on#SPACE#inanimate#SPACE#substrate	c$ybjN c$cnu c$glgS
+c$methylglyoxal#SPACE#catabolic#SPACE#process	c$yeaE c$gldA c$dkgB c$dkgA
+c$L-cysteine#SPACE#catabolic#SPACE#process#SPACE#to#SPACE#pyruvate	c$metC
+c$lipid-linked#SPACE#peptidoglycan#SPACE#transport	c$ftsW c$murJ c$mrdB
+c$tRNA#SPACE#modification	c$ttcA c$tilS c$alaS c$truB c$miaA
+c$C-terminal#SPACE#protein#SPACE#amino#SPACE#acid#SPACE#modification	c$rimK
+c$chaperone-mediated#SPACE#protein#SPACE#complex#SPACE#assembly	c$narJ c$narW
+c$cytolysis	c$rzpR c$rzoR c$rzoD c$rzpD c$ortT
+c$regulation#SPACE#of#SPACE#translation	c$uof c$acnB c$hns c$thrS c$secM
+c$response#SPACE#to#SPACE#toxic#SPACE#substance	c$gloC c$ridA c$emrB c$yiiM c$kefC c$ycbX c$gloA c$efeO c$gloB
+c$amyloid#SPACE#fibril#SPACE#formation	c$csgB c$csgA
+c$single-species#SPACE#submerged#SPACE#biofilm#SPACE#formation	c$dgcT
+c$negative#SPACE#regulation#SPACE#of#SPACE#cell#SPACE#killing	c$cbeA
+c$base-excision#SPACE#repair	c$nei c$mutY c$mutM c$alkA c$nfo c$polA
+c$protein#SPACE#import	c$tolA c$tolB c$tolQ
+c$antimonite#SPACE#transport	c$arsB
+c$mismatch#SPACE#repair	c$dam c$exoX c$uvrD c$vsr c$mutL c$mutH c$mutY c$mutS c$rnhB c$ssb
+c$methylglyoxal#SPACE#biosynthetic#SPACE#process	c$mgsA
+c$oxaloacetate#SPACE#metabolic#SPACE#process	c$citE
+c$enterobacterial#SPACE#common#SPACE#antigen#SPACE#biosynthetic#SPACE#process	c$rffA c$wzyE c$rffE c$rffM c$rfe c$rffD c$rffC c$wzzE c$rffT
+c$prolyl-tRNA#SPACE#aminoacylation	c$proS
+c$succinate#SPACE#metabolic#SPACE#process	c$cptB c$sdhE c$sucD c$fdrA c$yahF
+c$dormancy#SPACE#process	c$hokB c$yigB c$obgE c$fau c$hipA c$tisB
+c$DNA#SPACE#replication#COMMA##SPACE#Okazaki#SPACE#fragment#SPACE#processing	c$ygdG
+c$L-arginine#SPACE#transport	c$argO
+c$pilus#SPACE#assembly	c$elfC c$yfcU c$yhcD c$ydeT c$fimI c$sfmD c$fimF c$yraJ c$htrE c$ybgQ c$ybjN c$yqiG c$fimD c$yehB
+c$cellular#SPACE#response#SPACE#to#SPACE#copper#SPACE#ion	c$copA c$cusS
+c$D-galactonate#SPACE#catabolic#SPACE#process	c$dgoD c$dgoK c$dgoA
+c$deoxyguanosine#SPACE#catabolic#SPACE#process	c$xapA
+c$glyoxylate#SPACE#cycle	c$acnB c$aceA c$aceK c$aceB c$acnA
+c$carboxylic#SPACE#acid#SPACE#transmembrane#SPACE#transport	c$nanC c$nanT c$yjhB
+c$RNA#SPACE#phosphodiester#SPACE#bond#SPACE#hydrolysis#COMMA##SPACE#exonucleolytic	c$orn c$rnb c$rbn c$rnd c$tatD c$pnp c$rnr c$yciV
+c$arginine#SPACE#biosynthetic#SPACE#process#SPACE#via#SPACE#ornithine	c$argI c$gabT c$argD c$astC c$argH c$argF
+c$lysine#SPACE#biosynthetic#SPACE#process#SPACE#via#SPACE#diaminopimelate	c$lysA c$thrA c$asd c$metL c$dapF c$lysR c$lysC
+c$L-serine#SPACE#biosynthetic#SPACE#process	c$serB c$serC c$tdh c$serA
+c$rRNA#SPACE#(guanine-N7)-methylation	c$rsmG c$rlmL
+c$L-threonine#SPACE#catabolic#SPACE#process#SPACE#to#SPACE#propionate	c$pta c$tdcE
+c$propionate#SPACE#biosynthetic#SPACE#process	c$ackA
+c$pyrimidine#SPACE#nucleotide#SPACE#biosynthetic#SPACE#process	c$pyrL c$pyrC c$pyrH c$pyrE
+c$cellular#SPACE#response#SPACE#to#SPACE#selenium#SPACE#ion	c$sodA
+c$anaerobic#SPACE#electron#SPACE#transport#SPACE#chain	c$narI c$narY c$nrfA c$nrfD c$narV c$narZ c$nrfC c$nrfB
+c$selenocysteinyl-tRNA(Sec)#SPACE#biosynthetic#SPACE#process	c$selA
+c$protein#SPACE#palmitoylation	c$cusC
+c$phenylalanyl-tRNA#SPACE#aminoacylation	c$pheS c$pheT
+c$response#SPACE#to#SPACE#temperature#SPACE#stimulus	c$envY c$degP c$clpP c$pphA c$htpX c$rpoE
+c$tyrosine#SPACE#transport	c$yddG c$aroP
+c$galactose#SPACE#transmembrane#SPACE#transport	c$mglC c$galP c$ytfQ c$mglA c$fucP c$mglB c$ompL
+c$purine#SPACE#nucleotide#SPACE#interconversion	c$add
+c$lipopolysaccharide#SPACE#core#SPACE#region#SPACE#biosynthetic#SPACE#process	c$waaL c$waaF c$yeeL c$rfaD c$lpcA c$eptA c$waaU c$waaZ c$waaG c$waaY c$waaS c$eptB c$galU c$waaB c$eptC c$lpxK c$waaP c$yjgX c$waaC c$waaJ c$waaQ c$opgE c$waaI c$gmhB c$yhbX
+c$regulation#SPACE#of#SPACE#bacterial-type#SPACE#flagellum-dependent#SPACE#cell#SPACE#motility	c$ecpR c$dgcF c$fliZ c$pdeH
+c$methionyl-tRNA#SPACE#aminoacylation	c$metG
+c$tryptophan#SPACE#catabolic#SPACE#process	c$tnaA
+c$pseudouridine#SPACE#synthesis	c$rluA c$psuG c$truB c$truD
+c$protein#SPACE#methylation	c$metE c$metH c$pcm c$prmB c$prmC c$cheR
+c$acyl-CoA#SPACE#metabolic#SPACE#process	c$tesB c$fadD c$aceF c$yciA
+c$protein#SPACE#adenylylation	c$uspG
+c$cellular#SPACE#response#SPACE#to#SPACE#iron#SPACE#ion#SPACE#starvation	c$nfuA
+c$rRNA#SPACE#5'-end#SPACE#processing	c$yhbY c$yqgF c$rne
+c$glutamine#SPACE#biosynthetic#SPACE#process	c$puuA c$glnA
+c$hypoxanthine#SPACE#metabolic#SPACE#process	c$hpt
+c$queuosine#SPACE#biosynthetic#SPACE#process	c$queA c$queE c$queC c$folE c$queG c$queF c$tgt
+c$negative#SPACE#regulation#SPACE#of#SPACE#glycogen#SPACE#biosynthetic#SPACE#process	c$csrA
+c$salicylic#SPACE#acid#SPACE#biosynthetic#SPACE#process	c$entC
+c$protein#SPACE#lipoylation	c$lipA c$lipB c$lplA
+c$galactitol#SPACE#transport	c$gatB c$sgcC c$gatC c$gatA
+c$C-5#SPACE#methylation#SPACE#of#SPACE#cytosine	c$dcm
+c$acetyl-CoA#SPACE#biosynthetic#SPACE#process#SPACE#from#SPACE#acetate	c$pta
+c$lipoate#SPACE#biosynthetic#SPACE#process	c$lipA c$lipB
+c$DNA#SPACE#ligation	c$ligB c$ligA c$rtcB
+c$programmed#SPACE#cell#SPACE#death	c$ibsE c$ibsB c$ibsD c$ldrB c$cbtA c$shoB c$ibsC c$ldrA c$ibsA
+c$primary#SPACE#metabolic#SPACE#process	c$argI c$ygeW c$carA c$argF c$pyrB c$carB
+c$bacterial-type#SPACE#DNA#SPACE#replication#SPACE#initiation	c$dam
+c$adenosine#SPACE#transport	c$nupG
+c$RNA#SPACE#modification	c$pcnB c$truC c$rluA c$hrpA c$rluD
+c$L-alanine#SPACE#biosynthetic#SPACE#process#SPACE#from#SPACE#pyruvate	c$alaC c$alaA
+c$microcin#SPACE#B17#SPACE#transport	c$sbmA
+c$cysteine#SPACE#export#SPACE#across#SPACE#plasma#SPACE#membrane	c$cydC c$cydD c$eamA c$eamB
+c$anaerobic#SPACE#glycerol#SPACE#catabolic#SPACE#process	c$hybA c$gldA
+c$GDP-mannose#SPACE#biosynthetic#SPACE#process	c$manA c$cpsB c$cpsG
+c$glutamine#SPACE#catabolic#SPACE#process	c$glsB c$glsA2 c$glsA1
+c$L-fucose#SPACE#catabolic#SPACE#process	c$lldD c$fucK c$aldA c$fucO c$fucI c$fucA
+c$purine#SPACE#nucleotide#SPACE#metabolic#SPACE#process	c$ndk
+c$negative#SPACE#regulation#SPACE#of#SPACE#DNA-templated#SPACE#transcription#COMMA##SPACE#termination	c$cspC c$cspE c$cspA
+c$protein#SPACE#insertion#SPACE#into#SPACE#membrane	c$yidC c$yidD c$bamE c$bamB c$bamA c$bamD
+c$tryptophan#SPACE#biosynthetic#SPACE#process	c$trpE c$trpB c$trpA c$pabA c$hisA c$menF c$trpD c$trpC
+c$glycerol-3-phosphate#SPACE#transmembrane#SPACE#transport	c$ugpE c$ugpA c$glpT c$ugpC c$ugpB
+c$tRNA#SPACE#wobble#SPACE#base#SPACE#lysidine#SPACE#biosynthesis	c$tilS
+c$DNA#SPACE#topological#SPACE#change	c$gyrB c$parE c$parC c$topA c$gyrA
+c$regulation#SPACE#of#SPACE#transcription#SPACE#by#SPACE#RNA#SPACE#polymerase#SPACE#II	c$yajL
+c$hypoxanthine#SPACE#biosynthetic#SPACE#process	c$add c$ade c$adeD
+c$cobalamin#SPACE#biosynthetic#SPACE#process	c$cobT c$cobC c$purC c$btuR c$cobU c$cobS
+c$establishment#SPACE#of#SPACE#integrated#SPACE#proviral#SPACE#latency	c$intZ c$intE c$intQ
+c$pyridoxal#SPACE#5'-phosphate#SPACE#salvage	c$pdxK c$pdxH c$pdxY
+c$L-phenylalanine#SPACE#catabolic#SPACE#process	c$yfcF c$yibF
+c$cellular#SPACE#response#SPACE#to#SPACE#glucose-phosphate#SPACE#stress	c$setB c$setA c$setC
+c$hyperosmotic#SPACE#salinity#SPACE#response	c$proP c$ubiG
+c$short-chain#SPACE#fatty#SPACE#acid#SPACE#metabolic#SPACE#process	c$ydiF
+c$translational#SPACE#termination	c$prfA c$prfB c$rplK c$prfC c$prmC c$yafQ
+c$ribosomal#SPACE#small#SPACE#subunit#SPACE#biogenesis	c$rsgA c$ybeY c$era c$rimP
+c$DNA#SPACE#metabolic#SPACE#process	c$orn c$yjjV c$rcbA c$rpsP c$tdk c$smrA c$recE
+c$tetrapyrrole#SPACE#biosynthetic#SPACE#process	c$hemL c$hemC
+c$short-chain#SPACE#fatty#SPACE#acid#SPACE#transport	c$putP
+c$regulation#SPACE#of#SPACE#DNA#SPACE#recombination	c$mutL c$rdgC c$mutH c$mutS
+c$trehalose#SPACE#transport	c$malK c$ynjD c$treB
+c$intracellular#SPACE#protein#SPACE#transport	c$secY c$secE c$secG
+c$RNA#SPACE#biosynthetic#SPACE#process	c$adk
+c$regulation#SPACE#of#SPACE#bacterial-type#SPACE#flagellum-dependent#SPACE#cell#SPACE#motility#SPACE#by#SPACE#regulation#SPACE#of#SPACE#motor#SPACE#speed	c$ycgR
+c$zinc#SPACE#ion#SPACE#transport	c$zitB c$fieF c$zntA c$znuA c$znuB c$zupT
+c$'de#SPACE#novo'#SPACE#protein#SPACE#folding	c$groL
+c$trehalose#SPACE#biosynthetic#SPACE#process	c$otsA c$otsB
+c$anion#SPACE#transmembrane#SPACE#transport	c$nanC c$tisB c$ompL
+c$alanine#SPACE#biosynthetic#SPACE#process	c$alaC c$alaA
+c$carboxylic#SPACE#acid#SPACE#transport	c$aaeB c$nanT c$yjhB c$ydhJ c$aaeA c$mdtN
+c$protein#SPACE#transmembrane#SPACE#transport	c$aroP c$csgG c$secF c$csgE c$secD
+c$negative#SPACE#regulation#SPACE#of#SPACE#translational#SPACE#frameshifting	c$efp
+c$cellular#SPACE#response#SPACE#to#SPACE#hydrogen#SPACE#peroxide	c$pdeF c$uspE c$yodD c$yajL c$ydeI c$ychH c$katG c$yhcN c$yjaA c$ygiW
+c$peptidyl-tyrosine#SPACE#autophosphorylation	c$wzc c$etk c$fepE c$wzzB c$wzzE
+c$DNA#SPACE#strand#SPACE#elongation#SPACE#involved#SPACE#in#SPACE#DNA#SPACE#replication	c$dnaN c$dnaC c$ydaV
+c$uroporphyrinogen#SPACE#III#SPACE#biosynthetic#SPACE#process	c$hemE
+c$glycerol#SPACE#metabolic#SPACE#process	c$gldA c$glpK c$ybdH
+c$S-adenosylmethionine#SPACE#biosynthetic#SPACE#process	c$metK
+c$cellular#SPACE#response#SPACE#to#SPACE#reactive#SPACE#oxygen#SPACE#species	c$yggE c$mdtK
+c$TTP#SPACE#catabolic#SPACE#process	c$mazG
+c$L-cystine#SPACE#transport	c$yecS c$tcyJ c$tcyL c$tcyP c$tcyN
+c$D-galacturonate#SPACE#catabolic#SPACE#process	c$uxaB c$kduI c$kdgK c$uxaA c$uxaC c$kduD
+c$cAMP#SPACE#biosynthetic#SPACE#process	c$cyaA
+c$branched-chain#SPACE#amino#SPACE#acid#SPACE#metabolic#SPACE#process	c$ilvE
+c$cellular#SPACE#response#SPACE#to#SPACE#manganese#SPACE#ion	c$mntS
+c$fatty#SPACE#acid#SPACE#beta-oxidation#SPACE#using#SPACE#acyl-CoA#SPACE#dehydrogenase	c$ydiR c$fixB c$fadE
+c$oxidative#SPACE#single-stranded#SPACE#RNA#SPACE#demethylation	c$alkB
+c$NAD#SPACE#salvage	c$xapA c$nadD c$nadE c$pncB
+c$sodium#SPACE#ion#SPACE#transmembrane#SPACE#transport	c$yrbG c$nhaB c$mdtM c$chaA c$melB c$mdfA
+c$DNA#SPACE#catabolic#SPACE#process#COMMA##SPACE#endonucleolytic	c$cas3
+c$carbohydrate#SPACE#derivative#SPACE#transport	c$nanC c$msbA c$yeeO
+c$DNA-templated#SPACE#transcription#COMMA##SPACE#initiation	c$greB c$aaeR c$hyfR
+c$peptidyl-tyrosine#SPACE#dephosphorylation	c$wzb c$etp c$ynbD
+c$positive#SPACE#regulation#SPACE#of#SPACE#cell#SPACE#growth	c$chpS
+c$organic#SPACE#acid#SPACE#transmembrane#SPACE#transport	c$uacT
+c$mycolate#SPACE#cell#SPACE#wall#SPACE#layer#SPACE#assembly	c$yieL
+c$acetoacetic#SPACE#acid#SPACE#catabolic#SPACE#process	c$atoB
+c$regulation#SPACE#of#SPACE#cell#SPACE#cycle	c$minC
+c$superoxide#SPACE#metabolic#SPACE#process	c$sodC c$sodA c$sodB
+c$response#SPACE#to#SPACE#hydrogen#SPACE#peroxide	c$barA c$gstA c$ariR c$tatD c$yfcF c$hcp c$yhjA c$bsmA
+c$selenium#SPACE#compound#SPACE#metabolic#SPACE#process	c$sufS c$selD
+c$viral#SPACE#process	c$dnaJ
+c$cysteine#SPACE#catabolic#SPACE#process	c$yhaM c$decR c$yhaO
+c$removal#SPACE#of#SPACE#superoxide#SPACE#radicals	c$sodC c$sodA c$sodB
+c$DNA#SPACE#dealkylation#SPACE#involved#SPACE#in#SPACE#DNA#SPACE#repair	c$alkB c$alkA c$ogt c$ada c$tag
+c$response#SPACE#to#SPACE#nickel#SPACE#cation	c$rcnA c$rcnB
+c$DNA#SPACE#synthesis#SPACE#involved#SPACE#in#SPACE#DNA#SPACE#repair	c$dinB c$recF c$ybjD c$recR
+c$blue#SPACE#light#SPACE#signaling#SPACE#pathway	c$bluF
+c$negative#SPACE#regulation#SPACE#of#SPACE#gene#SPACE#expression	c$phoU c$lipB
+c$diaminopimelate#SPACE#biosynthetic#SPACE#process	c$dapA c$dapB c$dapD
+c$cell#SPACE#chemotaxis	c$malE
+c$polyamine#SPACE#transport	c$potF c$potA
+c$detection#SPACE#of#SPACE#maltose#SPACE#stimulus	c$malE
+c$bacterial#SPACE#transcription	c$rpoH c$rcsB
+c$ubiquinone#SPACE#biosynthetic#SPACE#process#SPACE#via#SPACE#3#COMMA#4-dihydroxy-5-polyprenylbenzoate	c$menA
+c$purine#SPACE#nucleoside#SPACE#transmembrane#SPACE#transport	c$nepI c$nupG
+c$N-acetylmannosamine#SPACE#catabolic#SPACE#process	c$nanE
+c$fructoselysine#SPACE#catabolic#SPACE#process	c$frlA
+c$2#COMMA#4#COMMA#6-trinitrotoluene#SPACE#catabolic#SPACE#process	c$nemA c$nfsB
+c$N-acetylneuraminate#SPACE#catabolic#SPACE#process	c$yieK c$nanK c$nanE c$agaI c$nagA c$nanA c$nagB
+c$nucleoside#SPACE#transport	c$xapB c$nupC c$tsx
+c$replication#SPACE#fork#SPACE#processing	c$uvrD
+c$peptidyl-arginine#SPACE#hydroxylation	c$roxA
+c$protein#SPACE#secretion#SPACE#by#SPACE#the#SPACE#type#SPACE#II#SPACE#secretion#SPACE#system	c$gspF c$hofC c$gspE c$gspI c$gspJ
+c$D-gluconate#SPACE#catabolic#SPACE#process	c$gntK c$idnK c$edd c$gnd
+c$cadmium#SPACE#ion#SPACE#transport	c$fieF c$mntH
+c$Group#SPACE#I#SPACE#intron#SPACE#splicing	c$rpsL
+c$cytochrome#SPACE#c-heme#SPACE#linkage#SPACE#via#SPACE#heme-L-cysteine	c$nrfF c$nrfE c$nrfG
+c$protein#SPACE#localization#SPACE#to#SPACE#outer#SPACE#membrane	c$lolD c$lolC
+c$cellular#SPACE#response#SPACE#to#SPACE#zinc#SPACE#ion	c$argT c$zraS
+c$transsulfuration	c$metB
+c$melibiose#SPACE#catabolic#SPACE#process	c$melA
+c$xylulose#SPACE#catabolic#SPACE#process	c$xylB
+c$D-glucuronate#SPACE#catabolic#SPACE#process	c$kduI c$kdgK c$uxuA c$uxaC c$kduD c$uxuB
+c$cytidine#SPACE#transport	c$nupC c$nupG
+c$acetate#SPACE#metabolic#SPACE#process	c$scpC c$ackA c$pta
+c$long-chain#SPACE#fatty#SPACE#acid#SPACE#biosynthetic#SPACE#process	c$accD c$accA
+c$SRP-dependent#SPACE#cotranslational#SPACE#protein#SPACE#targeting#SPACE#to#SPACE#membrane	c$ftsY
+c$pantothenate#SPACE#biosynthetic#SPACE#process	c$panB c$panZ
+c$protein#SPACE#flavinylation	c$ftp c$sdhE
+c$respiratory#SPACE#chain#SPACE#complex#SPACE#II#SPACE#assembly	c$sdhE
+c$vitamin#SPACE#K#SPACE#biosynthetic#SPACE#process	c$menA
+c$quinolinate#SPACE#catabolic#SPACE#process	c$nadC
+c$regulation#SPACE#of#SPACE#nitrate#SPACE#assimilation	c$narL
+c$peptide#SPACE#catabolic#SPACE#process	c$pepB c$pepN c$pepA c$pepQ c$pepD
+c$purine#SPACE#nucleobase#SPACE#catabolic#SPACE#process	c$allB
+c$taurine#SPACE#transport	c$tauB c$tauA c$tauC
+c$response#SPACE#to#SPACE#potassium#SPACE#ion	c$kbp
+c$UMP#SPACE#biosynthetic#SPACE#process	c$prkB
+c$threonine#SPACE#transport	c$sstT c$tdcC c$rhtA
+c$regulation#SPACE#of#SPACE#transposon#SPACE#integration	c$uup
+c$protein#SPACE#deglycosylation	c$mngB c$hchA c$yajL c$yhbO
+c$peptidyl-lysine#SPACE#demalonylation	c$cobB
+c$cellular#SPACE#response#SPACE#to#SPACE#nitrosative#SPACE#stress	c$hmp
+c$melibiose#SPACE#transport	c$melB
+c$organic#SPACE#acid#SPACE#metabolic#SPACE#process	c$ygcW c$kduD
+c$dihydrofolate#SPACE#biosynthetic#SPACE#process	c$folC
+c$divalent#SPACE#inorganic#SPACE#cation#SPACE#transport	c$nikE c$nikD
+c$regulation#SPACE#of#SPACE#pentose-phosphate#SPACE#shunt	c$gpmA
+c$oligopeptide#SPACE#transport	c$tppB c$yejA c$oppA
+c$response#SPACE#to#SPACE#tellurium#SPACE#ion	c$tehA c$tehB
+c$glucarate#SPACE#catabolic#SPACE#process	c$garL
+c$selenocysteine#SPACE#biosynthetic#SPACE#process	c$selD c$selA c$serS
+c$pyrimidine#SPACE#nucleobase#SPACE#metabolic#SPACE#process	c$prkB c$coaA c$upp c$udk
+c$antibiotic#SPACE#catabolic#SPACE#process	c$cof
+c$response#SPACE#to#SPACE#nitrosative#SPACE#stress	c$oxyR c$hmp
+c$amino#SPACE#acid#SPACE#salvage	c$ggt
+c$cadaverine#SPACE#transport	c$cadB
+c$mannose#SPACE#metabolic#SPACE#process	c$mngB
+c$amino#SPACE#sugar#SPACE#catabolic#SPACE#process	c$frlC c$murQ c$ycjR
+c$fatty#SPACE#acid#SPACE#elongation	c$fabI c$fabG
+c$response#SPACE#to#SPACE#butan-1-ol	c$ybjC c$yghW c$yibT
+c$cell#SPACE#wall#SPACE#modification	c$cpdA
+c$D-glucarate#SPACE#catabolic#SPACE#process	c$garR c$garK c$gudD c$garL
+c$detoxification#SPACE#of#SPACE#zinc#SPACE#ion	c$zntA
+c$response#SPACE#to#SPACE#hydroperoxide	c$ahpC c$yaaA c$osmC c$btuE
+c$FMN#SPACE#biosynthetic#SPACE#process	c$ribF
+c$isoprenoid#SPACE#biosynthetic#SPACE#process	c$idi c$elbB
+c$histidyl-tRNA#SPACE#aminoacylation	c$hisS
+c$maturation#SPACE#of#SPACE#LSU-rRNA	c$rplA
+c$ferric-hydroxamate#SPACE#transport	c$fhuC c$fhuB c$fhuD
+c$L-arabinose#SPACE#catabolic#SPACE#process#SPACE#to#SPACE#xylulose#SPACE#5-phosphate	c$araA c$araB c$araD
+c$plasma#SPACE#membrane#SPACE#copper#SPACE#ion#SPACE#transport	c$cusA c$cusB
+c$fructose#SPACE#catabolic#SPACE#process	c$fruK c$fpr
+c$cellular#SPACE#aromatic#SPACE#compound#SPACE#metabolic#SPACE#process	c$yfaU
+c$acetaldehyde#SPACE#catabolic#SPACE#process	c$adhP
+c$aldonic#SPACE#acid#SPACE#catabolic#SPACE#process	c$yjhG c$yagF c$yagE c$yjhH
+c$resolution#SPACE#of#SPACE#recombination#SPACE#intermediates	c$xerD c$xerC
+c$N-terminal#SPACE#peptidyl-alanine#SPACE#trimethylation	c$prmA
+c$chaperone-mediated#SPACE#protein#SPACE#folding	c$hlpA c$ivy c$secB c$dppA c$osmY c$mnmE c$tig c$secA c$ppiD c$fimC c$bepA c$ybbN c$oppA c$spy c$fkpB
+c$copper#SPACE#ion#SPACE#homeostasis	c$cutC c$ndh
+c$NAD#SPACE#biosynthetic#SPACE#process	c$nadC c$nadE c$phnN c$pncB c$feaB
+c$tryptophanyl-tRNA#SPACE#aminoacylation	c$trpS
+c$nucleotide-sugar#SPACE#biosynthetic#SPACE#process	c$fcl c$rfbB
+c$protein#SPACE#homooligomerization	c$yidC c$uvrD c$cutA c$cpoB c$chbA c$lysP c$dcuS
+c$cell#SPACE#adhesion#SPACE#involved#SPACE#in#SPACE#biofilm#SPACE#formation	c$pgaD c$yeeJ c$cpxA c$pgaC c$yfaL c$ycgV
+c$stress#SPACE#response#SPACE#to#SPACE#copper#SPACE#ion	c$ibpB
+c$aldonate#SPACE#transmembrane#SPACE#transport	c$lgoT
+c$geranyl#SPACE#diphosphate#SPACE#biosynthetic#SPACE#process	c$ispA
+c$manganese#SPACE#ion#SPACE#transport	c$mntH
+c$siderophore#SPACE#transmembrane#SPACE#transport	c$cirA c$tonB
+c$tyrosine#SPACE#biosynthetic#SPACE#process	c$pheA c$tyrA
+c$protein#SPACE#phosphorylation	c$srkA c$hprS c$barA c$ptsH c$ppsR c$yeaG c$ptsP c$era c$dcuS c$npr
+c$protein-phosphoribosyl#SPACE#dephospho-coenzyme#SPACE#A#SPACE#linkage	c$citX
+c$cellular#SPACE#response#SPACE#to#SPACE#starvation	c$cstA c$phoU c$argT c$mazG
+c$D-xylose#SPACE#transmembrane#SPACE#transport	c$xylG c$xylF c$xylE
+c$isopentenyl#SPACE#diphosphate#SPACE#biosynthetic#SPACE#process	c$idi
+c$nitrate#SPACE#assimilation	c$narJ c$narW
+c$aerobic#SPACE#cobalamin#SPACE#biosynthetic#SPACE#process	c$btuR
+c$lipoprotein#SPACE#transport	c$lolA c$lolC c$lolE
+c$detection#SPACE#of#SPACE#virus	c$ompA
+c$regulation#SPACE#of#SPACE#tryptophan#SPACE#metabolic#SPACE#process	c$trpL
+c$positive#SPACE#regulation#SPACE#of#SPACE#single-species#SPACE#biofilm#SPACE#formation#SPACE#on#SPACE#inanimate#SPACE#substrate	c$dgcM
+c$protein#SPACE#transport#SPACE#by#SPACE#the#SPACE#Sec#SPACE#complex	c$secY c$secA c$secB c$secE c$secG
+c$positive#SPACE#regulation#SPACE#of#SPACE#ion#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$kefF c$kefG
+c$formate#SPACE#transport	c$focA c$yfdC c$focB
+c$iron#SPACE#assimilation	c$cirA c$fhuF c$yqjH
+c$peptidyl-serine#SPACE#phosphopantetheinylation	c$acpS c$acpT
+c$trehalose#SPACE#catabolic#SPACE#process	c$treA c$treC c$treF
+c$adenosine#SPACE#catabolic#SPACE#process	c$add
+c$anion#SPACE#transport	c$exuT c$dgoT c$lgoT c$garP c$gudP
+c$tRNA#SPACE#processing	c$cmoM c$truC c$rluA c$cmoB c$rbn c$rnd c$rne c$rnpA
+c$alkanesulfonate#SPACE#catabolic#SPACE#process	c$ssuD c$ssuE
+c$protein#SPACE#homotrimerization	c$yrdA c$psuG c$maa c$cusC
+c$response#SPACE#to#SPACE#salt#SPACE#stress	c$ftsK c$uspC c$lepA
+c$isoleucine#SPACE#transport	c$livJ c$brnQ
+c$glucose#SPACE#import	c$malX c$ompL
+c$1-butanol#SPACE#biosynthetic#SPACE#process	c$yqeF c$ydiO
+c$sorbitol#SPACE#transport	c$mtlA
+c$electron#SPACE#transport#SPACE#chain	c$glpC c$dsbB c$icd
+c$manganese#SPACE#ion#SPACE#transmembrane#SPACE#transport	c$mntH c$mntP c$zupT
+c$negative#SPACE#regulation#SPACE#of#SPACE#cell#SPACE#growth	c$mazF c$ybjN c$yhaV c$ykfI c$chpB
+c$zinc#SPACE#ion#SPACE#transmembrane#SPACE#transport	c$ydaN c$znuC c$zitB c$fieF c$pitA c$zntA c$zupT
+c$RNA#SPACE#folding	c$rpsL c$truB
+c$regulation#SPACE#of#SPACE#isomerase#SPACE#activity	c$topAI
+c$cell#SPACE#wall#SPACE#mannoprotein#SPACE#biosynthetic#SPACE#process	c$manA
+c$UMP#SPACE#catabolic#SPACE#process	c$umpG c$udp c$umpH
+c$arginine#SPACE#catabolic#SPACE#process	c$speA c$adiA c$astC c$sad c$astB
+c$lactate#SPACE#catabolic#SPACE#process	c$ykgF
+c$ATP#SPACE#synthesis#SPACE#coupled#SPACE#proton#SPACE#transport	c$atpE c$atpA c$atpC
+c$cell#SPACE#death	c$yjdO c$ldrD c$ldrA
+c$negative#SPACE#regulation#SPACE#of#SPACE#ribosome#SPACE#biogenesis	c$yihI c$obgE c$rsfS
+c$ammonia#SPACE#assimilation#SPACE#cycle	c$gltB c$glnA
+c$adenine#SPACE#catabolic#SPACE#process	c$ade c$adeD
+c$L-phenylalanine#SPACE#biosynthetic#SPACE#process	c$aspC c$pheA c$tyrA
+c$cation#SPACE#transport	c$kefB c$tehA
+c$glycol#SPACE#catabolic#SPACE#process	c$fucO
+c$protein#SPACE#deubiquitination	c$elaD
+c$L-proline#SPACE#biosynthetic#SPACE#process	c$proC c$proA c$proB
+c$'de#SPACE#novo'#SPACE#pyrimidine#SPACE#nucleobase#SPACE#biosynthetic#SPACE#process	c$carA c$pyrC c$pyrF c$pyrD c$pyrE
+c$regulation#SPACE#of#SPACE#protein#SPACE#kinase#SPACE#activity	c$mzrA
+c$isoprenoid#SPACE#biosynthetic#SPACE#process#SPACE#via#SPACE#mevalonate	c$yajO
+c$ferrichrome#SPACE#transport	c$exbB
+c$ribosome#SPACE#assembly	c$obgE c$rhlE
+c$double-strand#SPACE#break#SPACE#repair#SPACE#via#SPACE#homologous#SPACE#recombination	c$recN
+c$carbohydrate#SPACE#catabolic#SPACE#process	c$deoC c$sgbH c$araB c$glgP
+c$cysteine#SPACE#biosynthetic#SPACE#process#SPACE#via#SPACE#cystathionine	c$metB
+c$lysine#SPACE#catabolic#SPACE#process	c$ldcC c$cadA
+c$coenzyme#SPACE#A#SPACE#biosynthetic#SPACE#process	c$coaE c$coaD c$dfp c$coaA
+c$RNA#SPACE#(guanine-N7)-methylation	c$trmI
+c$positive#SPACE#regulation#SPACE#of#SPACE#GTPase#SPACE#activity	c$yihI c$slmA c$tsf
+c$serine#SPACE#transport	c$sstT c$tdcC
+c$nitric#SPACE#oxide#SPACE#catabolic#SPACE#process	c$norW c$norV c$hcp
+c$magnesium#SPACE#ion#SPACE#transport	c$corA
+c$positive#SPACE#chemotaxis	c$dppA c$rbsB c$fliM
+c$lysine#SPACE#biosynthetic#SPACE#process	c$dapD
+c$D-xylose#SPACE#metabolic#SPACE#process	c$xylG c$xylH c$xylF
+c$uridine#SPACE#transport	c$nupC c$nupG
+c$trehalose#SPACE#metabolism#SPACE#in#SPACE#response#SPACE#to#SPACE#stress	c$otsA
+c$rolling#SPACE#circle#SPACE#DNA#SPACE#replication	c$uvrD
+c$positive#SPACE#regulation#SPACE#of#SPACE#lyase#SPACE#activity	c$eutA
+c$cellular#SPACE#response#SPACE#to#SPACE#magnesium#SPACE#ion	c$borD c$mgrB
+c$succinate#SPACE#transmembrane#SPACE#transport	c$dctA c$satP c$dauA
+c$copper#SPACE#ion#SPACE#transport	c$copA c$yebZ c$yobA
+c$protein#SPACE#polymerization	c$ftsZ
+c$thiamine#SPACE#transmembrane#SPACE#transport	c$thiQ c$thiP c$tbpA
+c$riboflavin#SPACE#biosynthetic#SPACE#process	c$ybjI c$yigB c$ribE c$ribB c$ribC c$ribD c$ribA
+c$hexuronate#SPACE#transmembrane#SPACE#transport	c$exuT
+c$monocarboxylic#SPACE#acid#SPACE#transport	c$fadL
+c$sulfur#SPACE#compound#SPACE#catabolic#SPACE#process	c$tauD
+c$respiratory#SPACE#electron#SPACE#transport#SPACE#chain	c$dld c$cyoB c$fdoH c$sdhB c$nuoE
+c$negative#SPACE#regulation#SPACE#of#SPACE#bacterial-type#SPACE#flagellum#SPACE#assembly	c$dgcZ c$ybjN
+c$isoleucyl-tRNA#SPACE#aminoacylation	c$ileS
+c$tyrosine#SPACE#biosynthetic#SPACE#process#SPACE#from#SPACE#chorismate#SPACE#via#SPACE#4-hydroxyphenylpyruvate	c$tyrB
+c$urate#SPACE#transport	c$uacT
+c$phosphatidic#SPACE#acid#SPACE#biosynthetic#SPACE#process	c$dgkA
+c$base-excision#SPACE#repair#COMMA##SPACE#DNA#SPACE#ligation	c$ligB c$ligA
+c$establishment#SPACE#or#SPACE#maintenance#SPACE#of#SPACE#cell#SPACE#polarity#SPACE#regulating#SPACE#cell#SPACE#shape	c$mreC
+c$regulation#SPACE#of#SPACE#DNA#SPACE#binding#SPACE#transcription#SPACE#factor#SPACE#activity	c$mtfA c$sxy
+c$guanosine#SPACE#tetraphosphate#SPACE#metabolic#SPACE#process	c$spoT c$relA
+c$provirus#SPACE#excision	c$xisR c$intS c$intA
+c$nitrate#SPACE#transport	c$narU c$clcA c$narK
+c$nucleoside#SPACE#triphosphate#SPACE#biosynthetic#SPACE#process	c$sucD c$fdrA c$yahF
+c$response#SPACE#to#SPACE#metal#SPACE#ion	c$evgS c$qseB
+c$glycerophospholipid#SPACE#metabolic#SPACE#process	c$lplT
+c$cell#SPACE#septum#SPACE#assembly	c$ftsQ c$zipA c$zapB
+c$conversion#SPACE#of#SPACE#methionyl-tRNA#SPACE#to#SPACE#N-formyl-methionyl-tRNA	c$fmt
+c$oligopeptide#SPACE#transmembrane#SPACE#transport	c$oppB c$yejB c$yejE c$yejF
+c$alpha-glucan#SPACE#catabolic#SPACE#process	c$malZ c$malS c$malP
+c$response#SPACE#to#SPACE#reactive#SPACE#oxygen#SPACE#species	c$yqhD c$rpmF
+c$homocysteine#SPACE#metabolic#SPACE#process	c$metE c$metH
+c$ethanol#SPACE#biosynthetic#SPACE#process	c$adhE
+c$polyphosphate#SPACE#catabolic#SPACE#process	c$ppx
+c$peptidyl-lysine#SPACE#desuccinylation	c$cobB
+c$recombinational#SPACE#repair	c$radA c$ruvC c$ruvB c$ruvA c$ssb
+c$isopentenyl#SPACE#diphosphate#SPACE#biosynthetic#SPACE#process#COMMA##SPACE#methylerythritol#SPACE#4-phosphate#SPACE#pathway#SPACE#involved#SPACE#in#SPACE#terpenoid#SPACE#biosynthetic#SPACE#process	c$dxr
+c$positive#SPACE#regulation#SPACE#of#SPACE#tryptophan#SPACE#metabolic#SPACE#process	c$tnaC
+c$L-serine#SPACE#metabolic#SPACE#process	c$serC
+c$nucleoside#SPACE#metabolic#SPACE#process	c$prs c$upp
+c$hexose#SPACE#metabolic#SPACE#process	c$mak
+c$pyridoxal#SPACE#metabolic#SPACE#process	c$pdxY
+c$oligosaccharide#SPACE#transport	c$nanC c$chiP c$ompG c$ompL
+c$spermidine#SPACE#biosynthetic#SPACE#process	c$speD c$speC c$speE
+c$negative#SPACE#regulation#SPACE#of#SPACE#purine#SPACE#nucleotide#SPACE#biosynthetic#SPACE#process	c$purR
+c$replication#SPACE#fork#SPACE#arrest#SPACE#involved#SPACE#in#SPACE#DNA#SPACE#replication#SPACE#termination	c$tus
+c$arginine#SPACE#transmembrane#SPACE#transport	c$argO c$adiC
+c$siderophore#SPACE#biosynthetic#SPACE#process	c$ybdZ
+c$negative#SPACE#regulation#SPACE#of#SPACE#protein#SPACE#polymerization	c$sulA c$slmA
+c$peptidyl-lysine#SPACE#deacetylation	c$dhaM c$cobB
+c$CMP#SPACE#biosynthetic#SPACE#process	c$prkB c$udk
+c$pentose-phosphate#SPACE#shunt	c$pgl c$tktA c$gnd c$tktB c$zwf
+c$glycolipid#SPACE#translocation	c$murJ
+c$cellular#SPACE#response#SPACE#to#SPACE#mercury#SPACE#ion	c$gshA c$glpF
+c$sulfur#SPACE#incorporation#SPACE#into#SPACE#metallo-sulfur#SPACE#cluster	c$sufS c$sufE
+c$positive#SPACE#regulation#SPACE#of#SPACE#secondary#SPACE#metabolite#SPACE#biosynthetic#SPACE#process	c$ybiI
+c$dihydrofolate#SPACE#metabolic#SPACE#process	c$folA
+c$cardiolipin#SPACE#biosynthetic#SPACE#process	c$clsC c$clsB c$clsA
+c$cell#SPACE#wall#SPACE#macromolecule#SPACE#biosynthetic#SPACE#process	c$rfe c$mraY
+c$maintenance#SPACE#of#SPACE#translational#SPACE#fidelity	c$rpsL c$rpsD c$rpsE
+c$base-excision#SPACE#repair#COMMA##SPACE#AP#SPACE#site#SPACE#formation	c$nth c$mutM c$alkA c$mug
+c$negative#SPACE#regulation#SPACE#of#SPACE#translation#SPACE#in#SPACE#response#SPACE#to#SPACE#stress	c$rmf
+c$spermidine#SPACE#transport	c$mdtJ c$mdtI c$potD
+c$propanediol#SPACE#metabolic#SPACE#process	c$fucO
+c$organophosphate#SPACE#ester#SPACE#transport	c$phnC
+c$cellular#SPACE#response#SPACE#to#SPACE#sulfate#SPACE#starvation	c$ssuE c$ahpC c$tauA
+c$biotin#SPACE#transport	c$bioP
+c$protein#SPACE#stabilization	c$hlpA c$slyD c$exbD c$surA c$exbB
+c$selenocysteine#SPACE#metabolic#SPACE#process	c$selB
+c$'de#SPACE#novo'#SPACE#pyridoxal#SPACE#5'-phosphate#SPACE#biosynthetic#SPACE#process	c$pdxB
+c$lipoate#SPACE#metabolic#SPACE#process	c$lipB
+c$protein#SPACE#glycosylation	c$manA
+c$aspartate#SPACE#biosynthetic#SPACE#process	c$ilvE c$tyrB
+c$ATP-independent#SPACE#chaperone#SPACE#mediated#SPACE#protein#SPACE#folding	c$cpxP c$spy
+c$polyprenol#SPACE#biosynthetic#SPACE#process	c$ispB c$ispU
+c$(R)-carnitine#SPACE#transmembrane#SPACE#transport	c$caiT
+c$negative#SPACE#regulation#SPACE#of#SPACE#endopeptidase#SPACE#activity	c$eco c$yfhM
+c$ATP#SPACE#generation#SPACE#from#SPACE#ADP	c$ppk
+c$cobalt#SPACE#ion#SPACE#transport	c$corA c$mntH c$zntA c$zupT
+c$response#SPACE#to#SPACE#blue#SPACE#light	c$bluF
+c$nickel#SPACE#cation#SPACE#homeostasis	c$rcnA
+c$positive#SPACE#aerotaxis	c$aer
+c$rhamnose#SPACE#metabolic#SPACE#process	c$rhaM
+c$tRNA#SPACE#methylthiolation	c$miaB
+c$response#SPACE#to#SPACE#light#SPACE#stimulus	c$ubiH c$hemH
+c$folic#SPACE#acid-containing#SPACE#compound#SPACE#biosynthetic#SPACE#process	c$pabB c$fau
+c$protein#SPACE#catabolic#SPACE#process	c$ftsH c$clpX c$prc
+c$positive#SPACE#regulation#SPACE#of#SPACE#cellular#SPACE#carbohydrate#SPACE#metabolic#SPACE#process	c$glgS
+c$regulation#SPACE#of#SPACE#beta-glucan#SPACE#biosynthetic#SPACE#process	c$mdoD
+c$regulation#SPACE#of#SPACE#division#SPACE#septum#SPACE#assembly	c$minE c$minC
+c$cellular#SPACE#response#SPACE#to#SPACE#misfolded#SPACE#protein	c$degS
+c$lysophospholipid#SPACE#transport	c$lplT
+c$malate#SPACE#transmembrane#SPACE#transport	c$dctA
+c$ferric-enterobactin#SPACE#transport	c$fepA c$fepC c$fepD c$fepG c$fepE c$fepB
+c$pre-replicative#SPACE#complex#SPACE#assembly#SPACE#involved#SPACE#in#SPACE#nuclear#SPACE#cell#SPACE#cycle#SPACE#DNA#SPACE#replication	c$dnaT
+c$carnitine#SPACE#transport	c$caiT
+c$positive#SPACE#regulation#SPACE#of#SPACE#type#SPACE#IV#SPACE#pilus#SPACE#biogenesis	c$sxy
+c$cellulose#SPACE#biosynthetic#SPACE#process	c$bcsQ
+c$negative#SPACE#regulation#SPACE#of#SPACE#transcription#SPACE#regulatory#SPACE#region#SPACE#DNA#SPACE#binding	c$ydiV
+c$aminophosphonate#SPACE#metabolic#SPACE#process	c$phnO
+c$tRNA#SPACE#N1-guanine#SPACE#methylation	c$trmD
+c$ferrous#SPACE#iron#SPACE#transmembrane#SPACE#transport	c$fieF c$feoB c$zupT
+c$threonine#SPACE#metabolic#SPACE#process	c$tdcF c$ilvA
+c$cellular#SPACE#potassium#SPACE#ion#SPACE#homeostasis	c$chaA
+c$5-phosphoribose#SPACE#1-diphosphate#SPACE#biosynthetic#SPACE#process	c$prs c$phnN
+c$glucose#SPACE#catabolic#SPACE#process	c$pfkA c$agp
+c$methylglyoxal#SPACE#metabolic#SPACE#process	c$gpr
+c$positive#SPACE#regulation#SPACE#of#SPACE#sulfur#SPACE#utilization	c$cbl
+c$negative#SPACE#regulation#SPACE#of#SPACE#GTPase#SPACE#activity	c$sulA
+c$xenobiotic#SPACE#transport	c$mdlA c$macB c$mdlB
+c$urea#SPACE#cycle	c$argI c$ygeW c$carA c$argG c$argF c$pyrB c$carB
+c$cytolysis#SPACE#in#SPACE#other#SPACE#organism	c$hlyE
+c$D-alanine#SPACE#biosynthetic#SPACE#process	c$alr c$avtA c$alaC c$alaA
+c$regulation#SPACE#of#SPACE#chromosome#SPACE#segregation	c$mreB
+c$tRNA#SPACE#nucleoside#SPACE#ribose#SPACE#methylation	c$yjtD c$trmJ
+c$protein#SPACE#secretion	c$tamB c$tamA
+c$peptidyl-cysteine#SPACE#methylation	c$ada
+c$regulation#SPACE#of#SPACE#cellular#SPACE#pH	c$mdtM c$mdfA
+c$thymine#SPACE#metabolic#SPACE#process	c$yjjG
+c$3-(3-hydroxy)phenylpropionate#SPACE#catabolic#SPACE#process	c$mhpB c$mhpC c$mhpA
+c$negative#SPACE#regulation#SPACE#of#SPACE#hydrolase#SPACE#activity	c$aes
+c$bacterial#SPACE#cellulose#SPACE#biosynthetic#SPACE#process	c$bcsA c$yhjR c$bcsQ
+c$asparagine#SPACE#biosynthetic#SPACE#process	c$asnB c$asnA
+c$trehalose#SPACE#metabolism#SPACE#in#SPACE#response#SPACE#to#SPACE#cold#SPACE#stress	c$otsA c$otsB
+c$negative#SPACE#regulation#SPACE#of#SPACE#siderophore#SPACE#biosynthetic#SPACE#process	c$fur
+c$glycerophospholipid#SPACE#biosynthetic#SPACE#process	c$pgpA c$pgpC c$pgpB c$gpsA c$plsC
+c$cellular#SPACE#response#SPACE#to#SPACE#amino#SPACE#acid#SPACE#starvation	c$relE c$tas c$leuB
+c$glyoxylate#SPACE#catabolic#SPACE#process	c$glcB c$gcl c$glxR c$glxK
+c$enzyme-directed#SPACE#rRNA#SPACE#2'-O-methylation	c$rsmI c$rlmM c$rlmB c$rlmE c$yfiF
+c$ferric#SPACE#iron#SPACE#transport	c$fecA c$afuC
+c$propionate#SPACE#metabolic#SPACE#process#COMMA##SPACE#methylcitrate#SPACE#cycle	c$prpD c$scpC c$prpC
+c$glycine#SPACE#catabolic#SPACE#process	c$gcvP c$glyA
+c$negative#SPACE#regulation#SPACE#of#SPACE#protein#SPACE#transport	c$napD
+c$glutathione#SPACE#biosynthetic#SPACE#process	c$gshA c$gshB
+c$purine#SPACE#ribonucleoside#SPACE#salvage	c$hpt
+c$protein#SPACE#autoprocessing	c$iaaA c$panD
+c$tRNA#SPACE#wobble#SPACE#base#SPACE#modification	c$gluQ
+c$protein#SPACE#biotinylation	c$birA
+c$inorganic#SPACE#anion#SPACE#transport	c$crcB
+c$phenylethylamine#SPACE#catabolic#SPACE#process	c$tynA c$feaB
+c$cytosine#SPACE#transport	c$codB
+c$copper#SPACE#ion#SPACE#transmembrane#SPACE#transport	c$zupT
+c$hydrogen#SPACE#peroxide#SPACE#catabolic#SPACE#process	c$katE c$katG
+c$colicin#SPACE#transport	c$fepA c$tonB
+c$oxazole#SPACE#or#SPACE#thiazole#SPACE#biosynthetic#SPACE#process	c$iscS
+c$chaperone-mediated#SPACE#protein#SPACE#transport#SPACE#across#SPACE#periplasmic#SPACE#space	c$lolA
+c$galactonate#SPACE#catabolic#SPACE#process	c$lgoR
+c$asparagine#SPACE#catabolic#SPACE#process	c$ansA c$ansB
+c$response#SPACE#to#SPACE#methylglyoxal	c$hchA c$yqiI c$yjjQ c$kefC c$ydbD
+c$glycerophosphodiester#SPACE#transmembrane#SPACE#transport	c$ugpE c$ugpA c$ugpC c$ugpB
+c$cysteine#SPACE#biosynthetic#SPACE#process	c$yhfS c$cysZ
+c$fluoride#SPACE#transmembrane#SPACE#transport	c$crcB
+c$ketogluconate#SPACE#catabolic#SPACE#process	c$ghrB
+c$regulation#SPACE#of#SPACE#protein#SPACE#complex#SPACE#assembly	c$syd
+c$hemolysis#SPACE#in#SPACE#other#SPACE#organism	c$hlyE
+c$thymidine#SPACE#metabolic#SPACE#process	c$tdk
+c$uracil#SPACE#transmembrane#SPACE#transport	c$rutG c$uraA
+c$GDP-mannose#SPACE#metabolic#SPACE#process	c$gmd
+c$positive#SPACE#regulation#SPACE#of#SPACE#mRNA#SPACE#cleavage	c$greB
+c$DNA-templated#SPACE#transcription#COMMA##SPACE#elongation	c$greA
+c$enterobactin#SPACE#catabolic#SPACE#process	c$fes
+c$protein-chromophore#SPACE#linkage	c$phr
+c$fructose#SPACE#metabolic#SPACE#process	c$fbp
+c$negative#SPACE#regulation#SPACE#of#SPACE#carbohydrate#SPACE#metabolic#SPACE#process	c$crr
+c$homoserine#SPACE#metabolic#SPACE#process	c$thrB
+c$Kdo2-lipid#SPACE#A#SPACE#biosynthetic#SPACE#process	c$lpxP c$lpxM
+c$beta-glucan#SPACE#biosynthetic#SPACE#process	c$mdoD c$mdoG c$mdoH
+c$proteolysis#SPACE#involved#SPACE#in#SPACE#cellular#SPACE#protein#SPACE#catabolic#SPACE#process	c$degQ c$hslV
+c$cellular#SPACE#response#SPACE#to#SPACE#silver#SPACE#ion	c$copA c$cusS
+c$regulation#SPACE#of#SPACE#peptidase#SPACE#activity	c$hflC
+c$cellular#SPACE#response#SPACE#to#SPACE#nitrogen#SPACE#starvation	c$argT c$yeaG
+c$D-methionine#SPACE#transport	c$metN c$metI c$metQ
+c$arabinose#SPACE#catabolic#SPACE#process	c$araC c$araA c$araB
+c$negative#SPACE#regulation#SPACE#of#SPACE#cyclase#SPACE#activity	c$pdeR
+c$peptidyl-L-beta-methylthioaspartic#SPACE#acid#SPACE#biosynthetic#SPACE#process#SPACE#from#SPACE#peptidyl-aspartic#SPACE#acid	c$ycaO c$rimO
+c$bacterial-type#SPACE#flagellum-dependent#SPACE#swimming#SPACE#motility	c$cheZ
+c$molybdate#SPACE#ion#SPACE#transport	c$modC c$modB c$modA
+c$response#SPACE#to#SPACE#xenobiotic#SPACE#stimulus	c$yjjG
+c$cellular#SPACE#response#SPACE#to#SPACE#nickel#SPACE#ion	c$yqjH
+c$fumarate#SPACE#metabolic#SPACE#process	c$fumC
+c$fatty#SPACE#acid#SPACE#alpha-oxidation	c$oxc
+c$diaminopimelate#SPACE#transport	c$tcyJ c$tcyL c$tcyN
+c$adenine#SPACE#transport	c$adeP c$adeQ
+c$L-arabinose#SPACE#transmembrane#SPACE#transport	c$araG c$araE c$araF
+c$positive#SPACE#regulation#SPACE#of#SPACE#RNA#SPACE#splicing	c$rpsL
+c$phosphatidylethanolamine#SPACE#biosynthetic#SPACE#process	c$psd
+c$pyridoxal#SPACE#phosphate#SPACE#biosynthetic#SPACE#process	c$serC c$pdxA c$pdxH c$epd
+c$tripeptide#SPACE#transport	c$mppA
+c$succinyl-CoA#SPACE#metabolic#SPACE#process	c$sucD c$fdrA c$yahF
+c$cellular#SPACE#hyperosmotic#SPACE#response	c$treA c$yggT c$osmF c$treF
+c$chloride#SPACE#transmembrane#SPACE#transport	c$clcB c$clcA
+c$S-adenosylmethionine#SPACE#cycle	c$metK
+c$acetate#SPACE#biosynthetic#SPACE#process	c$ackA c$pta
+c$2-oxoglutarate#SPACE#metabolic#SPACE#process	c$lpd
+c$L-galactonate#SPACE#catabolic#SPACE#process	c$lgoD
+c$D-allose#SPACE#catabolic#SPACE#process	c$rpiB c$alsK c$alsE
+c$3#COMMA#4-dihydroxybenzoate#SPACE#biosynthetic#SPACE#process	c$aroD
+c$chromosome#SPACE#organization	c$parE c$matP c$maoP
+c$NADP#SPACE#catabolic#SPACE#process	c$nudC
+c$oligosaccharide#SPACE#metabolic#SPACE#process	c$mdoC
+c$glycosyl#SPACE#compound#SPACE#metabolic#SPACE#process	c$bglB c$bglA c$ascB
+c$pyrimidine#SPACE#deoxyribonucleotide#SPACE#salvage	c$yfbR
+c$triglyceride#SPACE#biosynthetic#SPACE#process	c$plsB
+c$DNA#SPACE#excision	c$torI
+c$chorismate#SPACE#biosynthetic#SPACE#process	c$aroA c$aroE c$aroC c$ydiB
+c$tRNA#SPACE#wobble#SPACE#guanine#SPACE#modification	c$queA c$tgt
+c$clearance#SPACE#of#SPACE#foreign#SPACE#intracellular#SPACE#DNA	c$recC c$recB
+c$peptidyl-serine#SPACE#phosphorylation	c$aceK
+c$glycolate#SPACE#transmembrane#SPACE#transport	c$actP
+c$DNA#SPACE#replication#COMMA##SPACE#synthesis#SPACE#of#SPACE#RNA#SPACE#primer	c$dnaG
+c$'de#SPACE#novo'#SPACE#AMP#SPACE#biosynthetic#SPACE#process	c$purA
+c$cyclic#SPACE#threonylcarbamoyladenosine#SPACE#biosynthetic#SPACE#process	c$tcdA
+c$response#SPACE#to#SPACE#silver#SPACE#ion	c$cusA c$cusF c$cusC c$cusB
+c$mannitol#SPACE#transport	c$mtlA c$cmtA
+c$lead#SPACE#ion#SPACE#transport	c$zntA
+c$regulation#SPACE#of#SPACE#translational#SPACE#fidelity	c$tsaC c$alaS c$ileS c$ybaK c$proS c$leuS c$dtd
+c$fatty#SPACE#acid#SPACE#beta-oxidation#COMMA##SPACE#unsaturated#COMMA##SPACE#even#SPACE#number#COMMA##SPACE#reductase/isomerase#SPACE#pathway	c$fadH
+c$negative#SPACE#regulation#SPACE#of#SPACE#ion#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$phoU
+c$regulation#SPACE#of#SPACE#ATPase#SPACE#activity	c$kdpF
+c$FAD#SPACE#transmembrane#SPACE#transport	c$yeeO
+c$osmosensory#SPACE#signaling#SPACE#via#SPACE#phosphorelay#SPACE#pathway	c$kdpD
+c$response#SPACE#to#SPACE#nutrient	c$creC
+c$'de#SPACE#novo'#SPACE#cotranslational#SPACE#protein#SPACE#folding	c$tig
+c$ribosome#SPACE#disassembly	c$hflX c$infC
+c$inositol#SPACE#metabolic#SPACE#process	c$suhB
+c$aspartyl-tRNA#SPACE#aminoacylation	c$aspS
+c$benzoate#SPACE#transport	c$ydcO
+c$response#SPACE#to#SPACE#magnesium#SPACE#ion	c$pgpA
+c$cytoplasmic#SPACE#translation	c$rplB c$rplF
+c$cyclic-nucleotide-mediated#SPACE#signaling	c$pdeR c$dgcM
+c$amino#SPACE#acid#SPACE#activation#SPACE#for#SPACE#nonribosomal#SPACE#peptide#SPACE#biosynthetic#SPACE#process	c$entF
+c$N-acetylglucosamine#SPACE#catabolic#SPACE#process	c$yieK c$agaI c$nagA c$nagB
+c$valine#SPACE#transport	c$ygaZ c$livJ c$ygaH c$brnQ
+c$regulation#SPACE#of#SPACE#protein#SPACE#homooligomerization	c$pka
+c$CTP#SPACE#biosynthetic#SPACE#process	c$pyrG
+c$DNA-templated#SPACE#transcription#COMMA##SPACE#termination	c$nusG c$rho
+c$cellular#SPACE#response#SPACE#to#SPACE#amino#SPACE#acid#SPACE#stimulus	c$yjeH
+c$negative#SPACE#regulation#SPACE#of#SPACE#translation#COMMA##SPACE#ncRNA-mediated	c$hfq
+c$L-asparagine#SPACE#biosynthetic#SPACE#process	c$asnB
+c$tellurite#SPACE#transport	c$actP c$pitA
+c$plasma#SPACE#membrane#SPACE#ATP#SPACE#synthesis#SPACE#coupled#SPACE#proton#SPACE#transport	c$atpB
+c$homoserine#SPACE#transport	c$rhtC c$rhtB c$leuE
+c$regulation#SPACE#of#SPACE#DNA#SPACE#replication	c$dnaA
+c$carbon#SPACE#catabolite#SPACE#regulation#SPACE#of#SPACE#transcription	c$lldR
+c$rRNA#SPACE#acetylation#SPACE#involved#SPACE#in#SPACE#maturation#SPACE#of#SPACE#SSU-rRNA	c$tmcA
+c$regulation#SPACE#of#SPACE#cell-substrate#SPACE#adhesion	c$cpxR c$nlpE
+c$ferredoxin#SPACE#metabolic#SPACE#process	c$yfaE
+c$glycine#SPACE#biosynthetic#SPACE#process	c$ltaE
+c$cellular#SPACE#cadmium#SPACE#ion#SPACE#homeostasis	c$fieF
+c$NADH#SPACE#metabolic#SPACE#process	c$nudC
+c$glycolytic#SPACE#process#SPACE#through#SPACE#fructose-6-phosphate	c$pfkA c$pfkB
+c$glycine#SPACE#transport	c$cycA
+c$protein#SPACE#acetylation	c$cheY
+c$aromatic#SPACE#compound#SPACE#catabolic#SPACE#process	c$mhpC c$mhpD
+c$glycogen#SPACE#metabolic#SPACE#process	c$malQ
+c$ubiquinone#SPACE#biosynthetic#SPACE#process#SPACE#from#SPACE#chorismate	c$ubiJ
+c$protein#SPACE#deacetylation	c$acs
+c$cellular#SPACE#manganese#SPACE#ion#SPACE#homeostasis	c$mntS
+c$protoporphyrinogen#SPACE#IX#SPACE#biosynthetic#SPACE#process	c$hemL c$hemD c$hemN c$hemC
+c$regulation#SPACE#of#SPACE#cytoplasmic#SPACE#translation#SPACE#in#SPACE#response#SPACE#to#SPACE#stress	c$miaA
+c$guanine#SPACE#salvage	c$hpt
+c$quinolinate#SPACE#biosynthetic#SPACE#process	c$nadA
+c$negative#SPACE#chemotaxis	c$nikA
+c$viral#SPACE#latency	c$hflX
+c$glutamyl-tRNA#SPACE#aminoacylation	c$gluQ c$gltX
+c$oligosaccharide-lipid#SPACE#intermediate#SPACE#biosynthetic#SPACE#process	c$mdoB
+c$multi-organism#SPACE#process	c$clpX
+c$carbon#SPACE#catabolite#SPACE#repression#SPACE#of#SPACE#transcription	c$crp
+c$dodecyl#SPACE#sulfate#SPACE#metabolic#SPACE#process	c$yjcS
+c$cellular#SPACE#response#SPACE#to#SPACE#nitrate	c$narX c$narQ
+c$purine#SPACE#ribonucleoside#SPACE#monophosphate#SPACE#biosynthetic#SPACE#process	c$add
+c$hexuronide#SPACE#transport	c$exuT
+c$tetrahydrofolate#SPACE#interconversion	c$metE c$metH c$fau
+c$oxidative#SPACE#single-stranded#SPACE#DNA#SPACE#demethylation	c$alkB
+c$response#SPACE#to#SPACE#alkane	c$acrF
+c$one-carbon#SPACE#metabolic#SPACE#process	c$purU c$metF c$folD
+c$guanine#SPACE#transmembrane#SPACE#transport	c$ghxQ c$ghxP
+c$negative#SPACE#regulation#SPACE#of#SPACE#proteolysis	c$flgM
+c$cellular#SPACE#amino#SPACE#acid#SPACE#biosynthetic#SPACE#process	c$serB c$asnB c$ilvM c$cysK c$dapB c$asnA c$aspA c$carB
+c$response#SPACE#to#SPACE#arsenic-containing#SPACE#substance	c$arsR c$arsB c$arsC
+c$iron#SPACE#chelate#SPACE#transport	c$fhuC c$fecD c$fecC c$fecB
+c$mannosylglycerate#SPACE#transport	c$mngA
+c$cellular#SPACE#response#SPACE#to#SPACE#cadmium#SPACE#ion	c$ychH c$ygiW
+c$siderophore#SPACE#transport	c$fiu c$tonB
+c$tRNA#SPACE#aminoacylation	c$pheS c$thrS c$tyrS
+c$alanine#SPACE#catabolic#SPACE#process	c$lrp
+c$2'-deoxyribonucleotide#SPACE#biosynthetic#SPACE#process	c$nrdD
+c$GDP#SPACE#metabolic#SPACE#process	c$gmk
+c$transcription-coupled#SPACE#nucleotide-excision#SPACE#repair#COMMA##SPACE#DNA#SPACE#damage#SPACE#recognition	c$mfd
+c$L-idonate#SPACE#transmembrane#SPACE#transport	c$idnT
+c$siroheme#SPACE#biosynthetic#SPACE#process	c$cysG
+c$wobble#SPACE#position#SPACE#cytosine#SPACE#ribose#SPACE#methylation	c$trmL
+c$establishment#SPACE#of#SPACE#localization#SPACE#in#SPACE#cell	c$cheA c$cheW
+c$shikimate#SPACE#transmembrane#SPACE#transport	c$shiA
+c$negative#SPACE#regulation#SPACE#of#SPACE#DNA#SPACE#replication	c$cspD
+c$L-alanine#SPACE#biosynthetic#SPACE#process	c$avtA
+c$mannose#SPACE#transmembrane#SPACE#transport	c$manX c$manY c$manZ
+c$anaerobic#SPACE#amino#SPACE#acid#SPACE#catabolic#SPACE#process	c$tdcD
+c$cellular#SPACE#oligosaccharide#SPACE#catabolic#SPACE#process	c$malS c$malZ
+c$glucan#SPACE#catabolic#SPACE#process	c$bglX
+c$arginyl-tRNA#SPACE#aminoacylation	c$argS
+c$ribonucleoside#SPACE#catabolic#SPACE#process	c$rihC
+c$pathogenesis	c$hlyE c$phoU
+c$lactose#SPACE#catabolic#SPACE#process	c$ebgA c$lacZ
+c$regulation#SPACE#of#SPACE#DNA-templated#SPACE#transcription#COMMA##SPACE#elongation	c$greA c$greB
+c$tyrosyl-tRNA#SPACE#aminoacylation	c$tyrS
+c$co-translational#SPACE#protein#SPACE#modification	c$def
+c$polyphosphate#SPACE#biosynthetic#SPACE#process	c$ppk
+c$galactose#SPACE#metabolic#SPACE#process	c$yidK c$galE
+c$regulation#SPACE#of#SPACE#response#SPACE#to#SPACE#drug	c$baeR
+c$regulation#SPACE#of#SPACE#pH	c$kefC
+c$glucose#SPACE#transmembrane#SPACE#transport	c$ptsG
+c$arginine#SPACE#deiminase#SPACE#pathway	c$arcC c$yqeA c$yahI
+c$hypoxanthine#SPACE#oxidation	c$xdhB
+c$UDP#SPACE#biosynthetic#SPACE#process	c$pyrH
+c$D-cysteine#SPACE#catabolic#SPACE#process	c$dcyD
+c$maintenance#SPACE#of#SPACE#stationary#SPACE#phase	c$surA
+c$histidine#SPACE#transport	c$hisP
+c$quinone#SPACE#metabolic#SPACE#process	c$entH c$menI
+c$purine#SPACE#nucleoside#SPACE#interconversion	c$deoD
+c$guanine#SPACE#import#SPACE#across#SPACE#plasma#SPACE#membrane	c$ghxQ c$ghxP
+c$monosaccharide#SPACE#catabolic#SPACE#process	c$dhaK
+c$tRNA#SPACE#3'-end#SPACE#processing	c$rnt c$rph
+c$positive#SPACE#regulation#SPACE#of#SPACE#cytokinesis	c$sdiA
+c$response#SPACE#to#SPACE#L-cysteine	c$yhaM c$yhaO
+c$tRNA#SPACE#catabolic#SPACE#process	c$rnb
+c$post-translational#SPACE#protein#SPACE#acetylation	c$acs
+c$carbon#SPACE#dioxide#SPACE#transport	c$amtB
+c$positive#SPACE#regulation#SPACE#of#SPACE#single-species#SPACE#biofilm#SPACE#formation	c$ypdB
+c$negative#SPACE#regulation#SPACE#of#SPACE#division#SPACE#septum#SPACE#assembly	c$slmA
+c$D-ribose#SPACE#catabolic#SPACE#process	c$rbsK c$rbsD
+c$putrescine#SPACE#biosynthetic#SPACE#process#SPACE#from#SPACE#arginine	c$speA
+c$Mo(VI)-molybdopterin#SPACE#cytosine#SPACE#dinucleotide#SPACE#biosynthetic#SPACE#process	c$mocA
+c$asparaginyl-tRNA#SPACE#aminoacylation	c$asnS
+c$regulation#SPACE#of#SPACE#DNA-templated#SPACE#transcription#COMMA##SPACE#termination	c$rof
+c$self#SPACE#proteolysis	c$ggt
+c$pyruvate#SPACE#catabolic#SPACE#process	c$poxB
+c$positive#SPACE#regulation#SPACE#of#SPACE#proteolysis	c$rssB
+c$sulfur#SPACE#amino#SPACE#acid#SPACE#transport	c$yijE
+c$3'-phosphoadenosine#SPACE#5'-phosphosulfate#SPACE#metabolic#SPACE#process	c$cysQ
+c$sulfur#SPACE#compound#SPACE#transport	c$yihO
+c$UTP#SPACE#catabolic#SPACE#process	c$mazG
+c$inosine#SPACE#catabolic#SPACE#process	c$xapA
+c$response#SPACE#to#SPACE#hydrostatic#SPACE#pressure	c$mrr
+c$IMP#SPACE#salvage	c$hpt c$gpt
+c$long-chain#SPACE#fatty#SPACE#acid#SPACE#metabolic#SPACE#process	c$fadD
+c$regulation#SPACE#of#SPACE#cellular#SPACE#component#SPACE#movement	c$ycgR
+c$fatty#SPACE#acid#SPACE#oxidation	c$fadR c$fadK
+c$inosine#SPACE#biosynthetic#SPACE#process	c$add
+c$cellular#SPACE#modified#SPACE#amino#SPACE#acid#SPACE#catabolic#SPACE#process	c$ytfP
+c$galactitol#SPACE#catabolic#SPACE#process	c$gatY c$gatD
+c$'de#SPACE#novo'#SPACE#IMP#SPACE#biosynthetic#SPACE#process	c$purL c$purN
+c$response#SPACE#to#SPACE#organonitrogen#SPACE#compound	c$ptsN c$ptsP c$npr
+c$arsenate#SPACE#ion#SPACE#transmembrane#SPACE#transport	c$pitA
+c$nucleobase-containing#SPACE#small#SPACE#molecule#SPACE#metabolic#SPACE#process	c$xapA c$xapB
+c$lactate#SPACE#oxidation	c$lldD c$dld
+c$cellular#SPACE#catabolic#SPACE#process	c$gudX
+c$negative#SPACE#regulation#SPACE#of#SPACE#molecular#SPACE#function	c$sdhE c$mgrB c$yafN
+c$asparagine#SPACE#catabolic#SPACE#process#SPACE#via#SPACE#L-aspartate	c$ansA
+c$xanthosine#SPACE#transport	c$xapB
+c$arginine#SPACE#transport	c$artJ
+c$protein#SPACE#deglycation	c$yajL
+c$cellular#SPACE#response#SPACE#to#SPACE#metal#SPACE#ion	c$cueR
+c$regulation#SPACE#of#SPACE#polysaccharide#SPACE#biosynthetic#SPACE#process	c$rseB
+c$response#SPACE#to#SPACE#leucine	c$lrp
+c$enzyme#SPACE#active#SPACE#site#SPACE#formation	c$pflA
+c$positive#SPACE#regulation#SPACE#of#SPACE#isoprenoid#SPACE#metabolic#SPACE#process	c$elbB
+c$iron#SPACE#incorporation#SPACE#into#SPACE#metallo-sulfur#SPACE#cluster	c$ytfE c$cyaY
+c$adenine#SPACE#salvage	c$hpt c$apt
+c$ethanolamine#SPACE#catabolic#SPACE#process	c$eutB
+c$negative#SPACE#regulation#SPACE#of#SPACE#phosphorelay#SPACE#signal#SPACE#transduction#SPACE#system	c$mgrB
+c$4-(trimethylammonio)butanoate#SPACE#transport	c$caiT
+c$protein#SPACE#carbamoylation	c$hypF
+c$vitamin#SPACE#B6#SPACE#biosynthetic#SPACE#process	c$pdxY
+c$peptidyl-lysine#SPACE#hydroxylation#SPACE#involved#SPACE#in#SPACE#bacterial-type#SPACE#EF-P#SPACE#lysine#SPACE#modification	c$epmC
+c$galacturonate#SPACE#catabolic#SPACE#process	c$yidR
+c$regulation#SPACE#of#SPACE#ion#SPACE#transmembrane#SPACE#transporter#SPACE#activity	c$ptsN
+c$regulation#SPACE#of#SPACE#cellular#SPACE#carbohydrate#SPACE#catabolic#SPACE#process	c$dctR
+c$diacetylchitobiose#SPACE#metabolic#SPACE#process	c$chiP
+c$rRNA#SPACE#pseudouridine#SPACE#synthesis	c$rluA
+c$D-amino#SPACE#acid#SPACE#metabolic#SPACE#process	c$dcyD
+c$response#SPACE#to#SPACE#manganese#SPACE#ion	c$mntP
+c$uridine#SPACE#catabolic#SPACE#process	c$udp
+c$nucleoid#SPACE#organization	c$seqA
+c$calcium#SPACE#ion#SPACE#transmembrane#SPACE#transport	c$yrbG
+c$inositol#SPACE#phosphate#SPACE#dephosphorylation	c$suhB
+c$bacterial-type#SPACE#flagellum#SPACE#organization	c$flhE
+c$cytosolic#SPACE#valyl-tRNA#SPACE#aminoacylation	c$valS
+c$regulation#SPACE#of#SPACE#response#SPACE#to#SPACE#osmotic#SPACE#stress	c$envZ
+c$regulation#SPACE#of#SPACE#single-species#SPACE#biofilm#SPACE#formation#SPACE#on#SPACE#inanimate#SPACE#substrate	c$ymdB
+c$ferrous#SPACE#iron#SPACE#import#SPACE#across#SPACE#plasma#SPACE#membrane	c$feoA
+c$cellular#SPACE#response#SPACE#to#SPACE#bacteriocin	c$tolA c$tolB
+c$protein-N6-(L-lysyl)-L-lysine#SPACE#modification#SPACE#to#SPACE#protein-N6-(beta-lysyl)-L-lysine	c$epmA
+c$response#SPACE#to#SPACE#organic#SPACE#cyclic#SPACE#compound	c$spy c$tolC
+c$lipid#SPACE#localization	c$lolB
+c$trans-translation-dependent#SPACE#protein#SPACE#tagging	c$smpB
+c$fatty#SPACE#acid#SPACE#beta-oxidation#COMMA##SPACE#unsaturated#COMMA##SPACE#even#SPACE#number	c$fadI
+c$nucleotide-excision#SPACE#repair	c$uvrD
+c$formaldehyde#SPACE#metabolic#SPACE#process	c$frmB
+c$L-lysine#SPACE#transmembrane#SPACE#transport	c$lysO c$cadB
+c$carbohydrate#SPACE#utilization	c$malX
+c$folic#SPACE#acid-containing#SPACE#compound#SPACE#metabolic#SPACE#process	c$folX
+c$lysine#SPACE#biosynthetic#SPACE#process#SPACE#via#SPACE#aminoadipic#SPACE#acid	c$yieE c$acpT
+c$regulation#SPACE#of#SPACE#carbohydrate#SPACE#catabolic#SPACE#process	c$frsA
+c$DNA#SPACE#synthesis#SPACE#involved#SPACE#in#SPACE#double-strand#SPACE#break#SPACE#repair#SPACE#via#SPACE#homologous#SPACE#recombination	c$recT
+c$D-alanine#SPACE#transport	c$cycA
+c$positive#SPACE#regulation#SPACE#of#SPACE#protein#SPACE#dephosphorylation	c$cheA
+c$regulation#SPACE#of#SPACE#polyamine#SPACE#biosynthetic#SPACE#process	c$atoC
+c$negative#SPACE#regulation#SPACE#of#SPACE#DNA-dependent#SPACE#DNA#SPACE#replication	c$sbmC
+c$maltose#SPACE#catabolic#SPACE#process	c$malQ
+c$negative#SPACE#regulation#SPACE#of#SPACE#cytokinesis	c$sulA
+c$sialic#SPACE#acid#SPACE#transport	c$nanT
+c$peptidyl-pyrromethane#SPACE#cofactor#SPACE#linkage	c$hemC
+c$seryl-tRNA#SPACE#aminoacylation	c$serS
+c$translational#SPACE#initiation	c$infB c$fmt
+c$protein#SPACE#targeting	c$secA c$secB
+c$regulation#SPACE#of#SPACE#nitrogen#SPACE#utilization	c$glnD c$glnB
+c$positive#SPACE#regulation#SPACE#of#SPACE#macromolecule#SPACE#biosynthetic#SPACE#process	c$pspC
+c$phenylpropanoid#SPACE#catabolic#SPACE#process	c$mhpB
+c$L-phenylalanine#SPACE#biosynthetic#SPACE#process#SPACE#from#SPACE#chorismate#SPACE#via#SPACE#phenylpyruvate	c$aspC c$tyrB
+c$putrescine#SPACE#biosynthetic#SPACE#process	c$speB c$speA
+c$peptidyl-lysine#SPACE#acetylation	c$acs
+c$positive#SPACE#regulation#SPACE#of#SPACE#fatty#SPACE#acid#SPACE#biosynthetic#SPACE#process	c$fadR
+c$hypoxanthine#SPACE#salvage	c$add
+c$water#SPACE#transport	c$aqpZ
+c$mRNA#SPACE#polyadenylation	c$rpsO c$pcnB
+c$myo-inositol#SPACE#hexakisphosphate#SPACE#dephosphorylation	c$appA
+c$positive#SPACE#regulation#SPACE#of#SPACE#cytoskeleton#SPACE#organization	c$cbeA
+c$cellular#SPACE#response#SPACE#to#SPACE#zinc#SPACE#ion#SPACE#starvation	c$ykgM c$zinT
+c$cellular#SPACE#response#SPACE#to#SPACE#hypoxia	c$ynhF
+c$polysaccharide#SPACE#metabolic#SPACE#process	c$wcaJ
+c$cytosine#SPACE#catabolic#SPACE#process	c$codA
+c$NADP#SPACE#biosynthetic#SPACE#process	c$nadK
+c$regulation#SPACE#of#SPACE#anion#SPACE#transmembrane#SPACE#transport	c$clcB c$yfeO c$clcA
+c$negative#SPACE#regulation#SPACE#of#SPACE#protein#SPACE#modification#SPACE#process	c$cheA
+c$lactate#SPACE#transmembrane#SPACE#transport	c$lldP c$glcA
+c$L-serine#SPACE#transport	c$tdcC
+c$negative#SPACE#regulation#SPACE#of#SPACE#chromosome#SPACE#organization	c$yfbV
+c$response#SPACE#to#SPACE#selenite#SPACE#ion	c$tsgA
+c$regulation#SPACE#of#SPACE#cell#SPACE#septum#SPACE#assembly	c$minC
+c$negative#SPACE#regulation#SPACE#of#SPACE#phosphate#SPACE#transmembrane#SPACE#transport	c$phoU
+c$maturation#SPACE#of#SPACE#SSU-rRNA#SPACE#from#SPACE#tricistronic#SPACE#rRNA#SPACE#transcript#SPACE#(SSU-rRNA#COMMA##SPACE#5.8S#SPACE#rRNA#COMMA##SPACE#LSU-rRNA)	c$rpsI c$rpsK
+c$purine#SPACE#nucleobase#SPACE#transport	c$ghxP
+c$phospholipid#SPACE#dephosphorylation	c$pgpA
+c$peptidyl-lysine#SPACE#trimethylation	c$prmA
+c$cyanate#SPACE#catabolic#SPACE#process	c$cynS c$cynT c$cynX
+c$macromolecule#SPACE#deacylation	c$pgaB
+c$pyrimidine#SPACE#nucleobase#SPACE#salvage	c$yjjG
+c$D-serine#SPACE#transport	c$cycA c$dsdX
+c$3'#COMMA#5'-cyclic#SPACE#diguanylic#SPACE#acid#SPACE#metabolic#SPACE#process	c$pdeK
+c$thymine#SPACE#catabolic#SPACE#process	c$rutA
+c$peptidoglycan-based#SPACE#cell#SPACE#wall#SPACE#biogenesis	c$ynbB c$envC
+c$regulation#SPACE#of#SPACE#intracellular#SPACE#pH	c$nhaA c$yjcE
+c$ketone#SPACE#catabolic#SPACE#process	c$dhaK
+c$ornithine#SPACE#catabolic#SPACE#process	c$astC
+c$protoporphyrinogen#SPACE#IX#SPACE#metabolic#SPACE#process	c$hemH
+c$thiazole#SPACE#biosynthetic#SPACE#process	c$thiI
+c$cellular#SPACE#stress#SPACE#response#SPACE#to#SPACE#acidic#SPACE#pH	c$cadB
+c$tRNA#SPACE#acetylation	c$tmcA
+c$negative#SPACE#regulation#SPACE#of#SPACE#glucose#SPACE#import	c$sgrT
+c$sulfur#SPACE#amino#SPACE#acid#SPACE#metabolic#SPACE#process	c$csdA
+c$proline#SPACE#catabolic#SPACE#process#SPACE#to#SPACE#glutamate	c$putA
+c$N-terminal#SPACE#peptidyl-alanine#SPACE#acetylation	c$rimI
+c$hexose#SPACE#phosphate#SPACE#transport	c$uhpT
+c$bacterial-type#SPACE#DNA#SPACE#replication	c$rep
+c$cytokinetic#SPACE#process	c$dedD
+c$cellobiose#SPACE#catabolic#SPACE#process	c$ascB
+c$lactate#SPACE#biosynthetic#SPACE#process	c$hchA
+c$mannitol#SPACE#catabolic#SPACE#process	c$mtlD
+c$protein#SPACE#localization	c$secB
+c$regulation#SPACE#of#SPACE#RNA#SPACE#metabolic#SPACE#process	c$csrD
+c$glucuronoside#SPACE#catabolic#SPACE#process	c$uidA
+c$transcription-coupled#SPACE#nucleotide-excision#SPACE#repair	c$mfd
+c$chromosome#SPACE#condensation	c$mukB
+c$catabolic#SPACE#process	c$aes
+c$L-alanine#SPACE#oxidation#SPACE#to#SPACE#pyruvate#SPACE#via#SPACE#D-alanine	c$dadA
+c$response#SPACE#to#SPACE#lithium#SPACE#ion	c$nhaB
+c$pyrimidine-containing#SPACE#compound#SPACE#transmembrane#SPACE#transport	c$nupG
+c$DNA#SPACE#replication#SPACE#termination	c$tus
+c$conjugation	c$ompA
+c$tRNA#SPACE#guanine#SPACE#ribose#SPACE#methylation	c$trmH
+c$multi-organism#SPACE#cellular#SPACE#process	c$yiaF
+c$positive#SPACE#regulation#SPACE#of#SPACE#nitrogen#SPACE#utilization	c$glnK
+c$coenzyme#SPACE#biosynthetic#SPACE#process	c$ubiX
+c$acetyl-CoA#SPACE#biosynthetic#SPACE#process#SPACE#from#SPACE#pyruvate	c$aceF
+c$charged-tRNA#SPACE#amino#SPACE#acid#SPACE#modification	c$fmt
+c$nicotinamide#SPACE#riboside#SPACE#transport	c$pnuC
+c$chromosome#SPACE#separation	c$topB
+c$activation#SPACE#of#SPACE#protein#SPACE#kinase#SPACE#activity	c$ptsN
+c$tartrate#SPACE#metabolic#SPACE#process	c$ttdA
+c$CDP-diacylglycerol#SPACE#biosynthetic#SPACE#process	c$cdsA
+c$cellular#SPACE#carbohydrate#SPACE#catabolic#SPACE#process	c$pfkA
+c$mRNA#SPACE#stabilization	c$deaD
+c$deoxyinosine#SPACE#catabolic#SPACE#process	c$xapA
+c$beta-alanine#SPACE#transport	c$cycA
+c$ornithine#SPACE#transport	c$argT
+c$peptidyl-methionine#SPACE#modification	c$def
+c$positive#SPACE#regulation#SPACE#of#SPACE#cell#SPACE#division	c$pbpC
+c$positive#SPACE#regulation#SPACE#of#SPACE#protein#SPACE#catabolic#SPACE#process	c$sspB
+c$bile#SPACE#acid#SPACE#catabolic#SPACE#process	c$hdhA
+c$cellular#SPACE#response#SPACE#to#SPACE#pH	c$phoU
+c$protein#SPACE#initiator#SPACE#methionine#SPACE#removal	c$map
+c$bis(molybdopterin#SPACE#guanine#SPACE#dinucleotide)molybdenum#SPACE#biosynthetic#SPACE#process	c$mobA
+c$glutaminyl-tRNA#SPACE#aminoacylation	c$glnS
+c$regulation#SPACE#of#SPACE#fatty#SPACE#acid#SPACE#biosynthetic#SPACE#process	c$glnB
+c$negative#SPACE#regulation#SPACE#of#SPACE#protein#SPACE#binding	c$cptA
+c$peptidyl-glutamine#SPACE#methylation	c$prmB c$prmC
+c$molybdenum#SPACE#incorporation#SPACE#into#SPACE#molybdenum-molybdopterin#SPACE#complex	c$moeA
+c$UDP-glucose#SPACE#metabolic#SPACE#process	c$galU
+c$regulation#SPACE#of#SPACE#carbohydrate#SPACE#utilization	c$crr
+c$regulation#SPACE#of#SPACE#bacterial-type#SPACE#flagellum#SPACE#assembly	c$ybjN
+c$guanosine#SPACE#catabolic#SPACE#process	c$xapA
+c$S-methylmethionine#SPACE#metabolic#SPACE#process	c$mmuM
+c$L-arabinose#SPACE#catabolic#SPACE#process	c$araB
+c$riboflavin#SPACE#metabolic#SPACE#process	c$ribF
+c$cellular#SPACE#response#SPACE#to#SPACE#nutrient	c$ypdA
+c$plasmid#SPACE#partitioning	c$parE c$parC
+c$peptidyl-S-carbamoyl-L-cysteine#SPACE#dehydration	c$hypE
+c$poly-hydroxybutyrate#SPACE#biosynthetic#SPACE#process	c$ydcS
+c$cell#SPACE#wall#SPACE#macromolecule#SPACE#catabolic#SPACE#process	c$dacB
+c$response#SPACE#to#SPACE#oxygen#SPACE#levels	c$dosP
+c$zymogen#SPACE#activation	c$panZ
+c$cellular#SPACE#zinc#SPACE#ion#SPACE#homeostasis	c$fieF
+c$cellular#SPACE#phosphate#SPACE#ion#SPACE#homeostasis	c$phoU
+c$CDP-diacylglycerol#SPACE#catabolic#SPACE#process	c$cdh
+c$regulation#SPACE#of#SPACE#proteolysis	c$yccA c$cpxP
+c$cysteinyl-tRNA#SPACE#aminoacylation	c$cysS
+c$p-aminobenzoyl-glutamate#SPACE#transport	c$abgT
+c$glucose-6-phosphate#SPACE#transport	c$uhpT
+c$nickel#SPACE#cation#SPACE#transport	c$nikA
+c$neutral#SPACE#amino#SPACE#acid#SPACE#transport	c$livF
+c$regulation#SPACE#of#SPACE#nitrogen#SPACE#compound#SPACE#metabolic#SPACE#process	c$glnL
+c$lipid#SPACE#phosphorylation	c$yegS
+c$cellular#SPACE#lipid#SPACE#metabolic#SPACE#process	c$yheT
+c$dTTP#SPACE#catabolic#SPACE#process	c$mazG
+c$3-hydroxyphenylpropionic#SPACE#acid#SPACE#transport	c$mhpT
+c$protein-lysine#SPACE#lysylation	c$epmA
+c$L-ornithine#SPACE#transmembrane#SPACE#transport	c$potE
+c$cell#SPACE#volume#SPACE#homeostasis	c$cvrA
+c$intracellular#SPACE#signal#SPACE#transduction	c$rcsF
+c$N-acetylglucosamine#SPACE#metabolic#SPACE#process	c$yihS
+c$ATP#SPACE#synthesis#SPACE#coupled#SPACE#electron#SPACE#transport	c$cyoA
+c$tRNA#SPACE#4-thiouridine#SPACE#biosynthesis	c$thiI
+c$N-terminal#SPACE#protein#SPACE#amino#SPACE#acid#SPACE#modification	c$def
+c$negative#SPACE#regulation#SPACE#of#SPACE#phosphate#SPACE#metabolic#SPACE#process	c$phoU
+c$tRNA#SPACE#dihydrouridine#SPACE#synthesis	c$dusC
+c$fatty#SPACE#acid#SPACE#catabolic#SPACE#process	c$tesB
+c$pyrimidine#SPACE#deoxyribonucleoside#SPACE#salvage	c$dgt
+c$cytidine#SPACE#deamination	c$cdd
+c$lipoprotein#SPACE#biosynthetic#SPACE#process#SPACE#via#SPACE#signal#SPACE#peptide#SPACE#cleavage	c$lspA
+c$maintenance#SPACE#of#SPACE#unfolded#SPACE#protein	c$hslO
+c$N-terminal#SPACE#peptidyl-serine#SPACE#acetylation	c$rimL
+c$alanyl-tRNA#SPACE#aminoacylation	c$alaS
+c$cell#SPACE#morphogenesis	c$minC
+c$dTDP-rhamnose#SPACE#biosynthetic#SPACE#process	c$rfbB
+c$response#SPACE#to#SPACE#iron#SPACE#ion	c$fecB
+c$siderophore#SPACE#metabolic#SPACE#process	c$entD
+c$glucose#SPACE#6-phosphate#SPACE#metabolic#SPACE#process	c$alsK
+c$cytoplasmic#SPACE#translational#SPACE#termination	c$frr
+c$S-methylmethionine#SPACE#transport	c$mmuP
+c$toxin#SPACE#biosynthetic#SPACE#process	c$cvpA
+c$proline#SPACE#transmembrane#SPACE#transport	c$putP
+c$purine#SPACE#nucleotide#SPACE#salvage	c$add

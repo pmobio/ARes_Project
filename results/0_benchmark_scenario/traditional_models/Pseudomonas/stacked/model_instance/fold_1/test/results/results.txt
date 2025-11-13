@@ -1,0 +1,25 @@
+Overall metrics: 
+
+map: 1.0
+roc_auc: 1.0
+auc_pr: 1.0
+f1: 0.9866666666666666
+accuracy: 0.9994594594594595
+cm: [[1812    1]
+ [   0   37]]
+precision: 0.9736842105263158
+recall: 1.0
+----------------------------------
+Predicates
+
+metrics for confers#SPACE#resistance#SPACE#to: 
+map: 1.0
+auc_pr: 1.0
+roc_auc: 1.0
+f1: 0.9866666666666666
+accuracy: 0.9994594594594595
+cm: [[1812    1]
+ [   0   37]]
+precision: 0.9736842105263158
+recall: 1.0
+----------------------------------
