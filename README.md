@@ -4,9 +4,6 @@
   <img src="figure/Figure_abstract.png" width="800">
 </p>
 
-> ⚠️ Note: `figure/Figure_abstract.png` is not yet present in this directory — add it, or update this path once available.
-
-
 
 
 <p align="center">
