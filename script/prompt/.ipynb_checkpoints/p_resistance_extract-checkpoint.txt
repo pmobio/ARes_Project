@@ -1,0 +1,99 @@
+Please read the provided scientific article (including all Supplementary Materials) and extract all antibiotic resistance experiment data, especially those reporting quantifiable activity values such as:
+* Minimum Inhibitory Concentration (MIC)
+* MIC50 / MIC90
+* IC50 / EC50
+* Ki / Kd
+
+Output a Markdown table with exactly 16 columns, using the schema shown below:
+| Source | Pubmed | Organism | Strain | Genes | Mutation | Antibiotic | Class of Antibiotic | Mechanism of resistance | standard_relation | standard_type | standard_value | standard_units | Susceptibility | SMILES | Notes |
+Each row must represent one complete and independent experimental record.
+
+Field Definitions (for each column)
+    * Source: Article title (e.g., "Smith et al., 2022").
+    * Pubmed: PubMed ID (e.g., 34567890).
+    * Organism: Full species name (e.g., Escherichia coli).
+    * Strain: Specific isolate or ID (e.g., ATCC 700603).
+    * Genes: Comma-separated resistance genes (e.g., blaNDM-1, marA), or "-".
+    * Mutation: Specific mutation (e.g., T345I), "wild type", or "-".
+    * Antibiotic: Full drug name (no abbreviations).
+    * Class of Antibiotic: e.g., β-Lactams, Quinolones.
+    * Mechanism of resistance: e.g., "efflux pump", "lipid A modification", or "-".
+    * standard_relation: =, <, >, ≥, ≤.
+    * standard_type: MIC, IC50, EC50, Ki, Kd.
+    * standard_value: Numeric value only.
+    * standard_units: e.g., µg/mL, mM.
+    * Susceptibility: S, R, Intermediate, or "-".
+    * SMILES: Compound's canonical SMILES or "-".
+    * Notes: Any relevant context (e.g., "baseline susceptible strain") or "-".
+
+Extraction Requirements (STRICT)
+1、Column Count Consistency
+    * Every row must contain exactly 16 columns, separated by |.
+    * If a field is unknown or not reported, use “-” (not “same as above” or blank).
+2、Pipe Character Prohibition
+    * Do not include the character | in any field.
+    * If the original text contains a pipe (e.g., Rifampin | Isoniazid), replace it with / or ;.
+3、Markdown Table Priority
+    * If Markdown-style tables (i.e., contain lines like |---|---|---|) are present, they must be prioritized for extraction.
+    * These tables often contain high-fidelity, structured experimental results—do not skip or ignore them.
+    * Fully extract all rows from such tables.
+4、Non-Markdown Tables
+   * You must equally process and extract data from all visible tabular content, even if not formatted in Markdown.
+   * Pay special attention to:
+     - Tables presented as fixed-width or monospaced text blocks.
+     - Vertical or horizontal alignment implying tabular structure.
+   * For such content, treat each line as a potential structured row. Split based on consistent visual alignment or known field patterns.
+5、Supplementary Data Inclusion
+    * You must extract data from all Supplementary Materials (including tables, figures, appendices, or inline supplementary descriptions).
+    * Do not skip any record or value. Every MIC, IC50, Ki, Kd, or similar value must be included as a row.
+    * Treat Supplementary data with the same priority as main-text data.
+6、Unit and Value Handling
+    * Keep units exactly as reported (e.g., μg/mL, mM).
+    * For >6.4 μg/mL, set:
+        * standard_relation: >
+        * standard_value: 6.4
+        * standard_units: μg/mL
+7、Field Expansion & Normalization
+    * Expand all abbreviations, such as K. pneumoniae → Klebsiella pneumoniae, MEM → Meropenem
+    * Use full species and drug names only.
+8、Interpretation Must Be Explicit
+    * For wild-type strains:
+        * Set Mutation: wild type
+        * Set Genes: use “-” or wild type
+        * Leave Mechanism of resistance: use “-”
+        * Notes: set to “baseline susceptible strain”
+9、Multiple Antibiotic Conditions
+    * If multiple antibiotics are listed for a strain (e.g., Daptomycin and Vancomycin), extract each as a separate row—even if MIC values are unchanged or less emphasized in the narrative.
+10、Susceptibility Field Required
+    * Use only values explicitly provided in the article (S, R, Intermediate).
+    * If not given, use “-”.
+11、SMILES Extraction
+    * If a compound's SMILES string is reported anywhere in the article or supplement:
+        * Map that compound to its SMILES.
+        * Include the same SMILES in all rows using that compound.
+        * If no SMILES is provided, use “-”.
+    * Do not generate or infer SMILES.
+12、Matrix / Transposed Table Handling
+    * For tables with compounds as columns and strains as rows:
+        * Extract each cell as one strain × compound record.
+        * Properly reconstruct split strain names (e.g., line breaks).
+        * Use standard_type = MIC, unless otherwise stated.
+
+Output Format:
+    * Use pipe (|) symbols to separate fields.
+    * Start with the header row exactly as shown above.
+    * Each row must correspond to one distinct experimental record.
+    * Do not truncate or shorten data—output the complete table.
+    * **If multiple records exist in a table, output them in full, continuing seamlessly row-by-row.**
+    * **Do not truncate the output. You must print all rows in full. No summaries, no cutoffs.**
+    * **Never skip rows or use summaries like “table continues”. Extract and output all records in full.**
+
+Critical Final Instruction
+IMPORTANT: You must extract and print every row in the article and supplement without truncation or summarization. If the output is long, break it into multiple parts using Output Part X/Y markers — but continue printing all rows until complete.
+
+Example Output Format (Mandatory):
+| Source | Pubmed | Organism | Strain | Genes | Mutation | Antibiotic | Class of Antibiotic | Mechanism of resistance | standard_relation | standard_type | standard_value | standard_units | Susceptibility | SMILES | Notes |
+|--------|--------|----------|--------|--------|----------|------------|----------------------|--------------------------|-------------------|----------------|----------------|----------------|----------------|--------|-------|
+| Smith et al., 2021 | 34567890 | Klebsiella pneumoniae | ATCC BAA-1705 | blaKPC-2 | T243A | Meropenem | β-Lactams | β-lactamase production | = | MIC | 16 | μg/mL | R | - | Clinical isolate from bloodstream infection |
+| Zhao et al., 2023 | 37654123 | Escherichia coli | BW25113 ΔacrB | marA, acrR | wild type | Ciprofloxacin | Quinolones | efflux pump overexpression | ≥ | IC50 | 5.2 | μM | - | - | Resistance induced by IPTG activation |
+| Patel et al., 2020 | 31247856 | Acinetobacter baumannii | NDM-1 clinical isolate | blaNDM-1 | G193D | Colistin | Polymyxins | outer membrane modification | < | MIC | 0.5 | μg/mL | S | CC(=O)Oc1ccccc1C(=O)O | SMILES reported in supplementary Table S2 |

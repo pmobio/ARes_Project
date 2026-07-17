@@ -1,0 +1,38 @@
+Combine all previously generated or provided tables containing antibiotic resistance experiment data into a single, unified Markdown table.
+
+Target Output Format Use the exact 16-column structure shown below:
+| Source | Pubmed | Organism | Strain | Genes | Mutation | Antibiotic | Class of Antibiotic | Mechanism of resistance | standard_relation | standard_type | standard_value | standard_units | Susceptibility | SMILES | Notes |
+
+Strict Formatting and Merging Rules:
+1. No Row Omission
+    * Do not omit or skip any row from any input table. All records must be preserved and merged.
+2. Fixed Column Order and Count
+    * Every row must have exactly 16 columns, in the order shown above.
+    * Rows with fewer than 16 fields must be padded with empty fields ("").
+    * Rows with more than 16 fields must have the extra content merged into the Notes field.
+3. Pipe Character Restriction
+    * Do not include the pipe character | in any field value.
+    * If a field contains a pipe-like phrase (e.g., “Ampicillin | Kanamycin”), replace with / or ;.
+4. Unit Preservation
+    * Preserve all units as reported (e.g., μg/mL, mg/L). Do not standardize or convert units.
+5. Value Formatting
+    * standard_value must contain numeric values only (e.g., 0.5, 32, or 2.5 × 10^3).
+    * The corresponding standard_units field must contain the unit (e.g., μg/mL).
+    * Do not include units in the standard_value field.
+6. Do Not Deduplicate
+    * Even if multiple rows refer to the same strain or gene, treat each record as independent.
+    * Do not merge or collapse rows.
+7. Empty Fields Allowed
+    * If a field is not reported, leave it blank (""). Do not use placeholders like N/A, -, or “same as above”.
+8. Output Format Rules
+    * Begin with the exact header row shown above.
+    * Use Markdown syntax with pipe | characters to separate fields.
+    * Output only the table. No explanations, summaries, or comments.
+    * The final output must be fully machine-readable with strict row-column alignment.
+
+Example (Structure Only):
+| Source | Pubmed | Organism | Strain | Genes | Mutation | Antibiotic | Class of Antibiotic | Mechanism of resistance | standard_relation | standard_type | standard_value | standard_units | Susceptibility | SMILES | Notes |
+|--------|--------|----------|--------|--------|----------|------------|----------------------|--------------------------|-------------------|----------------|----------------|----------------|----------------|--------|-------|
+| Smith et al., 2021 | 34567890 | Klebsiella pneumoniae | ATCC BAA-1705 | blaKPC-2 | T243A | Meropenem | β-Lactams | β-lactamase production | = | MIC | 16 | μg/mL | R | - | Clinical isolate from bloodstream infection |
+| Zhao et al., 2023 | 37654123 | Escherichia coli | BW25113 ΔacrB | marA, acrR | wild type | Ciprofloxacin | Quinolones | efflux pump overexpression | ≥ | IC50 | 5.2 | μM | - | - | Resistance induced by IPTG activation |
+| Patel et al., 2020 | 31247856 | Acinetobacter baumannii | NDM-1 clinical isolate | blaNDM-1 | G193D | Colistin | Polymyxins | outer membrane modification | < | MIC | 0.5 | μg/mL | S | CC(=O)Oc1ccccc1C(=O)O | SMILES reported in supplementary Table S2 |

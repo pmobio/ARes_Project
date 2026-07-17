@@ -1,0 +1,36 @@
+# ==============================================================================
+# AResDB/AResKG Data Extraction Pipeline - Python Dependencies
+# ==============================================================================
+
+# --- Core ---
+pandas>=1.5.0
+numpy>=1.24.0
+tqdm>=4.60.0
+requests>=2.28.0
+
+# --- Step 1: Paper Retrieval ---
+pygetpapers>=1.2.0
+
+# --- Step 2: PDF Processing ---
+PyMuPDF>=1.24.0
+pymupdf4llm>=0.0.15
+python-docx>=1.0.0
+openpyxl>=3.1.0
+tabulate>=0.9.0
+
+# --- Step 5: Data Post-processing ---
+chembl-webresource-client>=0.10.0    # Optional: for SMILES lookup
+
+# --- Step 6: KG Construction ---
+# (No additional dependencies beyond pandas)
+
+# --- Visualization (Optional) ---
+matplotlib>=3.7.0
+seaborn>=0.12.0
+networkx>=3.0
+pyvis>=0.3.0
+plotly>=5.0.0
+
+# --- Utilities ---
+beautifulsoup4>=4.12.0
+tiktoken>=0.5.0
