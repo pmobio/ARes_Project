@@ -38,7 +38,7 @@ This repository provides a complete, reproducible pipeline for:
 ### Repository Contents
 
 - **`script/`** : the LLM-powered data extraction pipeline (Steps 1–6, see [Quick Start](#quick-start) below): paper retrieval → PDF→Markdown → LLM extraction → integration → post-processing → KG construction.
-- **`database/` / `demo/` / `figure/` / `results/`** : downstream resistance-gene link-prediction benchmarking suite (PRA, MLP, Stacked, GCN, GAT) built on top of AResKG; see [Downstream: Resistance Prediction & Benchmarking](#downstream-resistance-prediction--benchmarking).
+- **`demo/` / `figure/` / `results/`** : downstream resistance-gene link-prediction benchmarking suite (PRA, MLP, Stacked, GCN, GAT) built on top of AResKG; see [Downstream: Resistance Prediction & Benchmarking](#downstream-resistance-prediction--benchmarking).
 - **`environment.yaml`** : unified conda environment covering both the upstream LLM extraction pipeline and the downstream GNN resistance-prediction pipeline.
 - **`script/prompt/`** : prompt used for data extraction.
 
@@ -413,8 +413,8 @@ This directory  contains the benchmarking suite used to evaluate link-prediction
 
 ### Subdirectory Layout
 
-- **`database/`** — source data for AResDB, AResKG, and per-species KG construction (top 5 species).
 - **`demo/`** — notebooks/utilities for result aggregation, model training, evaluation, and performance visualization.
+- **`gnn/`** — code for  GCN, and GAT model.
 - **`results/`** — prediction outputs and evaluation metrics (PRA/MLP/Stacked/GCN/GAT, both benchmark and KIDS-comparison scenarios).
 - **`figure/`** — generated figures for the two benchmarking scenarios: (i) multi-species benchmarking and (ii) graph comparison between **AResKG** and **KIDS**.
 
