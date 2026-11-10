@@ -509,7 +509,7 @@ If you use this pipeline, AResDB, or AResKG in your research, please cite:
 @article{yang2026LLMpowered,
   title={LLM-powered construction of antibiotic resistance datasets and knowledge graphs for accelerated resistance gene discovery},
   author={Ziyi Yang, Jie Ren, Chuanze Kang, Wei Liu, Man Tat Alexander Ng},
-  journal={npj Antimicrobials and Resistance, under review},
+  journal={npj Antimicrobials and Resistance},
   year={2026}
 }
 ```
